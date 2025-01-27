@@ -1,0 +1,634 @@
+company_name,job_role,job_location,salary_lpa,skills,company_rating,standardized_job_role
+Bosch Group,Backend Developer-Support Engineer,Telangana,19.774,".NET, SQL, PostgreSQL",4.1,Support Engineer
+AlphaSense India,Customer & Product Support Analyst,Pune,7.0,"Analysis skills, AI, Communication skills, Time management",3.8,Support Engineer
+AlphaSense,Customer & Product Support Analyst,Pune,7.0,"Analysis skills, AI, Communication skills, Time management",3.8,Support Engineer
+Barclays,Application Support Analyst,Pune,7.5,"Oracle, Business intelligence, SAS, DB2, Microsoft SQL Server",3.9,Support Engineer
+CIRCOR,IT Support Analyst,Coimbatore,42.0,"ERP systems, Network infrastructure, Project management, Team management, Data analytics",3.7,Support Engineer
+NTT DATA,IT Support Analyst,India,20.791818181818183,"Spanish, SAP, English, SQL, AWS",3.8,Support Engineer
+"PRGX Global, Inc",Support Analyst,Pune,5.5,"Microsoft Excel, Microsoft Access, Microsoft Outlook, Business intelligence, Accounts payable",3.5,Support Engineer
+Gallagher,Business Analyst Lead: Technical Support,Bengaluru,6.0,"Business analysis, Technical support, Analysis skills, Project management",3.6,Support Engineer
+Kinaxis Inc.,"Manager, Customer Support - Analytics",India,23.336363636363636,"Management, Customer service, Supply chain, Windows, Microsoft Office",4.0,Support Engineer
+NASDAQ,Senior Customer Support/Operations Specialist,Mumbai,5.5,"JBoss, English, Java, SQL, Quality assurance",4.1,Support Engineer
+Thomson Reuters,Platform Support Analyst,Bengaluru,42.0,"Data modeling, DevOps, Alteryx, Git, Java",4.1,Support Engineer
+BLACK HOLE INFOSYSTEMS,Cloud Support Engineer,Chennai,2.22,Cloud infrastructure,0.0,Support Engineer
+Talentxo,"Product Support Engineer (RDBMS, SQL, Cloud Technologies)",Remote,30.0,"Performance tuning, Azure, Oracle, Microsoft SQL Server, Databases",3.7,Support Engineer
+DigitalOcean,Cloud Support Engineer,Hyderābād,5.0,"Jira, Cloud infrastructure, Incident management, Salesforce, Debian",3.7,Support Engineer
+ASWAT,L1 Support Engineer,Remote,4.073035714285714,"English, VoIP, IT support, Computer networking, APIs",0.0,Support Engineer
+Stacknize Solution LLP,Application Support Engineer Intern,Remote,4.073035714285714,"Software troubleshooting, Business analysis, Java, Quality assurance, Linux",0.0,Support Engineer
+"AmvionLabs Pvt Ltd.,",Cloud Support Engineer,Chennai,3.0,"CI/CD, Cloud infrastructure, Azure, Ansible, DevOps",0.0,Support Engineer
+Fluid.Live Solutions Pvt Ltd,Cloud Support Engineer,Pune,4.2,"Jira, Network administration, TCP, Cloud infrastructure, Azure",4.4,Support Engineer
+Barclays,Public Cloud Support Engineer,Pune,7.0,"CI/CD, Azure, Incident management, Kubernetes, Git",3.9,Support Engineer
+Skilltasy,Sr. Cloud Support Engineer,Hyderābād,7.0,"Scripting, VMWare, vSphere, Python, vCenter",0.0,Support Engineer
+MicroStrategy India,Cloud Support Engineer,Nāgpur,6.0,"System administration, Azure, Business intelligence, Software troubleshooting, XML",3.4,Support Engineer
+AWS India - Telangana,Cloud Support Engineer (BigData),Hyderābād,7.5,"TCP, System administration, Cassandra, Load balancing, Spark",3.6,Support Engineer
+CloudThat Technologies Pvt. Ltd.,Cloud Support Engineer,Ahmedabad,30.0,"Jira, CI/CD, Cloud infrastructure, Azure, Software troubleshooting",4.0,Support Engineer
+AWS India - Telangana,Cloud Support Engineer (Cont),Hyderābād,7.5,"JBoss, CI/CD, TCP, System administration, Kubernetes",3.6,Support Engineer
+DigitalOcean,Associate Cloud Support Engineer - Managed Databases,Hyderābād,5.0,"Oracle, Node.js, MongoDB, PHP, PostgreSQL",3.7,Support Engineer
+Webspiders Interweb Pvt Ltd,Cloud Support Engineer,India,2.1,"Technical support, Analysis skills, Communication skills",2.4,Support Engineer
+ZADARA STORAGE,Cloud Support Engineer I,Bengaluru,5.0,"Cloud infrastructure, System administration, Azure, Cloud architecture, Customer service",3.4,Support Engineer
+IndiQus Technologies,Cloud Support Engineer,Delhi,4.073035714285714,"Cloud infrastructure, System administration, NFS, English, OpenStack",0.0,Support Engineer
+AWS India - Telangana,Cloud Support Engineer (Database),Hyderābād,7.5,"Performance tuning, Oracle, Software troubleshooting, Load balancing, Database administration",3.6,Support Engineer
+Econz IT solutions,Support Engineer - Cloud Tech,Bengaluru,13.571428571428571,"Cloud infrastructure, Communication skills, Time management",4.2,Support Engineer
+Luxoft,Cloud Support Engineer,Bengaluru,7.0,"CI/CD, Azure, Ansible, Git, English",3.7,Support Engineer
+Sprinto,Product Support Engineer - Remote,Remote,13.571428571428571,"Cloud infrastructure, English, Technical support, Information security, APIs",4.2,Support Engineer
+fluidonomics Solutions,Cloud Support Engineer,Pune,42.0,"Jira, Network administration, TCP, Cloud infrastructure, Azure",4.4,Support Engineer
+AWS India - Telangana,Cloud Support Engineer I (Media & Content Delivery),Hyderābād,7.5,"SFTP, TCP, System administration, Cloud architecture, Tomcat",3.6,Support Engineer
+Infor,"Desktop Support Engineer, Associate",Hyderābād,8.5,"Microsoft Windows Server, Microsoft Powerpoint, TCP, English, Windows",4.0,Support Engineer
+AWS India - Tamil Nadu,"Cloud Support Associate, Support Engineering",Bengaluru,7.0,"TCP, System administration, C#, Solaris, Windows",3.6,Support Engineer
+Virtusa,Production Support Engineer,Bengaluru,4.5,"Software troubleshooting, Splunk, New Relic",3.7,Support Engineer
+The Modern Data Company,Platform Support Engineer,India,4.46235294117647,"Azure, Incident management, Kubernetes, SQL, AWS",3.3,Support Engineer
+AWS India - Karnataka,Cloud Support Engineer (Networking),Bengaluru,7.0,"TCP, AWS, SSL, BGP, Routing protocols",3.6,Support Engineer
+Microsoft,Technical Support Engineering,India,13.571428571428571,"Authentication, Azure, CSS, Customer service, Load balancing",4.2,Support Engineer
+Picus,TAC Support Engineer (India),Remote,27.24,"TCP, System administration, English, Research, Windows",4.4,Support Engineer
+Boost Tech,Senior Tech Support Engineer,Bengaluru,7.0,"Asset management, System administration, Software troubleshooting, Microsoft SQL Server, Windows",0.0,Support Engineer
+Umbrella Infocare,AWS Cloud Support Engineer,Noida,42.0,"TCP, Cloud infrastructure, Azure, Load balancing, Encryption",3.9,Support Engineer
+InfoObjects,Application Support Engineer,Remote,16.60909090909091,"Operating systems, Oracle, Software troubleshooting, WebSphere, Java",4.3,Support Engineer
+ChargePoint,Associate Technical Support Engineer,Bengaluru,5.5,"Jira, TCP, Software troubleshooting, Salesforce, English",3.3,Support Engineer
+Stitched Textile Limited,IT Support Engineer,Ahmedabad,4.2,"System administration, Software troubleshooting, ERP systems, Network protocols, IT support",0.0,Support Engineer
+Agrigator pvt Ltd.,IT Support Engineer,Mumbai,6.0,"TCP, LAN, Windows, Microsoft Office, DHCP",0.0,Support Engineer
+Adhaan Solution Pvt. Ltd.,IT Support Engineer,Bengaluru,5.5,"Microsoft Windows Server, Azure, Inventory control, Procurement, Windows",0.0,Support Engineer
+LanceTech Solutions Pvt Ltd,Desktop Support Engineer,Gurgaon,11.0,"Microsoft Powerpoint, Microsoft Word, Desktop support, Microsoft Excel, Microsoft Outlook",4.6,Support Engineer
+Everstage,Tech Support Engineer (Contract) (Remote),Chennai,7.0,"Jira, Azure, Incident management, Technical support, AWS",4.7,Support Engineer
+Paymentology,Advanced Customer Support Engineer - India,Remote,15.544571428571428,"Incident management, DevOps, English, SQL, PostgreSQL",4.6,Support Engineer
+Renous Consulting,Senior Product Support Engineer,Remote,22.5,"Performance tuning, Azure, Oracle, Microsoft SQL Server, Google Cloud Platform",0.0,Support Engineer
+Techminds India Pvt Ltd,Cloud Support Engineer,India,10.5,"CI/CD, Cloud infrastructure, Azure, Cloud architecture, Ansible",0.0,Support Engineer
+BETSOL,Technical Support Engineer,Bengaluru,24.0,"English, Technical support, Conflict management, Computer networking, Computer skills",3.9,Support Engineer
+Infusai Solutions,Cloud Services Technical Support Engineer,Bhopal,5.5,"Azure, English, Technical support, Microsoft Office, SharePoint",3.8,Support Engineer
+REIZEND PRIVATE LIMITED,TECHNICAL SUPPORT ENGINEER,India,8.0,"Jira, CI/CD, Incident management, Software troubleshooting, Kubernetes",3.6,Support Engineer
+Dixit Infotech,Application Support Engineer,India,23.336363636363636,"Microsoft Powerpoint, Agile, Application support, Communication skills",4.0,Support Engineer
+Wiplon,Technical Support Associate/Cloud Support Engineer,Jaipur,4.5,"Live chat, Technical support, Communication skills",0.0,Support Engineer
+Atlassian,"Senior Support Engineer, Cloud Migrations",Bengaluru,8.5,"SSO, Windows, Java, SQL, SSL",3.7,Support Engineer
+Boomi Careers Page,Product Support Engineer - Triage (NAM),Hyderābād,6.5,"System administration, Azure, Software troubleshooting, React, Salesforce",3.3,Support Engineer
+Norstella,Application Support Engineer,Remote,4.533333333333333,"Azure, C#, .NET, Java, SQL",3.4,Support Engineer
+CloudAge Global Services,Technical Support Engineer – Cloud Support Desk,Pune,5.0,"FTP, TCP, Cloud infrastructure, Operating systems, English",4.6,Support Engineer
+Veeva Systems,Product Support Engineer,Hyderābād,4.5,"Jira, Software troubleshooting, Enterprise Software, English, Zendesk",3.6,Support Engineer
+Boost Tech,Application Support Engineer,Ahmedabad,6.5,"Live chat, Salesforce, Technical support, SQL, REST",0.0,Support Engineer
+AnugrahHrservices,L2 Support Engineer,Nāgpur,6.6,"Power BI, SCCM, Windows, Microsoft Office, SharePoint",0.0,Support Engineer
+AWS India - Karnataka,Cloud Support Engineer (Database),Bengaluru,7.0,"Performance tuning, Oracle, Software troubleshooting, Load balancing, Windows",3.6,Support Engineer
+BirlaSoft,Desktop Support Engineer-Chennai,Mumbai,48.0,"Computer operation, Desktop support, Software troubleshooting, SAP, DHCP",3.6,Support Engineer
+Alobha Technologies Pvt. Ltd,IT Support Engineer / System Engineer,Noida,21.6,"Network administration, Azure, Operating systems, Software troubleshooting, Git",4.1,Support Engineer
+Cloud Solutions hub pvt ltd,Application Support Engineer,India,7.0,"Microsoft Office, SQL, Banking",0.0,Support Engineer
+UPS India,Google Cloud Infrastructure Support Engineer,Chennai,48.0,"Cloud infrastructure, Cloud architecture, Kubernetes, Software deployment, Google Cloud Platform",3.5,Support Engineer
+AWS India - Telangana,Cloud Support Engineer (Deployment),Hyderābād,7.5,"JBoss, Go, Node.js, Kubernetes, Ansible",3.6,Support Engineer
+Boost Tech,Senior IT Support Engineer,Bengaluru,4.5,"Asset management, System administration, Operating systems, Software troubleshooting, Microsoft SQL Server",0.0,Support Engineer
+The Viswa Group,Customer support and Reporting Analyst,India,7.5,"Customer service, English, Technical support, Customer support, Communication skills",0.0,Support Engineer
+Talentxo,"Product Support Engineer (RDBMS, SQL, Cloud Technologies)",Remote,35.0,"Performance tuning, Azure, Oracle, Microsoft SQL Server, Databases",3.7,Support Engineer
+Renous Consulting,Senior Product Support Engineer,Remote,25.0,"Performance tuning, Azure, Oracle, Microsoft SQL Server, Google Cloud Platform",0.0,Support Engineer
+TechyBex,Database Support Engineer,Noida,4.073035714285714,"Oracle, Microsoft SQL Server, NoSQL, MongoDB, Databases",0.0,Support Engineer
+Balsam united co.ltd,IT Support Specialist,Hyderābād,2.5,"Jira, System administration, Software troubleshooting, IT support, Organizational skills",0.0,Support Engineer
+Link Group,IT Support Analyst,Pune,4.41,"Operating systems, WebSphere, IT service management, J2EE, Microsoft Office",3.5,Support Engineer
+Owens & Minor India Private Limited,Associate Systems Support Engineer,Pune,5.88,"Microsoft Windows Server, System administration, Operating systems, Software troubleshooting, Windows",3.3,Support Engineer
+ZS,Technical Support Associate,Pune,8.23,"Microsoft Outlook, Software troubleshooting, SCCM, Customer service, iOS",3.6,Support Engineer
+Helius Technologies,Junior Support Engineer,India,13.571428571428571,"TCP, Oracle, Software troubleshooting, Software deployment, Microsoft SQL Server",4.2,Support Engineer
+Netcluse Technologies P. LTD,Technical Analyst,India,10.0,"ASP.NET, Azure, .NET Core, C#, Microsoft SQL Server",0.0,Support Engineer
+GreenTech ITS,(DBA) and Customer Support Engineer,India,6.0,"Microsoft Windows Server, Management, Software troubleshooting, Disaster recovery, SQL",0.0,Support Engineer
+Lighthouse Document Technologies Inc,Application Support Engineer AP,Bengaluru,6.375,"Software troubleshooting, Microsoft SQL Server, Administrative experience, SQL Server Management Studio, Scripting",3.6,Support Engineer
+Ericsson,Support Engineer ENM,Gurgaon,5.94,"System administration, Virtualization, Sybase, VMWare, Linux",4.0,Support Engineer
+Accenture,Application Support Engineer,Mumbai,20.791818181818183,"Software troubleshooting, WebSphere, REST, Application support",3.8,Support Engineer
+Konnect Analytics India Pvt Ltd,Customer Support Associate,India,1.98,"Software troubleshooting, Customer service, ERP systems, Microsoft SQL Server, English",0.0,Support Engineer
+Atomicwork Inc,Product Support Engineer,Chennai,4.5,"Cloud infrastructure, System administration, Azure, CSS, Customer service",0.0,Support Engineer
+Amrut Software,DevOps Support Engineer,Mumbai,23.336363636363636,"CI/CD, System administration, DevOps, Git, Database administration",4.0,Support Engineer
+"LotusFlare, Inc.",DevOps Support Engineer,Pune,7.0,"CI/CD, TCP, Cloud infrastructure, Kubernetes, Enterprise Software",4.3,Support Engineer
+TechBiz Global GmbH,DevOps Support Engineer (India),Delhi,15.544571428571428,"Cloud infrastructure, Azure, English, Windows, AWS",4.6,Support Engineer
+BNP Paribas,Platform Support Engineer - Devops,Mumbai,6.0,"CI/CD, Cloud architecture, Kubernetes, Ansible, IIS",3.8,Support Engineer
+Embien Technologies India Pvt,Embedded Hardware Support Engineer,India,0.6,"Soldering, Embedded software, Scripting, Python",0.0,Support Engineer
+Xplor,Support Engineer,Pune,6.5,"Software troubleshooting, C#, Technical support, .NET, SQL",3.5,Support Engineer
+Apple,Cellular Layer1/Firmware Triage and Target Support Engineer,Bengaluru,19.774,"5G, C++, Electrical experience, C, Embedded software",4.1,Support Engineer
+ADCI - Karnataka - A66,"Lab Support engineer, Ring Software/Firmware",Bengaluru,7.0,"Software troubleshooting, Mobile applications, iOS, Test automation, Technical support",3.6,Support Engineer
+PeerLogic Systems,Telecom Applications Support Engineer,Pune,5.5,"Analysis skills, C++, VoIP, C, Linux",4.2,Support Engineer
+MatchMove Pay Pte Ltd,Technical Production Support Engineer (Customer Facing),Bengaluru,48.0,"CI/CD, Ansible, Terraform, Continuous integration, New Relic",3.7,Support Engineer
+Rippling,"Customer Support Specialist, IT",Bengaluru,9.5,"Process improvement, English, APIs, Communication skills, Time management",4.0,Support Engineer
+Codelattice,Technical Support Specialist,Remote,8.5,"Operating systems, Software troubleshooting, Windows, Technical support, Quality assurance",4.7,Support Engineer
+DV HR India,IT Support Specialist,India,3.6,"Software troubleshooting, ERP systems, Microsoft Office, ServiceNow",0.0,Support Engineer
+Balsam united co.ltd,IT Support Specialist,Hyderābād,2.5,"Jira, System administration, Software troubleshooting, IT support, Organizational skills",0.0,Support Engineer
+"Stefanini, Inc",IT Support Specialist,Mumbai,5.5,"Software troubleshooting, Customer service, Microsoft Office, Remote access software, ServiceNow",3.8,Support Engineer
+Artnico Handcrafts & Designs Pvt. Ltd,IT Support Specialist,Anjuna,2.7,"Software troubleshooting, Customer service, Microsoft Office, Administrative experience, IT support",0.0,Support Engineer
+ClockHash Technologies,Technical Support Specialist(Web Hosting),Remote,14.1,"Technical support, Communication skills, Dutch",4.8,Support Engineer
+Talent Instaa,IT Support Specialist-Infrastructure,Chennai,3.3,"Software troubleshooting, Computer hardware, IT support, ServiceNow, Manufacturing",0.0,Support Engineer
+Big Idea Technology LLC,"IT Support Specialist - Level 2/3 - Hyderabad, India",Hyderābād,4.5,"Software troubleshooting, iOS, Windows, IT support, MacOS",3.4,Support Engineer
+MathWorks,IT support specialist,Hyderābād,4.5,"Windows, Microsoft Office, IT support, ServiceNow, Computer skills",4.3,Support Engineer
+Convoso,IT Support Specialist,Vadodara,4.5,"Azure, Software troubleshooting, Salesforce, iOS, Google Cloud Platform",3.2,Support Engineer
+Mindelta,IT Support Engineer,Bengaluru,6.6,Project management,0.0,Support Engineer
+Kuoni Tumlare,IT Support Specialist,Delhi,19.774,"Azure, Microsoft Exchange, Technical support, ITIL, Communication skills",4.1,Support Engineer
+Powersonic Electric Solution India Private Limited,IT Support Specialist,Coimbatore,1.92,"Azure, Google Cloud Platform, Firewall, AWS, Computer hardware",0.0,Support Engineer
+THE RRKS,IT Support Specialist,India,2.7,"Microsoft Office, Firewall",0.0,Support Engineer
+Skeiron Group,IT Support Engineer,India,9.0,"Incident management, Software troubleshooting, Microsoft Office, SharePoint",0.0,Support Engineer
+Mind map IT Solutions,IT Support Specialist,India,5.34,"Software troubleshooting, Technical support, Project management, Computer hardware",0.0,Support Engineer
+Onecom,1st Line Technical Support Specialist (India),Gurgaon,36.0,Technical support,3.9,Support Engineer
+TexAu,Technical Support Specialist,Remote,2.7,"Technical support, Microsoft Office, JavaScript, APIs, Communication skills",0.0,Support Engineer
+Miltenyi Biotec,Global Technical Support Specialist (Flow and Clinical),Hyderābād,5.0,"Software troubleshooting, Tissue culture, Technical support",3.6,Support Engineer
+TEKION INDIA PRIVATE LIMITED,Technical Support Specialist,Chennai,5.0,"Software troubleshooting, Technical support, Microsoft Office, ServiceNow, Communication skills",0.0,Support Engineer
+Kaufman Rossin,IT Support Specialist,Bengaluru,6.0,"Network administration, Software troubleshooting, Customer service, IT support, Computer networking",4.1,Support Engineer
+Norstella,IT Support Specialist,Bengaluru,5.5,"Desktop support, Azure, Software troubleshooting, Remedy, Windows",3.4,Support Engineer
+Andolasoft,Technical Support Specialist,India,30.0,"Software troubleshooting, Technical support, Microsoft Office, ServiceNow",5.0,Support Engineer
+Moneybase plc,Junior IT Support Specialist - (Part-Time),India,4.073035714285714,"Software troubleshooting, Windows, Microsoft Office, Programmable logic controllers, IT support",0.0,Support Engineer
+Icuerious,IT Support Specialist,Mohali,21.461904761904762,"FTP, Software troubleshooting, Microsoft Office, IT support, VPN",3.9,Support Engineer
+Aaxis Commerce,IT Support Specialist,Pune,5.5,"Jira, Spanish, TCP, Azure, Operating systems",4.1,Support Engineer
+Sky Infotech,Technical Support Executive,Pimpri-Chinchwad,9.5,"English, Technical support, Microsoft Office, ServiceNow",3.6,Support Engineer
+Acute Informatics Pvt. Ltd,IT Support Engineer,Hyderābād,2.7,"Desktop support, Microsoft Outlook, Software troubleshooting, SCCM, IT service management",3.3,Support Engineer
+Cyderes,IT Support Specialist,Bengaluru,20.89470588235294,"SSO, TCP, Azure, Software troubleshooting, Customer service",3.5,Support Engineer
+Genesis HR Services,Technical Support Specialist,Hyderābād,5.0,"Microsoft Outlook, English, Microsoft Exchange, Technical support, Microsoft Office",3.3,Support Engineer
+bliss web solution,IT Support Engineer,Ahmedabad,42.0,"Software troubleshooting, Windows, IT support, Ubuntu, Communication skills",3.5,Support Engineer
+Armor Defense Inc,IT Support Specialist,Pune,5.5,"Jira, TCP, Software troubleshooting, English, Windows",3.3,Support Engineer
+OURS GLOBAL,IT Technical Support Specialist,Bengaluru,4.0,"Live chat, French, Desktop support, Spanish, Operating systems",3.0,Support Engineer
+Employ Inc.,Technical Support Specialist Tier ll,Bengaluru,6.0,"Technical support, Microsoft Office, APIs, Customer support, SaaS",2.3,Support Engineer
+Networsys Technologies,IT Support Engineer -L1,Noida,6.9,"Software troubleshooting, Computer hardware, IT support, ServiceNow, System security",3.6,Support Engineer
+Microsoft,Technical Support Engineering,Bengaluru,5.0,"CSS, English, Research, Technical support, IT",4.2,Support Engineer
+Armstrong Fluid Technology,IT Support Analyst,Bengaluru,5.5,,3.6,Support Engineer
+Infodot Technologies,IT Support Engineer,Bengaluru,4.5,"Google Suite, TCP, Software troubleshooting, Load balancing, LAN",0.0,Support Engineer
+Tech Mahindra,Technical support associate - Service desk,Hyderābād,42.0,"English, Technical support, Microsoft Office, ServiceNow, Communication skills",3.5,Support Engineer
+Vigilant Technologies,IT Support Analyst,Hyderābād,36.0,"Cloud infrastructure, Software troubleshooting, Software deployment, Firewall, Project management",4.0,Support Engineer
+3M,IT Support Engineer,Bengaluru,8.5,,3.9,Support Engineer
+Oak Leaf HR LLP,IT Support Specialist,Bengaluru,7.5,"Oracle, React, SAP, Selenium, Oracle EBS",0.0,Support Engineer
+Oracle,Technical Support Analyst - L1 Support,Hyderābād,7.0,"Hospitality, Operating systems, Oracle, Customer service, R",3.8,Support Engineer
+QIMA,IT Support Engineer,Delhi,21.461904761904762,"LAN, English, Windows, Computer networking, Communication skills",3.9,Support Engineer
+Deepija Telecom,IT Support Engineer,Raipur,42.0,"Operating systems, Call center, Computer hardware, Virtualization, IT support",4.3,Support Engineer
+Namecheap,Customer support specialist (Technical chat process),Coimbatore,14.4,"English, Web services, Communication skills, Office experience",4.3,Support Engineer
+RND SOFTECH PVT LTD,IT Support Engineer,India,40.32,"Operating systems, Software troubleshooting, Windows, Technical support, Analysis skills",3.7,Support Engineer
+Trend India Workspace,IT Support Engineer,Chennai,2.1,"TCP, Firewall, DHCP, Network protocols, DNS",0.0,Support Engineer
+Stuba.com,Technical Support Specialist,India,5.7,"Microsoft Excel, XML, English, Technical support, Microsoft Office",0.0,Support Engineer
+Full Potential Solutions,IT Desktop Support Engineer,Pune,27.24,"Computer operation, Desktop support, Operating systems, Software troubleshooting, Customer service",4.4,Support Engineer
+People Alliance Workforce Private Limited,Desktop Support Engineer,Hosūr,2.4,"Desktop support, Software troubleshooting, Microsoft Office, Computer hardware, IT support",0.0,Support Engineer
+Cosmosoft technologies,Technical Support Associate,Chennai,3.0,"English, Technical support",0.0,Support Engineer
+Next Order,Technical Support,Bengaluru,48.0,"Live chat, Software troubleshooting, Technical support, Restaurant experience, Communication skills",4.4,Support Engineer
+Qualcomm,"IT Support Analyst, Senior",Hyderābād,8.5,"Jira, Operating systems, Software troubleshooting, Customer service, Call center",3.9,Support Engineer
+Element Solutions Inc,Senior IT Support Specialist,Chennai,5.0,"LAN, English, Windows, Microsoft Office, Virtualization",3.4,Support Engineer
+Penguin Data Centre,Junior Technical support specialist,Cochin,2.4,"Software troubleshooting, Technical support, .NET, SQL, Analysis skills",0.0,Support Engineer
+Stellapps Technologies Private Limited,IT Support Engineer,India,2.88,"Microsoft Word, Microsoft Excel, Software troubleshooting, Data analysis skills, Microsoft Office",0.0,Support Engineer
+Link Group,IT Support Analyst,Pune,4.5,"Operating systems, WebSphere, IT service management, J2EE, Microsoft Office",3.5,Support Engineer
+Zaliyo Technologies,Technical Support Executive,Remote,23.336363636363636,"Desktop support, Software troubleshooting, Windows, Technical support, Remote access software",4.0,Support Engineer
+Axelerant,Logistics and IT Support Specialist,Gurgaon,6.0,"Google Suite, Operating systems, Software troubleshooting, iOS, Logistics",4.5,Support Engineer
+Healthfirst technologies,Technical Support Associate,Hyderābād,11.0,"Software troubleshooting, Technical support, Java, New Relic",0.0,Support Engineer
+SmartNode,IT Support Analyst(Maximum 3 year Experience),India,2.4,"Windows, Microsoft Office, IT support",0.0,Support Engineer
+Reputation,Technical Support Specialist,Hyderābād,6.0,"Enterprise Software, Salesforce, Technical support, Account management",4.1,Support Engineer
+RSM US LLP,IT Support Analyst 1,Hyderābād,7.5,"Call center, LAN, Windows, Microsoft Office, Computer hardware",3.7,Support Engineer
+Nikkiso Cryogenic Industries,IT Support Specialist,Vadodara,48.0,"Microsoft Windows Server, Operating systems, Software troubleshooting, LAN, Filing",3.5,Support Engineer
+SOTI Inc.,Technical Support Specialist,Cochin,5.0,"Microsoft Windows Server, French, Spanish, Computer science, Customer service",3.6,Support Engineer
+Wiredus Media Pvt Ltd,IT Support Specialist,Gurgaon,2.7,"Microsoft Windows Server, Microsoft Outlook, Software troubleshooting, LAN, Windows",0.0,Support Engineer
+HIRD Services Pvt ltd,Tech Support Engineer,Bengaluru,5.4,"English, Technical support",0.0,Support Engineer
+Mindzer Systems,IT Support Engineer,Mumbai,4.073035714285714,"Software troubleshooting, English, Analysis skills, IT, Communication skills",0.0,Support Engineer
+Confluent,IT Support Engineer,Bengaluru,5.0,"Jira, Operating systems, Software troubleshooting, Windows, Microsoft Office",3.9,Support Engineer
+"Ikigai Labs, Inc.",Technical Support Specialist,Bengaluru,48.0,"Computer science, Azure, Software troubleshooting, Customer service, English",4.6,Support Engineer
+sanhire,Technical Support Specialist,Bengaluru,4.073035714285714,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Microsoft Outlook, Software troubleshooting",0.0,Support Engineer
+Thrivibe,IT Support Analyst,Bengaluru,5.5,"Software troubleshooting, Windows, Microsoft Office, IT support, SharePoint",0.0,Support Engineer
+Epifi Technologies,System/IT Support Engineer,Bengaluru,6.0,"Google Suite, Microsoft Access, CCTV",3.3,Support Engineer
+Alshaya Group,Technical Support Engineer - IT -India,India,21.461904761904762,"Software troubleshooting, SCCM, Arabic, English, Windows",3.9,Support Engineer
+Ashidaelectronics,IT Support Engineer,Thāne,2.5,"Software troubleshooting, IT support, Computer networking",3.4,Support Engineer
+Mazenet solution,Technical Customer Support,Hyderābād,18.0,"Technical support, Analysis skills, Customer support, Communication skills",3.9,Support Engineer
+Wayfair,"IT Support Engineer, Platforms",Bengaluru,4.164444444444445,"Software troubleshooting, Visual Basic, Customer service, LAN, Windows",2.9,Support Engineer
+InnoWave India,Azure IT Support Specialist,Bengaluru,48.0,"CI/CD, Power BI, Cloud infrastructure, Azure, Software troubleshooting",3.6,Support Engineer
+RIGPA Tech,IT Support Specialist,Chennai,3.5,"Microsoft Windows Server, Azure, PCI, Windows, SQL",0.0,Support Engineer
+Aryagami Cloud Services,Technical Support Lead,Hyderābād,2.4,"CRM software, Management, Customer service, English, Technical support",0.0,Support Engineer
+Uniq Technology,IT Support Engineer,India,7.2,"React, Microsoft Office, Java, SQL, Angular",0.0,Support Engineer
+"UWorld, LLC",Customer Care -Technical Support Specialist,Hyderābād,5.5,"iOS, Windows, Technical support, Data entry, MacOS",3.6,Support Engineer
+Inspace Technologies Pvt Ltd,Desktop Support Engineer/ IT Trainee,Vellore,2.5,"Desktop support, Software troubleshooting, LAN, Firewall, IDS",0.0,Support Engineer
+MillerKnoll,IT Support Engineer,Bengaluru,7.5,"Jira, Incident management, Software troubleshooting, Enterprise Software, IT service management",3.3,Support Engineer
+CIPHERSQUARE PAYMENT SOLUTIONS PRIVATE LIMITED,IT Support Engineer (Dialer),India,3.6,Computer networking,0.0,Support Engineer
+OGES iNFOTECH,IT Customer Support Executive,Cochin,30.0,"Oracle, English, Project management, Communication skills",4.4,Support Engineer
+Lynkit,Technical Support Specialist- GPS/tracking domain,Delhi,20.791818181818183,"Software troubleshooting, Technical support, GPS, SaaS, Mobile devices",3.8,Support Engineer
+Neev Academy,IT Executive - Technical Support,Bengaluru,4.0,"Software troubleshooting, Technical support, Application support, Communication skills",2.9,Support Engineer
+UI SMARTECH,IT Technical Support Engineer,India,2.7,"English, Technical support, Microsoft Office, ServiceNow, Hindi",0.0,Support Engineer
+ASSPL - Maharashtra,"IT Support Engineer I, OTS",Pune,7.0,"TCP, DHCP, SSL, IT support, DNS",3.6,Support Engineer
+Pipara & Co LLP,IT Support Specialist,India,2.28,"Software troubleshooting, LAN, Remote access software",0.0,Support Engineer
+Quess Corp Limited,Technical Support Associate,Bengaluru,2.0,"Software troubleshooting, English, Technical support, Hindi, Communication skills",3.3,Support Engineer
+Perfomalis,Web Hosting and IT Support Specialist,India,23.336363636363636,"Software troubleshooting, English, PHP, IT support, DNS",4.0,Support Engineer
+Geo Design & Research,IT SUPPORT ENGINEER,Vadodara,3.5,Software troubleshooting,3.4,Support Engineer
+BeyondID,IT Support Engineer,Bengaluru,4.5,"Jira, Operating systems, Encryption, Windows, Databases",4.0,Support Engineer
+Cin7,Technical Support Specialist,Ahmedabad,8.5,"Technical support, Customer support, Communication skills",4.3,Support Engineer
+Ahana Systems and Solutions,IT Support Engineer,India,27.24,"Microsoft Outlook, Customer service, LAN, DHCP, DNS",4.4,Support Engineer
+NAVNIT GROUP,Tech Support Engineer,Delhi,6.0,"Technical support, Linux",0.0,Support Engineer
+Niswey,Technical Support Executive,Remote,5.5,"Software troubleshooting, Git, English, Technical support, PHP",4.6,Support Engineer
+Hero Moto Corp,Vehicle Validation- Technical Support,Jaipur,5.5,"Mechanical engineering, Microsoft Excel, Technical support, Microsoft Office, Automotive engineering",3.9,Support Engineer
+Falcon Property Management Services,IT Support Engineer,Mumbai,2.0,"Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft Outlook, Software troubleshooting",0.0,Support Engineer
+ONX,IT Technical Support Engineer,Bengaluru,4.533333333333333,"Asset management, Cloud infrastructure, SAP, PaaS, Windows",3.4,Support Engineer
+ASSPL - Karnataka,"IT Support Engineer I, OTS",Bengaluru,7.0,"TCP, DHCP, SSL, IT support, DNS",3.6,Support Engineer
+Upwork,#715 - Consumer Windows Technical Support,Hyderābād,42.0,"Spanish, Operating systems, LAN, English, Windows",3.9,Support Engineer
+RIMS Manpower Solution India Pvt Ltd,IT Support Engineer,India,4.5,"Software troubleshooting, SCCM, SAP, Visual Studio, Visio",0.0,Support Engineer
+HIRD Services Pvt ltd,Technical Support Specialist/Gurgaon,Gurgaon,4.08,"Web development, Technical support, Java, SQL, Communication skills",0.0,Support Engineer
+Tekessence Software Solution Pvt Ltd,IT Support Engineer,Tiruchchirāppalli,2.28,"Software troubleshooting, English, Windows, IT support, Linux",0.0,Support Engineer
+Unisys,IT Support Engineer,Bengaluru,4.5,"Software troubleshooting, Analysis skills, Linux, Communication skills",3.6,Support Engineer
+WissenPro,Team Leader - Technical Support,Bengaluru,4.5,"Management, Customer service, Call center, Technical support, Microsoft Office",0.0,Support Engineer
+KADIT Innovations,IT Support Engineer (US Shift),Tenkāsi,1.5,"Software troubleshooting, English, Communication skills",0.0,Support Engineer
+CashKaro,IT Support Engineer,Chennai,28.812,"Jira, Software troubleshooting, iOS, Windows, AWS",4.6,Support Engineer
+Solid Systems Global,Technical Support Executive,Bengaluru,4.5,"CRM software, Software troubleshooting, English, Technical support, Computer hardware",0.0,Support Engineer
+Helix International,CMOD Technical Support Engineer,Hyderābād,3.6,"Enterprise Software, FileNet, Technical support, APIs, ServiceNow",0.0,Support Engineer
+WorkSpan,IT Support Engineer,Bengaluru,3.124,"MongoDB, Windows, AWS, Zendesk, Remote access software",3.0,Support Engineer
+6sense,Sr. Technical Support Specialist,Pune,8.0,"Jira, Software troubleshooting, Salesforce, Technical support, SQL",4.3,Support Engineer
+impact pvt,International Technical Support,Mumbai,3.5,"English, Technical support, Microsoft Office, ITIL",0.0,Support Engineer
+Karishma Marine Solutions Pvt Ltd,IT Support Engineer,Mumbai,39.6,"Software troubleshooting, LAN, Windows, Firewall, IT support",5.0,Support Engineer
+IMZ Corporate Pvt Ltd,Technical Support Executive,Vasant Kunj,2.5,"Microsoft Excel, English, Technical support, Microsoft Office, IVR",0.0,Support Engineer
+NOKIA,Specialist Technical Support,India,23.336363636363636,"Cloud infrastructure, 5G, Bloomberg, Technical support, Analysis skills",4.0,Support Engineer
+Cummins Inc.,Technical Support Specialist - Senior,Pune,23.336363636363636,"Technical support, Programmable logic controllers, Electrical experience, Data analytics",4.0,Support Engineer
+Radiant Info Solutions,L2 Support Engineer (IT),Delhi,14.1,,4.8,Support Engineer
+SoftTech Services,IT Support Engineer- L2,Bengaluru,4.5,"Software troubleshooting, Analysis skills, Embedded software, Communication skills",4.5,Support Engineer
+ProGate Technology,IT Support Engineer,Gorakhpur,2.1,"LAN, Windows, Firewall, Linux, Network security",0.0,Support Engineer
+4th Quarter Technologies Pvt. Ltd,IT Support Engineer,Greater Noida,10.8,"English, Microsoft Office, IT support, ServiceNow, Communication skills",4.3,Support Engineer
+Limechat,Tech Support Engineer,Bengaluru,30.0,"Technical support, SQL, Project management, Computer networking, Communication skills",3.8,Support Engineer
+ODeX,Technical Support - IT,India,2.1,"MVC, CSS, English, Technical support, Java",2.4,Support Engineer
+Genesis HR Services,Technical Support Executive(Gaming),Hyderābād,5.5,"English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+SOTI Inc.,"Technical Support Specialist, Level 2",Gurgaon,36.0,"Microsoft Windows Server, iOS, English, Windows, Technical support",3.6,Support Engineer
+Radiant Info Solutions,"L2 IT Support Engineer, Location: Goregaon, East (Mumbai)",Mumbai,5.5,,4.8,Support Engineer
+iOPEX Technologies,CUSOTMER SUPPORT / TECHNICAL SUPPORT ENGINEER - CHAT,Chennai,42.0,"Live chat, Technical support, Customer support",4.1,Support Engineer
+Teradata,Technical Support Specialist,Hyderābād,18.865714285714287,"French, Operating systems, Incident management, Software troubleshooting, Customer service",3.7,Support Engineer
+Macro Global (MG),Technical Support,Tiruchchirāppalli,48.0,"Software troubleshooting, Technical support, Zendesk, Remote access software, Communication skills",4.8,Support Engineer
+MicroWorld Software Services Pvt. Ltd,Technical Support (Fresher- 1 Year),Mumbai,1.98,"Software troubleshooting, Windows, Technical support, Remote access software, Linux",2.9,Support Engineer
+ATS FOOD PRODUCT,IT Helpdesk Engineer,India,4.2,Software troubleshooting,0.0,Support Engineer
+salary hikers LLP,Technical Support Specialist,Gurgaon,2.58,"English, Technical support, Microsoft Office, ServiceNow, Communication skills",0.0,Support Engineer
+"The Foundation School, Gunjur/Varthur",IT Support Engineer - The Foundation School,Bengaluru,3.6,"LAN, Windows, Firewall, IT support, Classroom experience",0.0,Support Engineer
+Sundaram Technologies,Software IT Support Engineer,Vadodara,28.8,"English, Microsoft Office, ServiceNow",3.5,Support Engineer
+Lambiga Resource Management,Technical support,India,2.4,"Software troubleshooting, Technical support",0.0,Support Engineer
+CARE INFOTECH,Desktop Support Engineer,India,1.74,"Desktop support, Computer science, Software troubleshooting, Windows, Microsoft Office",0.0,Support Engineer
+Valam Solutions,Technical Support Executive,Bengaluru,4.5,"Microsoft Powerpoint, Microsoft Excel, Windows, Technical support, DHCP",0.0,Support Engineer
+YES IT Labs,IT Support Engineer,Noida,21.6,"Software troubleshooting, Technical support, Computer hardware, Perl, Scripting",5.0,Support Engineer
+Genesis HR Services,Customer Technical Support,Bengaluru,5.0,"English, Technical support, Microsoft Office, ServiceNow, Customer support",0.0,Support Engineer
+Datanet Hosting Solutions,IT Technical Support,Noida,5.5,"Software troubleshooting, Windows, Technical support, Remote access software, IT support",0.0,Support Engineer
+Synersoft Technologies,Desktop Support Engineer,Hyderābād,4.5,"Desktop support, Software troubleshooting, Remote access software",4.2,Support Engineer
+HotelKey,Technical Support - Tier 1,Nāgpur,5.5,"Customer service, Call center, English, Technical support, ITIL",3.4,Support Engineer
+Perceptive,Associate Technical Support Analyst,Hyderābād,5.0,"Customer service, English, Technical support, Communication skills",2.7,Support Engineer
+Genesis HR Services,Technical Support Associate,Bengaluru,5.0,"Live chat, Microsoft Outlook, English, Technical support, Microsoft Office",3.3,Support Engineer
+Empirical F&M Academy Pvt Ltd,Institutional Trading Desk IT Support Engineer,India,5.52,"Bloomberg, Microsoft Office, ServiceNow, Active Directory",0.0,Support Engineer
+Station Satcom Pvt Ltd,Vessel IT Support Engineer,India,6.0,"TCP, System administration, Azure, Software troubleshooting, Customer service",0.0,Support Engineer
+KUNDLIWALA.COM,Technical Support Specialist,India,9.6,"Social media marketing, Social media management, Technical support, Microsoft Office, SEO",0.0,Support Engineer
+Zeblaze Solutions,Technical Support Specialist,Bengaluru,3.6,"English, Technical support, Microsoft Office, ServiceNow, Hindi",0.0,Support Engineer
+cloudsek,Product Specialist - Technical Support,Bengaluru,6.5,"Upselling, Encryption, Technical support, Machine learning, Organizational skills",3.8,Support Engineer
+Bankify,IT Support Engineer,Bhubaneshwar,1.56,"TCP, Azure, Software troubleshooting, Relational databases, Windows",0.0,Support Engineer
+Legrand North America,Technical Support Engineer - L1,Bengaluru,4.5,"Software troubleshooting, Customer service, Technical support, Quality assurance, Electrical experience",3.8,Support Engineer
+Microsoft,Technical Support Engineering - Intune,Bengaluru,5.0,"Fiddler, TCP, Azure, CSS, SCCM",4.2,Support Engineer
+VLS Bestsoft,Technical Support,Hyderābād,3.5,"Technical support, Help desk",0.0,Support Engineer
+CityGreens,Technical Support Engineering,Bengaluru,3.0,"Internet of things, Technical support, PostgreSQL, Organizational skills, APIs",3.1,Support Engineer
+Hridang technologies Pvt. Ltd,IT Support Specialist,Pune,2.7,"Operating systems, Software troubleshooting, Microsoft Office, Computer networking, ServiceNow",0.0,Support Engineer
+Sureworks Infotech Pvt Ltd,Technical Support Engineer,Pune,12.0,Technical support,3.6,Support Engineer
+Trend India Business Center,IT Support Specialist,Chennai,2.7,"TCP, Azure, Encryption, Firewall, DHCP",0.0,Support Engineer
+Sartorius,IT Technical Support Analyst,Bengaluru,7.0,"Live chat, Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Software troubleshooting",3.6,Support Engineer
+vaanam technologies PVT LTD,IT Support Engineer,Chennai,0.6,"Operating systems, Software troubleshooting, Microsoft Office, ServiceNow",0.0,Support Engineer
+Nahar Integrated System Services Pvt Ltd,Senior Technical Support Engineer,India,5.0,"Technical support, Computer networking",0.0,Support Engineer
+futurerole.inc,Technical Support Specialist,Chennai,3.9,"Call center, English, Technical support, Computer networking, Hindi",0.0,Support Engineer
+Cultfit Healthcare Pvt. Ltd,IT Support Engineer,Bengaluru,5.0,"TCP, Operating systems, Software troubleshooting, Customer service, Microsoft Exchange",0.0,Support Engineer
+Lambsrock,Technical support Specialist,Bengaluru,48.0,"Microsoft Powerpoint, Microsoft Word, Power BI, Microsoft Excel, English",4.5,Support Engineer
+Tabnova,Technical Support,Remote,23.336363636363636,"Microsoft Powerpoint, Microsoft Word, Desktop support, Microsoft Excel, Software troubleshooting",4.0,Support Engineer
+Masco Home Products India,IT Support engineer,Maharashtra,4.0,"Microsoft Powerpoint, Desktop support, Microsoft Excel, Azure, Multilingual",2.0,Support Engineer
+ACOEM,Technical Support Specialist,Pithampur,3.5,"English, ISO 9001, Technical support, Electrical experience, Communication skills",3.2,Support Engineer
+Genesis HR Services,Technical Support Executive,Pune,5.0,"English, Technical support, Microsoft Office, IT support, Active Directory",0.0,Support Engineer
+Equirus,IT Support Engineer,Mumbai,5.5,"Azure, Software troubleshooting, Windows, Microsoft Office, Firewall",4.1,Support Engineer
+Max Secure Software,Technical Support,Pune,48.0,"Windows, Technical support",3.8,Support Engineer
+Roche,Job Posting Title Technical Support Specialist (Lab Info System),Pune,5.0,"System administration, Azure, Software troubleshooting, English, Google Cloud Platform",4.2,Support Engineer
+indiagold,IT Support Engineer Gurgaon,Gurgaon,5.5,"Image processing, Software troubleshooting, Computer hardware, IT support, Computer networking",4.7,Support Engineer
+FPLE Technology Pvt Ltd,PHP IT Support Specialist,India,4.5,"Software troubleshooting, PHP, IT support, IT, Communication skills",0.0,Support Engineer
+MSR IT Solutions Pvt Ltd,IT Field Support Engineer,Chennai,1.92,"TCP, Computer hardware, Computer networking, Linux, TCP/IP",0.0,Support Engineer
+Inspirisys Solutions,IT Support Engineer,Ludhiana,12.0,"Software troubleshooting, Japanese, Presentation skills, IT support, VPN",3.6,Support Engineer
+ThemeSoftech,Support Engineer - IT Services,Cochin,2.58,"Google Suite, TCP, Software troubleshooting, English, IT support",0.0,Support Engineer
+"Deltek, Inc.",Technical Support Services Analyst-IC2,Remote,29.27333333333333,"Microsoft Windows Server, IIS, Customer service, LAN, Microsoft SQL Server",4.5,Support Engineer
+Aabasoft,TECHNICAL SUPPORT ENGINEER - 24/7 CUSTOMER SERVICE...,Cochin,15.544571428571428,"Customer service, Malayalam, English, Technical support, Organizational skills",4.6,Support Engineer
+Empirical F&M Academy,Institutional Trading Desk IT Support Engineer,India,5.5,"Bloomberg, Microsoft Office, ServiceNow, Active Directory",4.6,Support Engineer
+Perforce,Technical Support Analyst,Pune,13.993444444444446,"Jira, System administration, Software troubleshooting, Customer service, Enterprise Software",3.6,Support Engineer
+Upwork,Exchange Online Technical Support Specialist,Delhi,21.461904761904762,"LAN, English, Windows, Technical support",3.9,Support Engineer
+Nusyn Digital Solutions Private Limited,Technical Support Engineer L1,India,4.073035714285714,"Operating systems, Software troubleshooting, English, Technical support, Remote access software",0.0,Support Engineer
+Capital Placement Services,"Technical Customer Support Executive For IT Company in Sector-32,Noida",Noida,2.5,"Customer service, Customer support",0.0,Support Engineer
+Purple Drive Technologies,IT Support Engineer,Ukhrul,3.0,"Operating systems, Software troubleshooting, English, Windows, Microsoft Office",0.0,Support Engineer
+systems tek india pvt ltd,Technical Support,Hyderābād,3.18,"CCTV, Electrical engineering, Technical support, Microsoft Office, Electrical experience",0.0,Support Engineer
+Wolters Kluwer,"IT Support Engineer (Cisco, MS Teams, Telepresence)",India,18.865714285714287,"Software troubleshooting, Windows, Firewall, Network protocols, Communication skills",3.7,Support Engineer
+Probus Insurance Broker,Support Engineer- IT Application Support,Ahmedabad,12.0,Microsoft SQL Server,4.7,Support Engineer
+AWL India,Desktop Support Engineer,Hyderābād,5.0,"Desktop support, Software troubleshooting, Windows, MacOS, Linux",4.6,Support Engineer
+Mind map IT Solutions,IT Support Analyst,India,3.96,"Software troubleshooting, Customer service, Windows, Microsoft Office, Administrative experience",0.0,Support Engineer
+DIfX Technology LLc,IT Support Engineer,Mumbai,2.5,"System administration, IT management, Software troubleshooting, Project management, Cybersecurity",3.0,Support Engineer
+wocom technologies pvt ltd,Technical Support Specialist,Delhi,3.3,"Software troubleshooting, English, Technical support, Debian, Ubuntu",0.0,Support Engineer
+Arethos,Technical Support,Mohali,5.5,"Microsoft Word, Microsoft Excel, Technical support",3.7,Support Engineer
+iDataPlus,IT Support Engineer,Hyderābād,2.0,"Microsoft Windows Server, TCP, Azure, Software troubleshooting, Customer service",0.0,Support Engineer
+4C Consulting Private Limited,IT Support Specialist,Ahmedabad,4.2,"Microsoft Powerpoint, Microsoft Word, TCP, Microsoft Excel, Azure",0.0,Support Engineer
+Bathiya Legal,IT Support Engineer,Mumbai,4.073035714285714,"Tally, Microsoft Outlook, CCTV, English, Windows",0.0,Support Engineer
+VR INFOMATIC,Desktop Support Engineer,Chennai,2.4,"Desktop support, Microsoft Outlook, Windows, Microsoft Office, Remote access software",0.0,Support Engineer
+iTDAY India,Remote Technical Support Representative-Service Desk Delivery,Bengaluru,48.0,"Technical support, Data science, Communication skills",4.5,Support Engineer
+Infinite Computer Solutions Ltd.,Technical Support Specialist,Noida,3.0,Technical support,3.3,Support Engineer
+Seydeltech India Pvt Ltd,Technical & Customer Support Representative,India,4.5,"Software troubleshooting, Call center, Windows, Microsoft Office, Electrical experience",0.0,Support Engineer
+Void Solutions,Jr. Tech Support Engineer - I,India,4.5,"System administration, Customer service, Technical support, Scripting, Communication skills",0.0,Support Engineer
+City Online Media Pvt Ltd,Network Support Engineer,India,3.0,"English, Microsoft Office, ServiceNow, IP networking",0.0,Support Engineer
+INK IT SOLUTIONS,Technical Support Associate,Bengaluru,3.5,"Operating systems, Software troubleshooting, Customer service, English, Windows",0.0,Support Engineer
+ITSoli India Pvt Ltd,Technical Support Associate (Male Candidate),Bengaluru,1.2,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Operating systems, Microsoft Outlook",0.0,Support Engineer
+Quantiphi,Executive - IT & Desktop Support Engineer,Mumbai,6.0,"Microsoft Outlook, Software troubleshooting, Encryption, Windows, Microsoft Office",4.2,Support Engineer
+Okta,SAM IT Support Engineer II,Bengaluru,7.0,,3.6,Support Engineer
+Radicle manpower solution,Technical Support Executive,Bengaluru,2.0,"English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+ResMed,Jr. Technical Support Engineer,India,19.774,Technical support,4.1,Support Engineer
+Cubnet Service,Technical Support Executive,Gurgaon,2.0,"TCP, Customer service, English, Windows, Technical support",0.0,Support Engineer
+MNJ Software,Technical Support Specialist,Remote,13.993444444444446,"Drupal, WordPress, English, Technical support, Administrative experience",3.6,Support Engineer
+OnlineInfatuation,US Technical Support Assistant,Noida,5.1,"Software troubleshooting, English, Technical support, Usability, Communication skills",0.0,Support Engineer
+Vyapar,Desktop Support Engineer,Bengaluru,30.0,"Desktop support, Software troubleshooting, LAN, Research, Windows",3.9,Support Engineer
+Dhii Health Tech,Desktop Support Engineer - L1,Hyderābād,4.5,LAN,3.2,Support Engineer
+RAD365 Solutions Pvt LTD,Technical Support Associate,India,2.5,"Software troubleshooting, English, Technical support, Microsoft Office, AWS",0.0,Support Engineer
+"Supreme Equipments Pvt. Ltd, Nashik",IT Support Engineer,India,2.1,"Software troubleshooting, English, Microsoft Office, Computer hardware, ServiceNow",0.0,Support Engineer
+Poornam technologies Pvt Ltd,Technical Support Engineer,Hyderābād,1.8,"Software troubleshooting, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+ICONIC BUSINESS SOLUTION LLP,SQL Technical Support Engineer,India,3.5,"Software troubleshooting, Technical support, SQL, Database management, Scripting",0.0,Support Engineer
+Ninja Media Creations,Tech Support Engineer,Chennai,3.6,"Software troubleshooting, Customer service, LAN, Technical support, Analysis skills",0.0,Support Engineer
+Advantiqs Technologies,Technical Support – Service Desk,Mangalore,36.0,"English, Technical support, Help desk",4.5,Support Engineer
+TELUS Digital,Technical Support Associate,India,4.5,"Software troubleshooting, Technical support, Communication skills",0.0,Support Engineer
+Five Feed Learning Solutions Pvt. Ltd.,"IT Support Engineer, L1 Engineer, System Administrator",Bengaluru,42.0,"Microsoft Windows Server, System administration, Software troubleshooting, English, Windows",3.8,Support Engineer
+Zouma,Desktop Support Engineer L1,Mohali,4.5,"English, Microsoft Office, ServiceNow",0.0,Support Engineer
+CXL Technologies,IT Technical Support(Male Only),Noida,0.6,"Microsoft Windows Server, SFTP, Operating systems, English, Windows",3.4,Support Engineer
+Winet Infratel,Technical Support Associate,India,1.32,"Operating systems, Incident management, Customer service, English, Windows",0.0,Support Engineer
+Clavius Solutions,Technical Support Executive,Bengaluru,3.5,"English, Technical support, Microsoft Office",0.0,Support Engineer
+Britapp Systems Private Limited,IT Support Engineer,India,3.0,"Microsoft Windows Server, TCP, Azure, Operating systems, Software troubleshooting",0.0,Support Engineer
+Vitel Global Communications,Technical Support Engineer- VOIP,Hyderābād,5.5,"TCP, LAN, Technical support, VoIP, TCP/IP",3.5,Support Engineer
+Dusane Infotech,Technical/Application Support Engineer,Mumbai,48.0,"SQL, Computer networking, Communication skills",4.1,Support Engineer
+Drip Capital,Technical Support Engineer,Mumbai,48.0,"Customer service, Technical support, SQL, Quality assurance, Software development",3.6,Support Engineer
+INTINERI INFOSOL PVT LTD,Desktop Support Engineer L2,Bengaluru,8.0,"Desktop support, TCP, Software troubleshooting, LAN, Windows",0.0,Support Engineer
+Allucent,Technical Support Specialist (India),Bengaluru,48.0,"Software troubleshooting, English, Windows, Technical support, Microsoft Office",3.6,Support Engineer
+SHIVA SHIKSHA SADAN,IT Support Engineer,Sonipat,1.2,"CCTV, LAN, Ubuntu",0.0,Support Engineer
+Acute Informatics Pvt. Ltd,Desktop Support Engineer,Goa,2.64,Microsoft Outlook,3.3,Support Engineer
+Renovision Automation Services Pvt. Ltd,Desktop Support Engineer,Karnāl,34.56,"Windows, Desktop administration",3.7,Support Engineer
+Tecpact Technologies,IT Technical Support Engineer,Mumbai,12.0,"Software troubleshooting, Technical support, DHCP, DNS, Communication skills",0.0,Support Engineer
+TRS Forms,Technical Support,Chennai,48.0,"English, Technical support, Presentation skills, Communication skills",3.9,Support Engineer
+SQ1 Security Technology Private Limited,Network Support Engineer,Tirunelveli,3.0,"Software troubleshooting, Technical support, IDS, Network support, VPN",0.0,Support Engineer
+Genesis HR Services,Technical Support Analyst,Pune,5.5,"Microsoft Outlook, Technical support, Microsoft Office, Active Directory, VPN",0.0,Support Engineer
+Matrix Business Machines Pvt Ltd,Desktop & Network Support Engineer,India,33.12,"Software troubleshooting, Windows, Firewall",4.1,Support Engineer
+Eltropy,Tier 2 Technical Support Specialist,Bengaluru,4.5,"Jira, Fiddler, SFTP, SSO, Technical support",4.0,Support Engineer
+DRISHTI LIFESAVING,IT SUPPORT ENGINEER (FIELD POSITION),Goa,8.5,"IT, Linux",4.7,Support Engineer
+EMBER TECHNOLOGIES,Technical Support (L1),Mumbai,5.0,"Software deployment, Technical support",3.2,Support Engineer
+Sensys Technologies Pvt. Ltd,Technical Support,India,2.1,"Microsoft Excel, English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+Pacer Automation Pvt Ltd,Desktop Support Engineer,India,3.6,"Desktop support, Operating systems, Windows, Microsoft Office, IT support",0.0,Support Engineer
+Etrans Solutions,Project Coordinator and Customer Support Liaison (CSD – IT),Calcutta,24.0,"Project coordination, Analysis skills, Project management, Project management methodology, Customer support",3.9,Support Engineer
+LinguaSol,Technical Support Executive,Pune,6.0,"Technical support, Software testing, Communication skills",5.0,Support Engineer
+Corbion,Technical Support Specialist - Industrial Bakery,Mumbai,4.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Baking, English",3.4,Support Engineer
+Novisync,Technical Support Specialists,Visakhapatnam,6.0,"Software troubleshooting, Customer service, Technical support, Communication skills",3.4,Support Engineer
+BMC Software,Staff Specialist Technical Support Analyst,Pune,7.0,"Operating systems, English, Technical support, Scripting, Software development",3.9,Support Engineer
+ThinkPalm Technologies,Technical Support Executive,Thiruvananthapuram,6.0,"System administration, Technical support, Docker, Virtualization, VMWare",4.1,Support Engineer
+KocharTech,Desktop Support Engineer,Calcutta,48.0,"Software troubleshooting, Process improvement",4.0,Support Engineer
+Signals & Systems (India),Jr. Engineer - Technical Support,Chennai,42.0,"Technical support, Microsoft Office, Product demos, Communication skills",4.2,Support Engineer
+Clove Dental,Desktop Support Engineer,Noida,4.8,"Network installation, Software troubleshooting, Windows, Computer networking, Linux",3.7,Support Engineer
+ioNob,Software Technical Support Executive,Calicut,2.0,"Desktop support, Software troubleshooting, Customer service, Technical support, Computer networking",0.0,Support Engineer
+NSPIRA Management Services,Customer support Executive- IT support,Hyderābād,30.0,"Telugu, Bengali, English, Tamil, Kannada",3.8,Support Engineer
+Befisc,Technical Support Specialist,Noida,4.073035714285714,"XML, Customer service, Technical support, Scripting, APIs",0.0,Support Engineer
+Biorev LLC,Technical Support Executive,Mohali,7.5,"English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+Network Techlab (India) Pvt. Ltd,Engineer Technical Support L2,Mumbai,42.0,"OSPF, English, Technical support, BGP, Routing protocols",3.8,Support Engineer
+Kapture,Technical Support Executive(Freshers),Bengaluru,48.0,"Jira, Customer service, Technical support, Microsoft Office, Analysis skills",3.5,Support Engineer
+ADVANCELLS GROUP,IT Support Specialist,Noida,4.073035714285714,"Operating systems, Software troubleshooting, IT support, Communication skills",0.0,Support Engineer
+GRABWEB MANAGED HOSTING,Technical Support (WEB HOSTING),Panchkula,1.8,"English, Technical support, Microsoft Office, ServiceNow, Hindi",0.0,Support Engineer
+Hex Business Innovations,IT Technical Support Engineer,Farīdābād,1.62,"Software troubleshooting, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+Paypal,Global Technical Support Engineer 1,Chennai,5.0,"Oracle, Software troubleshooting, Technical support, Microservices, SQL",3.7,Support Engineer
+ConnectWise,Technical Support Specialist II,Mumbai,5.0,"Microsoft Windows Server, Operating systems, Software troubleshooting, Windows, Technical support",3.5,Support Engineer
+Helo,Technical Support,Mumbai,12.0,"Technical support, Communication skills, HTML, MySQL",4.7,Support Engineer
+Codelattice Digital Solutions Pvt.Ltd,Technical Support - Fresher,Calicut,6.0,"Node.js, Software troubleshooting, Customer service, English, Technical support",4.7,Support Engineer
+Inaho Digital Solutions Private Limited,IT Support Engineer - Bilingual,Chennai,2.5,"Microsoft Windows Server, Jira, Bilingual, TCP, System administration",0.0,Support Engineer
+Zouma,Technical Support Executive,Mohali,4.5,"English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+CludoBits IT Solutions,Technical Support Manager,Pune,3.0,"Microsoft Windows Server, Windows, Technical support, Firewall, DHCP",0.0,Support Engineer
+Hiranandani Group,L1 Desktop Support Engineer,India,1.2,"Desktop support, Software troubleshooting, Windows, Communication skills",0.0,Support Engineer
+SPM Enterprise,Desktop Support Engineer,Hyderābād,12.0,"Desktop support, Operating systems, Software troubleshooting, English, Microsoft Office",0.0,Support Engineer
+NetEx Technologies,Technical Support Specialist (Remote Position),Nawāshahr,1.62,"Desktop support, Azure, Software troubleshooting, Customer service, English",0.0,Support Engineer
+Infoicon Technologies,TECHNICAL SUPPORT ENGINEER,Noida,30.0,Technical support,4.3,Support Engineer
+GD Goenka Healthcare Pvt Ltd,Technical Support Manager,Delhi,6.3,"Management, IT management, Software troubleshooting, LAN, Technical support",0.0,Support Engineer
+Spintly India Private Limited,Technical Support Engineer,Bengaluru,21.6,"Computer science, Software troubleshooting, Technical support, Analysis skills, Scripting",4.1,Support Engineer
+"Tech Brains Solutions, Inc.","Technical Support Analyst, ERP Systems",Pune,13.5,"Software troubleshooting, Customer service, ERP systems, Microsoft SQL Server, SSRS",2.1,Support Engineer
+V2 Solutions,Technical Support Engineer,Navi Mumbai,5.0,"Microsoft Powerpoint, Microsoft Word, TCP, Internet of things, Software deployment",0.0,Support Engineer
+Grid Logic Software Private Limited,Technical Support,Hyderābād,4.5,"Technical support, Communication skills",4.8,Support Engineer
+Seltam Technologies,Technical Support Associate,Chennai,3.5,"English, Technical support, Computer networking",2.1,Support Engineer
+Zeblaze Solutions,Technical Support Executive,India,3.48,"English, Technical support, Microsoft Office, Hindi",0.0,Support Engineer
+Gridlogic,Technical Support,Hyderābād,4.5,"Technical support, Communication skills",4.8,Support Engineer
+Mind map IT Solutions,IT Technical Support Associate,Mohali,4.073035714285714,"Technical support, System security",0.0,Support Engineer
+ORIENTAL COMPRESSOR ACCESSORIES PVT LTD,Technical Support Executive,India,3.0,"Mechanical engineering, English, Technical support, Microsoft Office, Quality assurance",0.0,Support Engineer
+Pioneer HRS,Technical Support Executive,Pune,3.5,"English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+Seltam Technologies,International Non-Voice : Technical/Customer support.,Chennai,3.0,"English, Technical support, Communication skills",2.1,Support Engineer
+Xerox,Technical Support Specialist,Cochin,3.5,"Microsoft Windows Server, Email marketing, CSS, Software troubleshooting, Customer service",3.3,Support Engineer
+Caresoft Technologies,Desktop Support Engineer,India,2.04,"Desktop support, Field service, Microsoft Office, Computer hardware, ServiceNow",0.0,Support Engineer
+Mind map IT Solutions,Technical Support Specialist US Process,India,4.0,"Operating systems, Technical support, Microsoft Office, Computer networking, ServiceNow",0.0,Support Engineer
+Alphawizz Technologies Pvt. Ltd.,IT Support Engineer,India,1.8,"Cloud infrastructure, Azure, Software troubleshooting, Google Cloud Platform, Windows",0.0,Support Engineer
+Vitely Corp Pvt Ltd,IT Support Engineer- Compliance,India,3.6,"Network administration, Cloud infrastructure, Clinical research, LAN, Firewall",0.0,Support Engineer
+QServe IT Solutions,Technical Support Specialist,Tiruchchirāppalli,2.1,"Network installation, Software troubleshooting, LAN, Microsoft Exchange, Windows",0.0,Support Engineer
+Grapes Innovative Solutions,Technical Support Quality Engineer,India,5.4,"Software troubleshooting, English, Technical support, Analysis skills, Database management",0.0,Support Engineer
+Prestige Track Private Limited,Desktop Support Engineer,India,2.22,"Software troubleshooting, English, Microsoft Office, IT support, ServiceNow",0.0,Support Engineer
+Bharja Technologies,Technical Support Specialist,Ahmedabad,4.5,"Jira, Desktop support, Telephony, System administration, Software troubleshooting",3.0,Support Engineer
+Tikona Infinet,Technical Support Executive,India,4.533333333333333,"Technical support, Communication skills",3.4,Support Engineer
+Ginger Technologies,Technical Support Engineer,Thrissur,3.0,"Customer service, Technical support, Communication skills",0.0,Support Engineer
+TELUS Digital -,Technical Support Representative(International BPO),Noida,30.0,"Software troubleshooting, Technical support, Communication skills",3.6,Support Engineer
+Optim Hire (LAD Software Solutions Pvt LTd),"Technical Support Executive (2-3 years, Pune, 8 LPA, Night Shift)",Pune,5.0,"TCP, Azure, Windows, Technical support, Virtualization",3.6,Support Engineer
+Logictech Solutions,Technical Support Exec.,Delhi,1.5,Technical support,1.0,Support Engineer
+Internetever,IT Support Engineer,Thrissur,18.0,"FTP, Software troubleshooting, Web development, English, Technical support",3.5,Support Engineer
+Saini Electrical & Engineering Works Pvt. Ltd,Desktop Support Engineer,Thāne,2.7,"Desktop support, TCP, Operating systems, Windows, DHCP",0.0,Support Engineer
+Masys Group,Technical Support Executive,Dombivli,4.073035714285714,"Software troubleshooting, English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+Oracle,"Technical Analyst 4 - OIM, OAM, OUD, OID - Support",India,20.791818181818183,"Oracle, Analysis skills",3.8,Support Engineer
+CORPORATE INFOTECH PVT. LTD,Desktop Support Engineer,kāraikāl,2.64,"Oracle, SAP, Microsoft Office, IT support",0.0,Support Engineer
+Degreed,"Technical Product Support Engineer | Hybrid | Bengaluru, India",Bengaluru,5.5,"FTP, Software troubleshooting, Process improvement, Technical support, APIs",3.4,Support Engineer
+Whizlabs,Cloud Technical Support,Coimbatore,2.5,"Azure, Customer service, Google Cloud Platform, Technical support, AWS",0.0,Support Engineer
+Sensys Technologies Pvt. Ltd,Technical Support Executive,India,2.1,"Microsoft Excel, English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+Upwork,M365 Technical Support Specialist,Delhi,21.461904761904762,"LAN, Windows, Technical support",3.9,Support Engineer
+Test Private limited,IT Support Engineer,Bengaluru,1.32,"Network management, Computer networking",0.0,Support Engineer
+MicroWorld Software Services Pvt. Ltd,IT Support Engineer (Security Focus),India,3.0,"TCP, Operating systems, Windows, Technical support, Analysis skills",2.9,Support Engineer
+HANEUL SYSNET TECHNOLOGIES INDIA PVT LTD,Desktop Support Engineer,India,1.5,"Google Suite, Operating systems, Software troubleshooting, Windows, Microsoft Office",0.0,Support Engineer
+BEACON India,Technical Support Engineer,Bengaluru,4.5,Technical support,4.0,Support Engineer
+Mitsogo,Technical Support Engineer,Chennai,5.5,"Live chat, Customer service, Salesforce, iOS, Windows",3.6,Support Engineer
+Codezen Tech Solutions,Technical Support Executive,Raipur,3.0,"Software troubleshooting, English, Technical support, Customer support, Communication skills",0.0,Support Engineer
+Minitek Systems India pvt ltd,Desktop Support Engineer,Bengaluru,24.48,"LAN, Windows, Microsoft Office, ServiceNow",4.5,Support Engineer
+Madras Medical college,Project Technical Support I,India,4.073035714285714,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, English, Research",0.0,Support Engineer
+Three Ess Computer Services (I) Pvt. Ltd.,Desktop Support Engineer,India,30.24,"TCP, Software troubleshooting, LAN, Windows, Remote access software",4.4,Support Engineer
+MAGNAMAS INFOTECH,IT Support Engineer,India,1.2,"Desktop support, Microsoft Outlook, Software troubleshooting, CCTV, Microsoft Office",0.0,Support Engineer
+Momentus Technologies,Technical Support Specialist,Mumbai,48.0,"Crystal Reports, Software troubleshooting, Visual Studio, C#, Technical support",3.7,Support Engineer
+Genesis HR Services,Technical Support Agent,Pune,5.0,"English, Technical support, DNS, ServiceNow, Communication skills",0.0,Support Engineer
+Mahaveer Computers,IT Support Engineer,Bengaluru,3.18,"Software troubleshooting, LAN, Driving, Kannada",0.0,Support Engineer
+THE RRKS,Desktop Support Engineer,Mumbai,2.1,"IT management, Software troubleshooting, Microsoft Office, Firewall",0.0,Support Engineer
+cmts,Desktop Support Engineer,Punjab,13.571428571428571,"CCTV, LAN",4.2,Support Engineer
+Zinier,Global Technical Support Manager,Bengaluru,6.0,"Operating systems, Technical support, Analysis skills, Leadership, Communication skills",4.2,Support Engineer
+ZOUMA PVT LTD.,Technical Support Executive,Mohali,3.9,"Microsoft Outlook, Software troubleshooting, English, Technical support, SharePoint",0.0,Support Engineer
+ServiceNow,Technical Support Engineer - OS & Network,Hyderābād,9.0,"FTP, SFTP, TCP, Azure, Software troubleshooting",4.4,Support Engineer
+Ami Polymer Pvt. Ltd,IT Helpdesk Engineer,Silvassa,18.0,"Software troubleshooting, Microsoft Office, ServiceNow, Help desk",4.3,Support Engineer
+Grapes Innovative Solutions,Technical Support Engineer,India,4.2,"Operating systems, Windows, Technical support, Databases, SQL",0.0,Support Engineer
+Total IT Global,Desktop Support Engineer L1,Gurgaon,39.6,"Desktop support, Operating systems, Software troubleshooting, SCCM, Customer service",4.0,Support Engineer
+Grassdoor Logistics Technologies Pvt Ltd,Technical Support Executive,Goa,4.073035714285714,"Customer service, Call center, English, Technical support, Customer support",0.0,Support Engineer
+Hi-tech Applicator,IT Support Engineer,Ahmedabad,3.3,"Microsoft Windows Server, CCTV, LAN, Disaster recovery, Windows",0.0,Support Engineer
+Variman Global Enterprises,Network Support Engineers,Hyderābād,48.0,"LAN, Information security, Firewall, IDS, Linux",4.0,Support Engineer
+Allied digital service limited,Desktop Support Engineer,India,3.5,,0.0,Support Engineer
+Mobicule Technologies,Technical Support,Mumbai,4.0,"Oracle, Software troubleshooting, English, Windows, Technical support",3.4,Support Engineer
+The Cigna Group,Technical Support Analyst,Bengaluru,5.0,"Jira, Microsoft SQL Server, Technical support, SQL, Analysis skills",3.6,Support Engineer
+Violet Infosystems Private Limited,Senior Technical Support Engineer,India,8.5,"Microsoft Excel, Software troubleshooting, English, Technical support, SQL",0.0,Support Engineer
+Amphenol Omniconnect India Pvt Ltd,Technical Support Executive,Chennai,2.94,"Customer service, Technical support, Tamil",3.3,Support Engineer
+Warrior tech solutions,Network Support Engineer,Chennai,7.5,"LAN, Microsoft Office, Network support, ServiceNow, Cisco routers",0.0,Support Engineer
+Next Education,Technical Support Engineer,India,20.89470588235294,"Technical support, Computer networking, Communication skills",3.5,Support Engineer
+Konverge Technologies Pvt Ltd India,Desktop Support engineer,Bengaluru,6.0,,3.8,Support Engineer
+ANS TECZSERVE PVT LTD,Technical Support Executive,India,2.4,"English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+Mind map IT Solutions,Technical Support Specialist,Dera Bassi,4.073035714285714,"Desktop support, Software troubleshooting, Windows, Technical support, Remote access software",0.0,Support Engineer
+SynapseIndia,Sr. IT Support Engineer,Noida,42.0,"FTP, Microsoft Outlook, iOS, LAN, Microsoft Exchange",3.8,Support Engineer
+SupportHub360,L3 IT support engineer,Cochin,36.0,"Microsoft Windows Server, Azure, English, Microsoft Office, Firewall",5.0,Support Engineer
+Rama Hospital and Research Center,IT Support Engineer,Noida,0.6,,0.0,Support Engineer
+IDBI Intech,Management Trainee / Executive-Finacle Technical Support,Chennai,4.0,"Technical support, Project management",3.4,Support Engineer
+Wolters Kluwer,IT Support Engineer III (Service Now),Chennai,7.0,"Customer service, Research, Analysis skills, Project management, ITIL",3.7,Support Engineer
+Minitek Systems India pvt ltd,Technical Support,India,27.36,"English, Technical support, Microsoft Office, ServiceNow",4.5,Support Engineer
+DispatchTrack,Technical Support Analyst,Hyderābād,20.89470588235294,"Management, XML, Customer service, English, Technical support",3.5,Support Engineer
+VCEFE Tech Company,Technical Support Executive (IT),Tirunelveli,0.48,"CRM software, Customer service, English, Technical support, Microsoft Office",0.0,Support Engineer
+PAKIZA GROUP,Network Support Engineer,India,1.2,"Software troubleshooting, Microsoft Office, Firewall, ServiceNow",0.0,Support Engineer
+Papaya Global,Technical Support Engineer,Bengaluru,5.0,"English, Technical support, B2B, Application support",2.9,Support Engineer
+Codebucket Solutions Private Limited,Technical Support Associate,India,1.98,"Software troubleshooting, Technical support, Communication skills",0.0,Support Engineer
+Phykon,Technical Support Specialist (Voice Process - US Region),Thiruvananthapuram,42.0,"LAN, English, Technical support, WAN, Communication skills",3.9,Support Engineer
+Biorev Technology,Technical Support Agent,Mohali,4.5,"English, Technical support, Microsoft Office, Remote access software, SharePoint",0.0,Support Engineer
+PPN Solutions Pvt Ltd,IT Support Engineer,India,3.6,"Operating systems, English, Databases, Communication skills, Active Directory",0.0,Support Engineer
+NFINITY GLOBAL,Regional IT Support Engineer,Gurgaon,4.5,"Authentication, Software troubleshooting, SCCM, Remedy, Customer service",5.0,Support Engineer
+BMC Software,Technical Support Analyst,Pune,7.0,"TCP, Azure, Ansible, OSPF, Google Cloud Platform",3.9,Support Engineer
+Docsvault,IT Software Support Engineer,Vadodara,48.0,"ASP.NET, Software troubleshooting, English, SQL, Application support",4.2,Support Engineer
+Eagle Eye Networks Inc,Technical Support Representative - L1A,Bengaluru,4.5,"Business intelligence, Technical support, Computer networking, Network architecture, APIs",3.1,Support Engineer
+Innometrics Software Pvt Ltd,Technical Support Specialist,Noida,3.6,"Microsoft Outlook, Software troubleshooting, Technical support, Communication skills, Time management",0.0,Support Engineer
+Ankur Web Technology,Technical Support Representative,Allahabad,5.0,Technical support,0.0,Support Engineer
+Innvocon,Technical Support Engineer (L2),Noida,6.0,"Jira, XML, Multilingual, Data structures, J2EE",5.0,Support Engineer
+BLUEBOX INFOSOFT PVT LTD,IT Support Engineer,India,2.7,"Microsoft Windows Server, Desktop support, TCP, Software troubleshooting, IIS",0.0,Support Engineer
+Botree Software International Pvt Ltd,Technical Support (Hindi Language),Chennai,3.0,"Customer service, English, Technical support, SQL, Tamil",0.0,Support Engineer
+Trdez Investment Pvt. Ltd.,Desktop Support Engineer,Pune,2.28,"Desktop support, Power BI, Software troubleshooting, Data analytics, Python",0.0,Support Engineer
+Cimcon Automation,Technical Support/ Implementation Engineers,India,13.993444444444446,"English, Technical support",3.6,Support Engineer
+OA Compserve Pvt.Ltd,IT Field Support Engineer,India,2.7,"CCTV, LAN, Computer hardware, IT support, IP networking",0.0,Support Engineer
+Kartik Enterprises,Desktop Support Engineer,India,3.0,"Desktop support, Software troubleshooting, English, Microsoft Office, Computer networking",0.0,Support Engineer
+Open Text Corporation,Sr. Technical Support Specialist,Bengaluru,5.0,"Windows, Technical support, Analysis skills, Content creation, Linux",3.4,Support Engineer
+ZM Technologies,Jr. technical Support,Pune,23.76,"Azure, Software troubleshooting, LAN, Technical support, Firewall",4.0,Support Engineer
+Aspen Technology,Technical Support Engineer I,Pune,8.5,"Software troubleshooting, English, Technical support, Computer networking, Communication skills",3.2,Support Engineer
+Jewels Infosystems,Desktop Support Engineer,Jaipur,1.5,"Microsoft SQL Server, Firewall, Computer hardware, Computer networking",1.0,Support Engineer
+Veg Ease,IT Support Engineer,Noida,2.28,"Software troubleshooting, Warehouse management system, Windows, IT support, Linux",0.0,Support Engineer
+Transoft Solutions,Tech Support Analyst,Bengaluru,5.5,"CRM software, AutoCAD, MicroStation, CAD, English",4.0,Support Engineer
+Toshvi Computer Services,Desktop Support Engineer,Pune,5.0,"Desktop support, Microsoft Outlook, Software troubleshooting, Windows, Computer networking",0.0,Support Engineer
+Secure service plus,"Fresher job for Technical Support Executive in electronic city, Bangalore",Bengaluru,12.0,"English, Technical support, Microsoft Office, SQL",0.0,Support Engineer
+Acute Informatics Pvt. Ltd,Network Support Engineer,Mumbai,3.48,"OSPF, LAN, BGP, WAN, Computer networking",3.3,Support Engineer
+NICE Systems,Specialist Technical Support Engineer,Pune,9.5,"Microsoft Windows Server, Elasticsearch, Azure, Customer service, Enterprise Software",4.3,Support Engineer
+Altera Digital Health India,Technical Support Consultant - 1870,Pune,7.0,"Microsoft Windows Server, Software troubleshooting, IIS, English, Research",3.5,Support Engineer
+ZS,Technical Support Associate,Pune,8.0,"Microsoft Outlook, Software troubleshooting, SCCM, Customer service, iOS",3.6,Support Engineer
+Zebra Technologies,"Technical Customer Support, II",Pune,21.461904761904762,"Software troubleshooting, Customer service, Communication skills",3.9,Support Engineer
+ITMantra,Desktop Support Engineer,Noida,5.5,"LAN, VoIP, DNS, IP networking",2.9,Support Engineer
+Radiant Job,Network Support Engineer,Mumbai,7.0,"TCP, Software troubleshooting, Customer service, LAN, English",0.0,Support Engineer
+Great Techno Tycoon,Jr. Technical Support Engineer,Indore,3.5,"Technical support, Communication skills",0.0,Support Engineer
+Ciena,"Senior Associate, Global Technical Support",Gurgaon,8.0,"Microsoft Word, Computer science, Microsoft Excel, Microsoft Outlook, English",4.2,Support Engineer
+Eltropy,Technical Support Specialist- Tier 2,Bengaluru,4.5,"Jira, Fiddler, SFTP, SSO, Technical support",4.0,Support Engineer
+Dixit Infotech,Desktop Support Engineer,Bharūch,42.0,"Desktop support, Microsoft Outlook",4.0,Support Engineer
+Upwork,595-Remote OneDrive Technical support Agent with M365 Skills,Delhi,21.461904761904762,"Software troubleshooting, LAN, English, Windows, Technical support",3.9,Support Engineer
+"Red Hat, Inc.",Associate Technical Support Engineer,Pune,8.0,"Kubernetes, Customer service, Technical support, OS Kernels, Computer networking",4.2,Support Engineer
+"AmvionLabs Pvt Ltd.,",Network Support Engineer,Chennai,3.0,"TCP, DHCP, Analysis skills, Network protocols, DNS",0.0,Support Engineer
+Minitek Systems India pvt ltd,hardware Technical Support,India,27.36,"English, Technical support, Microsoft Office, ServiceNow",4.5,Support Engineer
+Abiding Technology,IT Support Engineer,India,1.8,"TCP, Software troubleshooting, Windows, Microsoft Office, Computer networking",0.0,Support Engineer
+Samsara,Technical Support Specialist,Bengaluru,20.89470588235294,"French, Computer science, Software troubleshooting, Technical support, GPS",3.5,Support Engineer
+Fourth Dimension Technologies,Desktop Support Engineer,Chennai,30.0,"Software troubleshooting, DNS, Communication skills",4.3,Support Engineer
+Hi Tech Informatics,Technical Support Engineer,Bengaluru,25.92,"Technical support, Microsoft Office, ServiceNow",3.8,Support Engineer
+Stokhos Research Capital LLP,Senior Technical Support Specialist,Noida,5.1,"Software troubleshooting, Windows, Technical support, Firewall, IT support",0.0,Support Engineer
+Placement Local Services,Desktop Support Engineer,India,2.4,"Desktop support, Operating systems, Microsoft Outlook, Software troubleshooting, Windows",0.0,Support Engineer
+BD Software Distribution,Technical Support,Mahape,4.0,Technical support,2.0,Support Engineer
+Andrew's Group,Technical Support,Hyderābād,3.5,"Google Suite, Software troubleshooting, Windows, Technical support, ITIL",0.0,Support Engineer
+Digital Rath,Technical Support Engineer,Mumbai,39.6,"Technical support, Microsoft Office, ServiceNow",4.0,Support Engineer
+NCR,IT Engineer - Customer Support Services,Mumbai,4.533333333333333,"Desktop support, Operating systems, Software troubleshooting, English, Windows",3.4,Support Engineer
+Coates Group,Technical Support Engineer L2,Remote,13.571428571428571,"Microsoft Powerpoint, Microsoft Excel, Software troubleshooting, Technical support, PHP",4.2,Support Engineer
+Etech Global Services,Technical Support Analyst,Gāndhīnagar,42.0,"CSS, XML, Salesforce, English, Technical support",3.7,Support Engineer
+Lakshmi Computer Services,IT Administrator / System Support / Desktop Support Engineer,India,1.08,"AutoCAD, Desktop support, Microsoft Outlook, CCTV, Windows",0.0,Support Engineer
+CIPL,Desktop Support Engineer,Panvel,2.82,Software troubleshooting,0.0,Support Engineer
+Coempt Eduteck Private Limited,Technical Support Executive,Nashik,2.1,"English, Technical support, Microsoft Office, ServiceNow, Computer skills",0.0,Support Engineer
+NCR JOB CONSULTANT,IT Support Engineer,Gurgaon,1.98,"English, Technical support, IT support, Accounting, Computer skills",0.0,Support Engineer
+ManageEngine,Technical Support Engineers,Chennai,5.0,Technical support,3.4,Support Engineer
+TVS ELECTRONICS LIMITED,Resident Engineer - ( Desktop Support Engineer ),Chennai,2.1,"English, Computer hardware, Communication skills",0.0,Support Engineer
+Dixit Infotech Services Pvt. Ltd,Desktop Support Engineer,Bharūch,42.0,Microsoft Outlook,4.0,Support Engineer
+Elinkins Technologies,Technical Support Executive ( School ERP),Delhi,12.0,"Microsoft Excel, English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+LetMeDoit Technologies,Technical Support Executive,Kerala,18.577777777777776,"Customer service, English, Technical support, Database management, Quality assurance",5.0,Support Engineer
+Edunext Technologies Pvt. Ltd.,Technical Support Executive,India,2.0,"Microsoft Word, Microsoft Excel, English, Technical support, Microsoft Office",0.0,Support Engineer
+Sabre,Technical Product Support Analyst III-VIP,Bengaluru,6.0,Time management,3.8,Support Engineer
+Rotork,Support Analyst - Infrastructure,Chennai,5.5,"Microsoft Windows Server, Azure, Software troubleshooting, Windows, Computer networking",3.6,Support Engineer
+Employ Inc.,"Manager, Technical Support",Bengaluru,6.0,"Knowledge management, Technical support, Microsoft Office, APIs, SaaS",2.3,Support Engineer
+Fastcollab,Technical Support Engineer-Java,Hyderābād,3.5,"Technical support, Java, SQL, Continuous improvement, Spring",0.0,Support Engineer
+Altera Digital Health India,"Technical Support Consultant(support, SQL) - 1871",Pune,7.0,"Computer science, Azure, Software troubleshooting, Relational databases, Technical support",3.5,Support Engineer
+Pelican Services,​Pelican Services Technical Support,Hyderābād,42.0,Technical support,4.1,Support Engineer
+ADCI - Karnataka,"Network Development Engineer, Operations, IT, & Support Engineering",Bengaluru,18.0,"Information security, Perl, Routing protocols, Scripting, Network support",3.6,Support Engineer
+Movate,Technical Support Engineer,Chennai,36.0,"English, Technical support, Communication skills",3.6,Support Engineer
+BlueBox Infosoft pvt. Ltd.,Sr. IT Support Engineer: 3 To 5 Years,India,18.865714285714287,"Microsoft Windows Server, TCP, Software troubleshooting, IIS, Customer service",3.7,Support Engineer
+Team One Tech Solutions LLP,Desktop Support Engineer,Thāne,2.5,"Desktop support, Microsoft Office, Computer networking, ServiceNow",0.0,Support Engineer
+CloudFoundation,Technical Support Engineer,Hyderābād,5.5,"Microsoft Windows Server, Live chat, Windows, Technical support, Computer networking",5.0,Support Engineer
+Genie Infotech Private Limited (GITPL),Desktop Support Engineer,Pune,5.0,"Desktop support, Software troubleshooting, Windows, Computer networking, MacOS",3.6,Support Engineer
+pulton automation,Desktop Support Engineer L1,India,2.4,"Microsoft Office, ServiceNow, Communication skills",0.0,Support Engineer
+Sitaram Bhartia Institute of Science Researc,Desktop Support Engineer - Information Technology.,Delhi,13.571428571428571,"Software troubleshooting, System design, Computer networking",4.2,Support Engineer
+Mind map IT Solutions,IT Customer Support Specialist,Mohali,4.073035714285714,"Microsoft Office, ServiceNow, Customer support, Communication skills",0.0,Support Engineer
+Zebra Technologies,"Technical Customer Support, Senior",Pune,48.0,"Microsoft Word, Microsoft Excel, Microsoft Outlook, Customer service, Communication skills",3.9,Support Engineer
+Diya Systems,Technical Support Voice,Mangalore,5.0,"Software troubleshooting, Customer service, Call center, English, Technical support",3.6,Support Engineer
+Vindhya e-Infomedia,L1 Desktop Support Engineer - Bengaluru,Bengaluru,4.073035714285714,"Desktop support, TCP, Software troubleshooting, Windows, Microsoft Office",0.0,Support Engineer
+ZaranTech,Technical Support Executive,Bengaluru,4.5,"English, Technical support, Communication skills",4.1,Support Engineer
+CHIPTRONICS SOLUTIONS,Technical Support Executive,India,2.22,"Customer service, English, Windows, Technical support",0.0,Support Engineer
+Equus,Desktop Support Engineer,Karīmnagar,2.1,Desktop support,3.0,Support Engineer
+Primeindus Fintech Solutions||Indusspay,Java Technical Support Specialist,India,12.0,"English, Technical support, Java, SharePoint, Hindi",0.0,Support Engineer
+Bottomline,Technical Support Consultant,Bengaluru,5.0,"FTP, SFTP, TCP, Operating systems, Oracle",3.4,Support Engineer
+Quantum IT Solutions,Technical Support Engineer,India,15.544571428571428,"Microsoft Windows Server, Azure, Microsoft Outlook, LAN, English",4.6,Support Engineer
+Matrix Business Machines Pvt Ltd,Desktop Support Engineer,India,38.16,"Software troubleshooting, Windows, Microsoft Office, Firewall, Network security",4.1,Support Engineer
+Mars Infocare Solutions Pvt. Ltd,Desktop/Customer Support Engineer (Field IT) (Delhi/Noida Only),India,18.0,"Microsoft Outlook, Software troubleshooting, LAN, Windows, Microsoft Office",5.0,Support Engineer
+WalkMe,Technical Support Engineer,Bengaluru,6.0,"CSS, Enterprise Software, SAP, Technical support, Application support",4.2,Support Engineer
+SS Technologies,Desktop Support Engineer,Bengaluru,4.073035714285714,"Desktop support, iOS, English, Microsoft Office, Hindi",0.0,Support Engineer
+Solenis,"Team Lead, Technical Customer Support",Bengaluru,4.5,,3.7,Support Engineer
+"RAMAN IT PVT LTD.,",Technical Support Engineer,India,3.5,"Operating systems, Software troubleshooting, Customer service, Windows, Technical support",0.0,Support Engineer
+swaliya softech,Technical Support Representative,Pune,5.5,Technical support,3.7,Support Engineer
+Optum,Senior Tech Support Analyst Application Support,Gurgaon,30.0,"Oracle, Incident management, IT service management, Microsoft SQL Server, Technical support",3.5,Support Engineer
+iLogic Network Solution Pvt Ltd,IT Support Engineer,Noida,2.7,"Azure, Remedy, Research",0.0,Support Engineer
+NEO GUIDE,Technical Support (Bangalore),Cochin,2.16,"English, Technical support, Microsoft Office",0.0,Support Engineer
+crutz leela,AL ML Support Engineer,Remote,7.0,"Go, English, C++, C, Natural language processing",0.0,Support Engineer
+Datastraw,Customer Support Associate - Female,Remote,2.28,"CRM software, Google Docs, Customer service, English, Organizational skills",0.0,Support Engineer
+Finastra USA Corporation,Support Engineer,Bengaluru,6.0,"JBoss, Azure, Oracle, Ansible, WebSphere",4.1,Support Engineer
+Zeller,Application Support Engineer (AWS) (4-7 Years),Remote,20.791818181818183,"Change management, SQL, AWS, Analysis skills, Communication skills",3.8,Support Engineer
+cyber hospitality private limited,Network Support Engineer,Vadodara,4.073035714285714,"Desktop support, TCP, Software troubleshooting, Load balancing, LAN",0.0,Support Engineer
+Smile Security and Surveillance Pvt. Ltd.,Network Support Engineer,Delhi,3.24,"Customer service, Firewall, DHCP, Computer networking, DNS",0.0,Support Engineer
+Altius Customer Services Pvt Ltd,International Process - Network Support Engineer - Vashi,Navi Mumbai,36.0,"English, Microsoft Office, Computer networking, ServiceNow, Communication skills",3.8,Support Engineer
+impact pvt,VIP Support Engineer,Hyderābād,2.5,"Software troubleshooting, English, Windows, Microsoft Office",0.0,Support Engineer
+Orange Hr,Sr Network Support Engineer,India,6.5,"TCP, Customer service, LAN, English, DHCP",0.0,Support Engineer
+RGF HR Agent India (リクルートグループインド法人),Network Support Engineer,Chennai,3.5,"Node.js, Vendor management, CCTV, English, Network infrastructure",0.0,Support Engineer
+JENX Digitech Pvt Ltd,Network Support Engineer,Hālol,2.52,"Network installation, TCP, Network protocols, Computer networking, Network support",3.0,Support Engineer
+Accenture,Network Infrastructures-Application Support Engineer,Bengaluru,20.791818181818183,Network security,3.8,Support Engineer
+Avils Infra Pvt Ltd,AV Support Engineer,India,4.2,Communication skills,0.0,Support Engineer
+Indus Systems & Services Pvt. Ltd,L1 Support Engineer,India,3.5,"Jira, Remedy, Windows, Firewall, ITIL",0.0,Support Engineer
+Shanvi Infotec,Network Support Engineer,Udaipur,3.78,"Microsoft Access, Microsoft Office, Firewall, ITIL, Network protocols",0.0,Support Engineer
+STREAMLINE SOLUTIONS,Desktop & Network Support Engineer,India,6.0,"Software troubleshooting, Firewall, Network management, Remote access software, IT support",0.0,Support Engineer
+Sureworks Infotech Pvt Ltd,Server Support Engineer,Hyderābād,39.6,,3.6,Support Engineer
+Nexapp Technologies,"Sr.Network Engineer-NOC, L2 Customer Support",Pune,30.0,"TCP, Customer service, OSPF, Firewall, DHCP",4.1,Support Engineer
+Transaction Network Services,NOC Support Engineer,India,4.533333333333333,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Software troubleshooting, PCI",3.4,Support Engineer
+S&P Global,Network Support Engineer,Gurgaon,6.5,"Kubernetes, Ansible, Load balancing, Configuration management, Git",4.1,Support Engineer
+BhaiFi Networks Pvt. Limited,Network Support Engineer,Gurgaon,41.76,"Network installation, TCP, Software deployment, LAN, English",4.5,Support Engineer
+Michelin,Support Engineer,Pune,9.5,"Microsoft Windows Server, TCP, Software troubleshooting, Ansible, Windows",4.0,Support Engineer
+Schneider Electric,Remote Support Engineer,Bengaluru,13.571428571428571,"Microsoft Windows Server, Operating systems, Technical support, SQL, Electrical experience",4.2,Support Engineer
+HSBC,Java Support Engineer/Software Engineer,Pune,9.5,"JBoss, TCP, Oracle, Node.js, Software troubleshooting",3.9,Support Engineer
+ADCI HYD 13 SEZ - H84,Support Engineer,Hyderābād,13.993444444444446,"Operating systems, Software troubleshooting, Technical support, Scripting, Software development",3.6,Support Engineer
+Technowand,M365 Support Engineer- Level 1,Cochin,5.0,"System administration, Azure, Microsoft Exchange, Microsoft Office, IT support",2.9,Support Engineer
+Sureworks Infotech Pvt Ltd,Enterprise Support Engineer,Jaipur,39.6,Computer networking,3.6,Support Engineer
+Acute Informatics Pvt. Ltd,Desktop Support Engineer L1,Calcutta,2.22,"Software troubleshooting, Microsoft Office",3.3,Support Engineer
+Microsoft,Technical Support Engineering,Hyderābād,5.0,"FTP, Fiddler, TCP, System administration, Azure",4.2,Support Engineer
+UNIMAPLE MODUTECH PRIVATE LIMITED,Hardware & Network Support Engineer,India,3.0,"TCP, Operating systems, LAN, Encryption, Windows",0.0,Support Engineer
+Skan Netcommunications Technoloy Pvt Ltd,Computer & Network support Engineer,India,1.62,"English, Microsoft Office, Computer hardware, ServiceNow",0.0,Support Engineer
+Integgral Corporate Service,Network Support Engineer,India,2.1,"English, Technical support, Microsoft Office, ServiceNow",0.0,Support Engineer
+ITMantra,Customer Support Engineer,Aurangābād,4.5,"Software troubleshooting, LAN, VoIP, WAN, DNS",2.9,Support Engineer
+Intellioz,Support Engineer,Noida,6.0,"Jira, System administration, SQL, ServiceNow, Linux",0.0,Support Engineer
+NOKIA,Operations Support Engineer,India,23.336363636363636,"Bloomberg, Analysis skills",4.0,Support Engineer
+Vitrag Enterprise Llp,Computer Desktop and Network Support Engineer ( Only Male Candidate),Gāndhīnagar,2.4,"Network installation, Operating systems, Software troubleshooting, LAN, Computer hardware",0.0,Support Engineer
+PTS Systems & Solutions Pvt Ltd,Network & Desktop Support Engineer,India,25.2,"Network administration, Desktop support, Operating systems, LAN, Windows",3.9,Support Engineer
+Ericsson,Support Engineer,Chennai,5.5,"Software deployment, Machine learning, Problem management, Python",4.0,Support Engineer
+Kalyan Jewellers,Hardware and Network Support Engineer,Thrissur,36.0,"Network installation, CCTV, .NET, Network support",4.2,Support Engineer
+Jampot Technologies,Technical Support Engineer (Fresher),Mumbai,4.5,"TCP, Technical support, Network infrastructure, VoIP, Presentation skills",3.4,Support Engineer
+"Alteryx, Inc.",Customer Support Engineer,Bengaluru,7.0,"Alteryx, Windows, Communication skills",3.2,Support Engineer
+Accenture,Application Support Engineer,Nāgpur,20.791818181818183,"SSL, Scripting, Network support, Communication skills, Juniper",3.8,Support Engineer
+Turing.com,Desktop & Network Support Engineers,India,12.0,"Desktop support, Software troubleshooting, Network management, IT support, Network support",0.0,Support Engineer
+Recruise,1700_Labs Solution Delivery and Support Engineer,Bengaluru,8.5,"Computer science, HP ALM, Oracle, Node.js, Laboratory experience",4.7,Support Engineer
+MyAdvice,Website Support Engineer,Remote,13.5,"Drupal, Web analytics, CSS, WordPress, Content management systems",4.1,Support Engineer
+Aarav Software Services Pvt Ltd,Application Support Engineer,Bengaluru,6.5,"Oracle, Weblogic, Continuous improvement, Linux, Apache",0.0,Support Engineer
+Zenwear Technologies,Application Support Engineer,India,18.577777777777776,"Oracle, Microsoft SQL Server, Technical support, Performance management, Java",5.0,Support Engineer
+Juniper Networks,L1 Technical Support Engineer – Security,Bengaluru,12.0,"FTP, NIS, TCP, Software troubleshooting, NFS",4.1,Support Engineer
+SISL Infotech,Information Security Support Engineer(0 to less than 2 years relevant experience),India,19.774,Information security,4.1,Support Engineer
+Bhuvi IT Solutions,System Support Engineer,Remote,13.571428571428571,"Jira, Software troubleshooting, Microsoft SQL Server, MongoDB, Technical support",4.2,Support Engineer
+MicroWorld Software Services Pvt. Ltd,Security Technical Support Engineer,India,3.0,"TCP, Operating systems, Windows, Technical support, Analysis skills",2.9,Support Engineer
+Ventura Securities,Application Support Engineer,India,20.791818181818183,,3.8,Support Engineer
+Network Techlab (India) Pvt. Ltd,Hiring for Engineer Technical Support L1,Mumbai,36.0,"OSPF, English, Technical support, Firewall, BGP",3.8,Support Engineer
+Orbit & Skyline,Information Security Support Engineer,Mohali,48.0,"Information security, SharePoint",4.0,Support Engineer
+Invendis Technologies,Application support engineer​,India,18.865714285714287,"Software troubleshooting, Data analysis skills, English, Electrical experience, Telecommunication",3.7,Support Engineer
+Accenture,Technology Support Engineer,Mumbai,20.791818181818183,"System administration, Network protocols, Scripting, Linux, Shell Scripting",3.8,Support Engineer
+Accenture,Application Support Engineer,Pune,20.791818181818183,,3.8,Support Engineer
+systems plus,Excel/VBA Support Engineer,Pune,5.5,"Microsoft Excel, Microsoft Access, Merchandising",2.9,Support Engineer
+Yubi,L1 Support Engineer,Chennai,6.0,"Desktop support, Operating systems, Software troubleshooting, Customer service, Encryption",3.9,Support Engineer
+Scrumconnect Consultancy,Application Support Engineer,Bengaluru,8.0,"Azure, DevOps, AWS, Analysis skills, ITIL",4.8,Support Engineer
+Dixit Infotech,Remote Support Engineer,India,23.336363636363636,Communication skills,4.0,Support Engineer
+Dixit Infotech Services Pvt. Ltd,Desktop Support Engineer L2,Hosūr,6.0,"Desktop support, Software troubleshooting, Windows, Microsoft Office, DHCP",4.0,Support Engineer
+Oracle,Principal Support Engineer - Infra & Testing (SWIFT),India,20.791818181818183,"Oracle, Software deployment, Change management, ServiceNow, SDLC",3.8,Support Engineer
+Dixit Infotech,Customer Support Engineer,Nashik,48.0,"Desktop support, IT support",4.0,Support Engineer
+SISL Infotech,Information Security Support Engineer(6 Years and Above relevant experience),India,19.774,Information security,4.1,Support Engineer
+ALSTOM,Fleet Support Engineer,Indore,8.5,"Automotive repair, Maximo, SAP, English, Administrative experience",3.8,Support Engineer
+Atlassian,"Senior Site Reliability Engineer, Customer Support Technology",Bengaluru,6.5,"Cloud infrastructure, Azure, PaaS, Java, Microservices",3.7,Support Engineer
+jaggi brothers,Desktop Support Engineer,Gurgaon,2.4,"Software troubleshooting, Ophthalmology, Microsoft Office, Computer hardware, Communication skills",0.0,Support Engineer
+Accenture,Application Support Engineer,Coimbatore,20.791818181818183,"Azure, Incident management, Software troubleshooting, Kubernetes, DevOps",3.8,Support Engineer
+ADCI - Karnataka,"Support Engineer, Amazon Payment Products",Bengaluru,7.0,"AWS, Project management, Distributed systems, Scripting, Software development",3.6,Support Engineer
+Aspen Technology,Field Support Engineer I,Bengaluru,8.5,"Oracle, Microsoft SQL Server, Windows, Databases, SQL",3.2,Support Engineer
+Accenture,Technology Support Engineer,Coimbatore,20.791818181818183,"Microsoft Powerpoint, CI/CD, System administration, Azure, Gradle",3.8,Support Engineer
+Vivid Led System,Field Support Engineer,India,1.8,"Software troubleshooting, ServiceNow, Communication skills",0.0,Support Engineer
+Sunware Technologies Private Limited,Dot Net Support Engineer,Pune,11.5,"ASP.NET, MVC, Visual Basic, .NET Core, C#",0.0,Support Engineer
+BISINTECH IT SOLUTIONS PVT LTD,Network Support Engineer,India,1.8,"TCP, Software troubleshooting, Network infrastructure, DHCP, Analysis skills",0.0,Support Engineer
+Orbit & Skyline,Senior Product Support Engineer,Mohali,23.336363636363636,"Image processing, Software troubleshooting, Computer vision, Laboratory experience, Analysis skills",4.0,Support Engineer
+NielsenIQ,Senior Support engineer,Pune,8.0,"Power BI, Azure, Software troubleshooting, Software deployment, Enterprise Software",3.8,Support Engineer
+HealthEdge,Senior Application Support Engineer,Pune,5.0,"CI/CD, Performance tuning, System administration, Azure, Oracle",3.5,Support Engineer
+Airlinq,Sr. Technical Engineer (L2 Support Engineer),Bengaluru,3.0,"Internet of things, Solaris, SQL, VoIP, Perl",3.2,Support Engineer
+CARE INFOTECH,Software Support Engineer,Hyderābād,1.8,"Software troubleshooting, Windows, .NET, Java, Analysis skills",0.0,Support Engineer
+Reliable Software Systems Pvt Ltd,Software Support Engineer,Mumbai,48.0,Communication skills,3.8,Support Engineer
+Esko,Software Support Engineer - Solutions Support,Bengaluru,6.5,"English, IT support",3.3,Support Engineer
+Growen,JUNIOR SOFTWARE SUPPORT ENGINEER,Calicut,4.073035714285714,"Microsoft SQL Server, SQL, Communication skills",0.0,Support Engineer
+Ezulix Software,Technical Support Executive/Voice Process,Jaipur,16.60909090909091,"Operating systems, Technical support, Computer networking, Communication skills",4.3,Support Engineer

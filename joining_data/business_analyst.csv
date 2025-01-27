@@ -1,0 +1,409 @@
+company_name,job_role,job_location,salary_lpa,skills,company_rating,standardized_job_role
+Norstella,BI Developer,Remote,5.642857142857143,"Power BI, Data modeling, Azure, Business intelligence, Waterfall",3.4,Business Analyst
+[x]cube LABS,Business Analyst Trainee,Hyderābād,5.0,"Business analysis, English, Microsoft Office, AWS, Analysis skills",4.4,Business Analyst
+Serole Technologies,IT Business Analyst,Hyderābād,6.5,"Business analysis, Software development, Agile, Design thinking",3.8,Business Analyst
+[x]cube LABS,Power BI Developer,Hyderābād,6.0,"Power BI, Azure, Business intelligence, CSS, Microsoft SQL Server",4.4,Business Analyst
+Lampros Tech,Business Analyst,Ahmedabad,4.5,"Business analysis, Project management, Agile, Business requirements, Communication skills",4.3,Business Analyst
+Parkar Digital,Senior Business Analyst,Pune,5.5,"XML, Business analysis, Microsoft Office, SQL, Analysis skills",2.6,Business Analyst
+Appventurez Mobitech,Business Analyst,Noida,6.457330000000001,"Azure, iOS, Google Cloud Platform, AWS, Quality assurance",0.0,Business Analyst
+Rejolut Technology Solutions,Business Analyst,Navi Mumbai,6.5,"Azure, Google Cloud Platform, AWS, Project management, Quality assurance",3.9,Business Analyst
+Optum,Business Analyst,Noida,6.457330000000001,"Power BI, Business intelligence, Tableau, SQL, Communication skills",0.0,Business Analyst
+Mobile Programming LLC,Business Intelligence Analyst,Pune,8.0,"Microsoft Powerpoint, Microsoft Outlook, Business intelligence, Business analysis, Tableau",3.6,Business Analyst
+Cliniqon,Business Intelligence Analyst,India,2.0,"Power BI, Microsoft Excel, Business intelligence, Tableau, SQL",0.0,Business Analyst
+Gleuhr,Business Intelligence Analyst,Chandigarh,4.8,"Power BI, Business intelligence, R, QlikView, Tableau",0.0,Business Analyst
+Scrumconnect Consultancy,Business Intelligence Analyst,Bengaluru,17.5,"Power BI, Business intelligence, Data analysis skills, Tableau, Analysis skills",4.8,Business Analyst
+Cummins Inc.,Business Intelligence Analyst,Pune,8.5,"Power BI, Data mining, Business intelligence, SQL, Quality assurance",4.0,Business Analyst
+Paychex,Business Intelligence Reporting Analyst I,Bengaluru,9.0,"Business intelligence, Analysis skills, Communication skills",3.4,Business Analyst
+KShiyaRise,Business Analyst,Remote,16.0,"Jira, CRM software, Power BI, Azure, Oracle",0.0,Business Analyst
+Zeta Global,Business Systems Analyst,Hyderābād,8.0,"Microsoft Powerpoint, Microsoft Word, Email marketing, Business analysis, Microsoft Office",3.5,Business Analyst
+ProcDNA,Business Analyst,Gurgaon,4.5,"SAS, Salesforce, R, Alteryx, Tableau",3.2,Business Analyst
+"Optum Global Solutions, UHG",Senior Business Analyst,Gurgaon,6.457330000000001,"Power BI, Azure, Business intelligence, Alteryx, Microsoft SQL Server",0.0,Business Analyst
+ADCI HYD 16 SEZ,"Business Analyst, GO-AI",Hyderābād,7.633333333333334,"Microsoft Excel, Big data, R, SQL, Data analytics",3.6,Business Analyst
+Munificent Tech Services Pvt Ltd,Business Analyst,Nashik,6.5,"Microsoft Excel, Data mining, English, Microsoft Office, Analysis skills",0.0,Business Analyst
+Kroll,Business Intelligence Analyst,Mumbai,5.0,"Power BI, Business intelligence, Business analysis, Microsoft SQL Server, SSRS",3.5,Business Analyst
+Group Concorde,Business Analyst,Gurgaon,5.4,"Microsoft Powerpoint, Power BI, Microsoft Excel, Business analysis, Microsoft Office",3.7,Business Analyst
+TE Connectivity,Business Analyst,Bengaluru,14.5,"Power BI, Microsoft Excel, Azure, Business intelligence, Supply chain",4.1,Business Analyst
+Adobe,Business Intelligence Analyst,Noida,4.5,"Power BI, Microsoft Excel, Business intelligence, R, Data analysis skills",4.2,Business Analyst
+ASSPL - Karnataka,"Business Analyst, S&OP",Bengaluru,8.5,"Microsoft Excel, Big data, R, Business analysis, SQL",3.6,Business Analyst
+Vitech,Business Intelligence Analyst,Hyderābād,5.5,"Jira, Power BI, Business intelligence, R, SQL",4.9,Business Analyst
+Aritha,Business Analyst,Hyderābād,7.0,"SAS, R, Business analysis, Data analysis skills, Qualitative analysis",3.3,Business Analyst
+ScoopWhoop,Business Intelligence Analyst,Delhi,8.5,"Performance tuning, Power BI, Business intelligence, SAS, SQL",3.2,Business Analyst
+ABM Knowledgeware Ltd.,Business Analyst,Bhopal,42.0,Data analysis skills,3.5,Business Analyst
+ANZ Banking Group,Senior Business Intelligence Development Analyst,Bengaluru,30.0,"Data modeling, Data mining, Business intelligence, R, Scripting",3.9,Business Analyst
+Grid Logic Software Private Limited,Business Intelligence Analyst,Hyderābād,5.5,"Business intelligence, Research, SQL, Database design, Machine learning",4.8,Business Analyst
+Kalyani Motors,Business Analyst,Bengaluru,6.5,"Microsoft Excel, SAS, R, E-Commerce, Analysis skills",0.0,Business Analyst
+Datanetiix Solutions,Business Analyst,India,8.83047619047619,,4.1,Business Analyst
+WeCredit,Business Analyst,Saket,6.457330000000001,"Data mining, Tableau, Databases, SQL, Analysis skills",0.0,Business Analyst
+Eclerx,Business Analyst,India,5.642857142857143,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Auditing, Business analysis",3.4,Business Analyst
+Gridlogic,Business Intelligence Analyst,Hyderābād,5.5,"Business intelligence, Research, SQL, Database design, Machine learning",4.8,Business Analyst
+Littelfuse,Business Intelligence Analyst,Noida,6.0,"Power BI, Data modeling, Microsoft Access, Business intelligence, English",3.9,Business Analyst
+Groupbayport,Business Intelligence Specialist,Gurgaon,12.5,"Power BI, Microsoft Excel, Business intelligence, Microsoft Office, SQL",0.0,Business Analyst
+Mindbody,Business Intelligence Analyst II,Pune,7.5,"Microsoft Powerpoint, Power BI, Data modeling, Business intelligence, Git",3.5,Business Analyst
+Hilabs,Business Analyst,Pune,6.0,"Jira, Microsoft Excel, Business analysis, Data analysis skills, Databases",4.2,Business Analyst
+Amazon Dev Center India - Hyderabad,"Business Analyst I, Buyer Abuse Prevention -Analytics",Bengaluru,8.5,"Data mining, Business intelligence, Tableau, SQL, Communication skills",3.6,Business Analyst
+MagicFinServ,Business Analyst,Remote,6.457330000000001,"Jira, Microsoft Excel, Regulatory reporting, Business analysis, Data analysis skills",0.0,Business Analyst
+PayU,Business Analyst,Mumbai,7.0,"Statistics, Data mining, Business intelligence, PCI, SAS",3.7,Business Analyst
+Avnet,Business Analyst II,Bengaluru,7.0,Business analysis,3.8,Business Analyst
+ASSPL - Karnataka,"Business Analyst Support, GSF Prime Now",Bengaluru,8.5,"Microsoft Excel, Big data, R, Business analysis, SQL",3.6,Business Analyst
+The Phoenix Group,Business Analyst,Pune,5.0,"Jira, Power BI, Microsoft Excel, Business intelligence, Business analysis",3.9,Business Analyst
+TechExe It Solutions,Business Analyst,Lucknow,48.0,"Microsoft Word, Microsoft Excel, Business analysis, Microsoft Office, Analysis skills",5.0,Business Analyst
+Ellicium,Jr. Business Analyst,Pune,8.5,"Big data, Business analysis, SQL, Python",3.7,Business Analyst
+Crypto Mize,Business Analyst,Delhi,9.5,"Computer science, Data mining, Relational databases, Business analysis, Information security",4.8,Business Analyst
+"Opalforce, Inc.",Business Analyst,Bengaluru,5.0,"Jira, Computer science, Cloud infrastructure, Microsoft Excel, Kubernetes",4.3,Business Analyst
+MarketStar,Business Intelligence Analyst,Bengaluru,7.0,"Power BI, Microsoft Excel, Business intelligence, Data analysis skills, Tableau",3.5,Business Analyst
+Thermo Fisher Scientific,Business Intelligence Analyst,Mumbai,5.0,"Statistics, Cognos, Computer science, Data modeling, Oracle",3.6,Business Analyst
+MSI Services,Business Intelligence Analyst II,Bengaluru,7.633333333333334,"Power BI, Flooring installation, Business intelligence, English, Tableau",3.6,Business Analyst
+Swiggy,Senior Business Analyst View Jobs,Bengaluru,9.0,"Statistics, Business intelligence, SAS, R, QlikView",3.6,Business Analyst
+Dentsu,Senior Analyst - Business Intelligence,India,7.117826086956522,"Power BI, Microsoft Excel, Business intelligence, Data analysis skills, Analysis skills",3.7,Business Analyst
+Paytm,Business Intelligence Analyst -Junior Manager- First Games,Noida,7.0,"Power BI, Data modeling, Business intelligence, Data analysis skills, Tableau",3.2,Business Analyst
+Kasmo Technologies,Business Analyst,Bengaluru,5.5,"Microsoft Excel, Salesforce, Business analysis, Data analysis skills, Analysis skills",4.5,Business Analyst
+nCircle Tech,Business Analyst,Pune,5.5,"Microsoft Powerpoint, Microsoft Outlook, CAD, Business analysis, Tableau",4.3,Business Analyst
+Klystron Technologies,Business Analyst,India,3.6,"Jira, Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Waterfall",0.0,Business Analyst
+ADCI - BLR 14 SEZ - F07,"Business Analyst, WHS Data",Bengaluru,8.5,"Tableau, Databases, SQL, Scripting, Pivot tables",3.6,Business Analyst
+Vedak,Business Analyst,Kolhāpur,30.0,"Business analysis, English, Microsoft Office, Computer networking, Project implementation",4.1,Business Analyst
+BDIPlus,Business Analyst II,Bengaluru,3.6,"Data modeling, Mobile applications, Business analysis, NoSQL, Databases",3.2,Business Analyst
+Neptunus Power Plant Services,Business Analyst Associate,Navi Mumbai,42.0,"Google Suite, Business intelligence, Data analysis skills, Analysis skills, Customer support",4.3,Business Analyst
+Optum,Business Analyst,Noida,7.0,"Power BI, Business intelligence, Tableau, SQL, Communication skills",3.5,Business Analyst
+Leverage Business Solutions Private Limited,Business Analyst - Media Entertainment,Bengaluru,30.0,"Business intelligence, Business analysis, Data analysis skills, SQL, Analysis skills",0.0,Business Analyst
+Prestige Education Foundation,Business Analyst,Indore,3.0,"Power BI, Microsoft Excel, Business intelligence, Business analysis, English",0.0,Business Analyst
+Corpay,Business Intelligence Analyst (FP&A),Chennai,6.0,"Microsoft Powerpoint, Microsoft Word, Financial planning, Power BI, Microsoft Excel",3.2,Business Analyst
+WARPE,Business Analyst,Chennai,2.5,"Power BI, Microsoft Excel, Business analysis, Data visualization",0.0,Business Analyst
+Carrier,Business Analyst,Hyderābād,8.0,"Power BI, Business intelligence, Software deployment, Tableau, SQL",3.6,Business Analyst
+Qualys,Business Intelligence Analyst,Pune,10.0,"Jira, Business intelligence, Customer service, Call center, Salesforce",3.7,Business Analyst
+Tecnovos,BUSINESS ANALYST,Bengaluru,7.0,"Business intelligence, Research, Communication skills",3.0,Business Analyst
+Cleartax,Business Analyst,Bengaluru,9.5,"Microsoft Excel, Tableau, SQL, AWS, Analysis skills",3.6,Business Analyst
+Sciative Solutions,Junior Business Analyst (Non-Tech),Navi Mumbai,4.5,"Hospitality, Business intelligence, Business analysis, Python, MySQL",3.1,Business Analyst
+Atlas Copco (India) Private Ltd.,Business Analyst,Pune,6.5,"Power BI, Microsoft Excel, Azure, Business intelligence, DevOps",4.2,Business Analyst
+Axestrack,Business Analyst – Founder’s Office,India,5.9,"Power BI, Internet of things, SQL, Data analytics, B2B",4.4,Business Analyst
+Plivo,Business Analyst API,Bengaluru,9.0,"Power BI, Microsoft Excel, Data mining, PaaS, Tableau",3.7,Business Analyst
+JLL,Business Intelligence Analyst,Bengaluru,8.5,"Statistics, Business intelligence, SAS, Big data, Spark",3.8,Business Analyst
+WeaverStory,Business Intelligence and MIS,Delhi,7.866666666666666,"Statistics, Business intelligence, Data analysis skills, Databases, Analysis skills",4.0,Business Analyst
+Bombil Media,Senior Business Analyst,India,2.5,"Power BI, Data modeling, Microsoft Excel, Relational databases, R",0.0,Business Analyst
+NTT DATA,Senior Associate Business Analyst,Chennai,5.5,"Microsoft Powerpoint, Bilingual, Microsoft Word, System administration, Microsoft Excel",3.8,Business Analyst
+Technox Technologies,Business Analyst,India,1.2,"Power BI, Business analysis, Microsoft Office, Tableau, SQL",0.0,Business Analyst
+Zeakus service llp,Technical Business Analyst,Calicut,3.6,"Jira, Business analysis, Databases, Project management, Confluence",0.0,Business Analyst
+BSRI Solutions,Business Analyst (4-10 Years),Chennai,10.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Business intelligence, Business analysis",0.0,Business Analyst
+Kroll,"Business Intelligence Analyst II, Technology",Mumbai,4.5,"Microsoft Powerpoint, Adobe Dreamweaver, Adobe Photoshop, Branding, Business intelligence",3.5,Business Analyst
+"Deltek, Inc.",Power BI Developer,Remote,6.571428571428571,"Power BI, Data modeling, Business intelligence, QlikView, Business analysis",4.5,Business Analyst
+Littelfuse Philippines Inc.,Business Intelligence Analyst,Noida,6.457330000000001,"Power BI, Data modeling, Microsoft Access, Business intelligence, Business analysis",0.0,Business Analyst
+SkyCell AG,Business Intelligence Analyst (m/f/d),Hyderābād,5.5,"Power BI, Data modeling, Data mining, Business intelligence, SAP",4.3,Business Analyst
+Centrum Capital,Business Analyst,India,11.052499999999998,"Power BI, Business analysis, Data analysis skills, SQL, Project management",3.9,Business Analyst
+Yash Technologies,Business Analyst - Business Analysis,Bengaluru,7.0,"EDI, XML, Kanban, Business analysis, Logistics",3.7,Business Analyst
+Kroll,Business Analyst,Mumbai,6.5,"Power BI, Microsoft Excel, Azure, Big data, Spark",3.5,Business Analyst
+Alta Alternative Investments Pte. Ltd,Business Intelligence Analyst,Mumbai,7.633333333333334,"Power BI, Business intelligence, Data analysis skills, Tableau, SQL",3.6,Business Analyst
+Google,"Business Systems Analyst, Enterprise Data and Engineering",Hyderābād,9.384615384615385,"Ontology, NoSQL, English, Databases, SQL",4.3,Business Analyst
+TAC Security,Business Analyst,Pune,7.333333333333333,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Microsoft Outlook, Microsoft Office",3.0,Business Analyst
+Eclerx,Associate Manager - Business Analyst,India,5.642857142857143,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Auditing, Business analysis",3.4,Business Analyst
+Expand software solutions Pvt ltd.,Jr Business Intelligence Developer,Visakhapatnam,1.5,"Power BI, Microsoft Excel, Business intelligence, Data analysis skills, Tableau",0.0,Business Analyst
+ADCI HYD 13 SEZ,"Business Analyst II , ASIN Localization",Hyderābād,8.0,"Power BI, Data modeling, Spark, R, Databases",3.6,Business Analyst
+General Mills,Associate D&T Analyst – Business Intelligence,India,8.83047619047619,"Cloud infrastructure, Business intelligence, Microsoft SQL Server, Research, Tableau",4.1,Business Analyst
+Databricks,Business Operations Analyst,Bengaluru,6.4,"Salesforce, Spark",4.2,Business Analyst
+Engagely.ai,Business Analyst,Mumbai,6.5,"Big data, Spark, R, Machine learning, Natural language processing",1.9,Business Analyst
+Amgen,Scientific Business Analyst,Hyderābād,8.5,"Jira, CI/CD, SAFe, DevOps, Business analysis",4.1,Business Analyst
+Emgage,CRM Business Analyst,Ahmedabad,6.571428571428571,"Microsoft Powerpoint, Customer service, Call center, Business analysis, Visio",4.5,Business Analyst
+K. K. Nag,Business Analyst,Pune,7.5,"Statistical software, Statistics, Microsoft Excel, Business intelligence, Business analysis",3.5,Business Analyst
+ADCI HYD 16 SEZ,"Business Analyst, Financial Fraud",Hyderābād,8.0,"Power BI, Microsoft Excel, Business intelligence, Business analysis, Tableau",3.6,Business Analyst
+Lodgiq,Project Manager / Business Analyst,Bengaluru,5.5,"Azure, SQL, AWS, Project management, Machine learning",0.0,Business Analyst
+Quess Corp Limited,Business Analyst Technical PM,Gurgaon,12.0,"Business analysis, Microsoft Office, SQL, Analysis skills, Project management",0.0,Business Analyst
+Appex Innovation,Business Analyst,Mumbai,5.0,"Requirements management, IT, Communication skills",3.8,Business Analyst
+Zingool Technologies Private Limited,Senior Business Analyst,India,7.5,"Business intelligence, Supply chain, Warehouse management, Six Sigma, Analysis skills",0.0,Business Analyst
+Nous Infosystems,Business Analyst,Bengaluru,7.5,"Power BI, Business intelligence, SQL, Analysis skills, Organizational skills",3.8,Business Analyst
+SurveyMonkey,"Manager, Business Intelligence",Bengaluru,5.5,"Power BI, Microsoft Excel, Business intelligence, Research, Tableau",3.6,Business Analyst
+ADCI - BLR 14 SEZ,"Business Analyst, ASCI Variable",Bengaluru,8.5,"Jira, Power BI, Microsoft Excel, Business intelligence, Business analysis",3.6,Business Analyst
+Engage Experts,Business Analyst,India,4.8,"Jira, Business intelligence, SAP, ERP systems, Business analysis",0.0,Business Analyst
+Holostik,Business Analyst Holostik,Delhi,8.83047619047619,Business analysis,4.1,Business Analyst
+Accenture,Business Analyst,Jaipur,8.169411764705883,"Contract management, Communication skills",3.8,Business Analyst
+Knack Consulting Services Pvt Ltd,Business Analyst,Bengaluru,8.169411764705883,"Management, Social media management, R, Business analysis, Tableau",3.8,Business Analyst
+PhonePe,"Business Intelligence, Associate Manager",Bengaluru,5.0,"Power BI, Microsoft Excel, Business intelligence, Big data, R",3.9,Business Analyst
+Capital Placement Services,Business Analyst For Financial Company in sector-4 Noida,Delhi,4.0,"Business intelligence, Business analysis, User acceptance testing",0.0,Business Analyst
+Savantys Solutions,Business Intelligence Analyst/BI Analyst,Bengaluru,6.0,"Power BI, Data modeling, Business intelligence, Tableau, SQL",5.0,Business Analyst
+Genpact,"Business Analyst, Advanced Visualization",Bengaluru,8.5,"Power BI, Microsoft Excel, Business intelligence, Microsoft SQL Server, Microsoft Office",3.9,Business Analyst
+ADCI - Andra Pradesh - P17,Business Analyst II,Hyderābād,8.0,"Microsoft Excel, Business analysis, Tableau, SQL, Machine learning",3.6,Business Analyst
+Vodafone,Manager_IT Business Analyst,Pune,4.5,"Business intelligence, Business analysis, Negotiation",3.9,Business Analyst
+Wiz Teckies,Business Intelligence Analyst,Chennai,6.5,"Business intelligence, Microsoft SQL Server, SSRS, Mentoring, SSIS",0.0,Business Analyst
+Leap Finance,Business Analyst (BA),Bengaluru,42.0,"Business intelligence, SQL, Customer segmentation, PostgreSQL",3.9,Business Analyst
+JLL,Business Intelligence Specialist,Bengaluru,8.169411764705883,"Statistics, Business intelligence, SAS, Big data, Spark",3.8,Business Analyst
+Lumel Technologies,Power BI Analyst,Chennai,6.0,"Performance tuning, Power BI, Data modeling, Business intelligence, Microsoft SQL Server",4.5,Business Analyst
+Upperthrust Technologies,Business Analyst,India,5.0,"Business analysis, SQL, Supervising experience, Project management, Scrum",4.6,Business Analyst
+Pulse HRM,Business Analyst,Gurgaon,6.0,"Power BI, Business analysis, Tableau, Analysis skills, Data visualization",4.0,Business Analyst
+Techsaga Corporations,Business Analyst,Noida,5.5,"Customer service, Project management, Communication skills, Negotiation",4.3,Business Analyst
+Alakmalak Technologies,Business Analyst,Ahmedabad,48.0,"Business intelligence, Communication skills",3.9,Business Analyst
+ReachLocal India,Business Analyst,India,5.642857142857143,"Computer science, Microsoft Excel, Business intelligence, Microsoft Office, SQL",3.4,Business Analyst
+Avalara,Business Intelligence Analyst,Pune,8.739166666666668,"Statistics, Power BI, Business intelligence, Business analysis, SQL",3.5,Business Analyst
+Bayer,Business Intelligence Manager (CropScience),Thāne,8.0,"Power BI, Business intelligence, Tableau, Analysis skills, Data management",4.0,Business Analyst
+ADCI - Karnataka,"Business Analyst, OTS-Service Desk",Bengaluru,8.5,"Microsoft Excel, Big data, Business analysis, SQL, Machine learning",3.6,Business Analyst
+NewVision Softcom & Consultancy,Business Analyst - Data,Pune,7.117826086956522,"Jira, Power BI, Azure, Kanban, Business analysis",3.7,Business Analyst
+TE Connectivity,BUSINESS INTELLIGENCE ANALYST II,Bengaluru,7.0,"Power BI, Data modeling, Microsoft Excel, Business intelligence, R",4.1,Business Analyst
+Exponentia.ai,Business Intelligence Developer,Mumbai,7.0,"Data modeling, Business intelligence, Software troubleshooting, Project planning, QlikView",4.7,Business Analyst
+Amazon Dev Center India - Hyderabad,"Business Analyst II, Discovery Abuse team",Hyderābād,8.0,"Statistical software, Power BI, Microsoft Excel, Data mining, Business analysis",3.6,Business Analyst
+MariApps Marine Solutions,Business Analyst,Cochin,6.0,"Business intelligence, ERP systems, Business analysis, Product development, Continuous improvement",3.7,Business Analyst
+BizzAppDev,Business Analyst,Ahmedabad,4.5,"Power BI, R, QlikView, Business analysis, Visio",3.5,Business Analyst
+MarketStar,Business Analyst,Bengaluru,8.5,"Power BI, Microsoft Excel, Business analysis, Tableau, SQL",3.5,Business Analyst
+Antier Solutions,Business Analyst,Mohali,6.0,"User acceptance testing, Agile, Communication skills",3.6,Business Analyst
+Matrix Payment Services,Business Analyst,Pune,7.5,Business analysis,4.0,Business Analyst
+Lollypop,Business Analyst,Bengaluru,7.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Business analysis, Project management",3.2,Business Analyst
+State Street,Business Analyst - Assistant Manager,Bengaluru,7.5,"SQL, Project management, Financial services, Communication skills",3.5,Business Analyst
+SMARTPADDLE TECHNOLOGY,Senior Analyst - Business Intelligence,Bengaluru,2.5,"Power BI, Business intelligence, NoSQL, SQL, Analysis skills",3.4,Business Analyst
+Yash Technologies,Business Analyst - Pre-Sales,Hyderābād,8.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Office, Agile, Pre-sales",3.7,Business Analyst
+Finastra USA Corporation,Payments Business Analyst,Bengaluru,7.5,"Business analysis, Microsoft Office, Analysis skills, Requirements analysis, Software development",4.1,Business Analyst
+Glance,Senior Business Analyst,Bengaluru,7.0,"Power BI, Data modeling, Microsoft Excel, Data mining, Business intelligence",4.3,Business Analyst
+ALLEN Career Institute,Business Analyst,Kota,7.866666666666666,"Microsoft Powerpoint, Microsoft Word, Power BI, Microsoft Excel, Microsoft Outlook",4.0,Business Analyst
+Simplex Services,Data Analyst/Power BI Reporting,India,15.928571428571429,"Power BI, SAP, Business analysis, Microsoft SQL Server, SSRS",5.0,Business Analyst
+Noa Infosolutions LLP,Senior Business Analyst,Cochin,1.8,"Data analysis skills, Analysis skills, Leadership, Communication skills",0.0,Business Analyst
+Synopsys,Business Analyst - Sr Associate,Noida,6.5,"Procurement, Research, Microsoft Office, Analysis skills, Data entry",4.0,Business Analyst
+Kuehne+Nagel,Integrated Logistics Business Analyst,Delhi,7.633333333333334,"Power BI, Microsoft Excel, Business analysis, Data analysis skills, Tableau",3.6,Business Analyst
+mPower Software Services,Senior Visualization Analyst (Tableau) - Business Intelligence,Bengaluru,7.5,"Business intelligence, Salesforce, Tableau, Continuous improvement, Agile",3.7,Business Analyst
+Crypto Mize,Business Intelligence Analyst,Delhi,9.5,"Business intelligence, Information security, Analysis skills, Chef, Communication skills",4.8,Business Analyst
+ADCI - Karnataka - A66,"Business Analyst, Amazon Talent Acquisition",Bengaluru,8.5,"Power BI, Microsoft Excel, Oracle, NoSQL, English",3.6,Business Analyst
+Helius Technologies,Data Analyst (Power BI),India,6.4,"Power BI, Business intelligence, NoSQL, SQL, Python",4.2,Business Analyst
+ASSPL - Karnataka,"Business Analyst Support, Fresh",Bengaluru,8.5,"Microsoft Excel, Big data, R, Business analysis, SQL",3.6,Business Analyst
+Dasra,Business Analyst,Mumbai,5.5,"Power BI, Data mining, Business analysis, Tableau, SQL",3.1,Business Analyst
+Prescient Healthcare Group,"Business Analyst, DnATech",Gurgaon,6.5,"Business intelligence, Customer service, Enterprise Software, Business analysis, English",3.4,Business Analyst
+Brainvire Infotech Pvt.Ltd.,Senior Business Analyst,Ahmedabad,10.0,"Jira, Azure, Business intelligence, Business analysis, Analysis skills",0.0,Business Analyst
+S&P Global,Senior Business Analyst,Gurgaon,6.0,"Regulatory reporting, English, SQL, Analysis skills",4.1,Business Analyst
+Genpact,"Business Analyst, BI Developer!",Noida,6.5,"Power BI, Data modeling, Alteryx, Microsoft SQL Server, SQL",3.9,Business Analyst
+Ethicsinfotech,Business Intelligence (BI) Manager,Vadodara,5.5,"Power BI, Data modeling, Azure, Business intelligence, Google Cloud Platform",3.9,Business Analyst
+Procore Technologies,Senior Business Intelligence Analyst,Bengaluru,8.0,"Power BI, Data modeling, Business intelligence, Research, Tableau",4.1,Business Analyst
+Procore,Senior Business Intelligence Analyst,Bengaluru,8.0,"Power BI, Data modeling, Business intelligence, Research, Tableau",4.1,Business Analyst
+Future Profilez,Business Analyst,Jaipur,30.0,"English, Analysis skills, UML, Communication skills",4.9,Business Analyst
+Trek Bikes,Business Analyst (BI),Haryana,6.371428571428572,"Hybris, Power BI, Data modeling, Azure, Business intelligence",3.2,Business Analyst
+Crypto Mize,Business Intelligence Advisor,Delhi,9.5,"Power BI, Data mining, Business intelligence, Big data, Information security",4.8,Business Analyst
+Infogain,"Consultant, Business Analyst",Mumbai,4.5,"Azure, Oracle, AI",3.7,Business Analyst
+Kosha Technohub,BI Analyst,India,6.371428571428572,"Power BI, Data modeling, Azure, Market analysis, SQL",3.2,Business Analyst
+Reva consultant LLP,Business Analyst (Female),Gurgaon,6.457330000000001,"Software deployment, SQL, Project management, SharePoint, IT",0.0,Business Analyst
+Kody Technolab,Business Analyst,Ahmedabad,4.5,"Jira, Business intelligence, SAP, ERP systems, Product development",4.5,Business Analyst
+Maruti Suzuki India Ltd,Business analyst-Finance and International marketing,Gurgaon,5.0,"Jira, Microsoft Excel, Business analysis, Analysis skills, Project management",3.8,Business Analyst
+Ethicsinfotech,Senior Business Analyst,Vadodara,5.0,"Databases, Analysis skills, Project management, Team management, System security",3.9,Business Analyst
+infoanalytica,Business Analyst (Data Steward),Ahmedabad,5.0,"Data mining, Big data, Acquisition strategy, Database management, Communication skills",3.8,Business Analyst
+Sourcedesk Global,Urgent Openings For Business Analyst,Calcutta,12.0,"Business intelligence, Microsoft Office, Customer relationship management, Data science, Communication skills",4.5,Business Analyst
+Deloitte,Senior Consultant | Business Analyst | Bengaluru | Artificial Intelligence & Data,Bengaluru,7.5,"SAFe, Waterfall, Business analysis, Data analysis skills, Tableau",4.0,Business Analyst
+Crypto Mize,Business Intelligence Expert,Delhi,9.5,"Data mining, Business intelligence, Qualitative analysis, Information security, SQL",4.8,Business Analyst
+Kotak Mahindra,Business Intelligence Analyst-Personal Loans-BIU (Business Intelligence Unit),Mumbai,6.0,"Business intelligence, Customer segmentation",3.5,Business Analyst
+Zelis,Power BI Engineer,Hyderābād,8.169411764705883,"Power BI, Azure, Business intelligence, Microsoft SQL Server, SQL",3.8,Business Analyst
+Ashirvad Pipes Private Limited,Sr. Executive- Business Analyst,India,5.642857142857143,"Power BI, Sales, Salesforce, Statistical analysis, Analysis skills",3.4,Business Analyst
+Maruti Suzuki India Ltd,Business Analyst-Marketing & Logistics,Gurgaon,5.0,"Jira, Microsoft Excel, Business analysis, Analysis skills, Project management",3.8,Business Analyst
+Traveltriangle.com,Business Analyst,Gurgaon,6.0,"Microsoft Excel, Business intelligence, R, Tableau, Databases",4.1,Business Analyst
+GoDaddy,Senior Business Analyst - Sales Enablement,India,7.117826086956522,"Microsoft Excel, R, Microsoft Office, Tableau, SQL",3.7,Business Analyst
+FICO,Architectural Service Management - Business Analyst,Bengaluru,5.0,"Machine learning, Agile, Fraud prevention and detection",4.1,Business Analyst
+Marlabs,Business Analyst - Analytics,India,7.633333333333334,"Data modeling, Azure, Business intelligence, Spark, Encryption",3.6,Business Analyst
+ION,PBI Analyst - 989,Mumbai,5.5,"Power BI, Kanban, SQL, Analysis skills, Scrum",3.3,Business Analyst
+Cleartax,Senior Business Analyst,Bengaluru,9.5,"Microsoft Excel, Tableau, SQL, AWS, Analysis skills",3.6,Business Analyst
+Cognext,Business Analyst - Model Risk Management,Mumbai,6.5,"Statistics, Analysis skills, Product management, Business requirements, Communication skills",3.9,Business Analyst
+Micron,Sr. Business Intelligence (BI) & Data Informatics Analyst,Hyderābād,7.5,"Jira, Statistics, Power BI, Microsoft Excel, Visual Studio",3.8,Business Analyst
+CBRE,Tableau Developer,Gurgaon,2.5,"Jira, Data modeling, Microsoft Excel, Microsoft Access, Business intelligence",0.0,Business Analyst
+Atlassian,Senior Business Analyst - Service Enablement Analytics,Bengaluru,7.5,"Statistics, Tableau, SQL, Project management, Scripting",3.7,Business Analyst
+InteleANTS,BI Analyst,Chennai,5.0,"Power BI, Microsoft SQL Server, Databases, SQL, Data visualization",4.3,Business Analyst
+ASSPL - Karnataka,"Business Analyst, Regionalization",Bengaluru,8.5,"Microsoft Excel, Big data, R, Business analysis, SQL",3.6,Business Analyst
+MarketStar,BI Analyst,Bengaluru,7.0,"Business intelligence, Business analysis, Microsoft Office, Databases, Communication skills",3.5,Business Analyst
+Hillenbrand,FP&A Business Analyst,Coimbatore,6.5,"Financial planning, Microsoft Excel, Financial modeling, Microsoft Office, Plastics injection molding",2.7,Business Analyst
+Workday,Business Intelligence Systems Engineer,Pune,4.5,"Power BI, Business intelligence, R, Alteryx, Data analysis skills",4.1,Business Analyst
+Adobe,Senior BI Analyst,Bengaluru,6.0,"Power BI, Business intelligence, Tableau, SQL, Analysis skills",4.2,Business Analyst
+ALLEN IntelliBrain,Business Analyst,Kota,5.5,"Microsoft Powerpoint, Microsoft Word, Power BI, Microsoft Excel, Microsoft Outlook",4.0,Business Analyst
+Multicloud4u Technologies,Business Analyst- CRM,Gurgaon,6.457330000000001,"Jira, CRM software, Power BI, Oracle, SAP CRM",0.0,Business Analyst
+Pyramid Global Technologies,Power BI Analyst,Mohali,5.0,"Power BI, Oracle, Big data, Microsoft SQL Server, SQL",5.0,Business Analyst
+Think360,Technical Manager (Data Warehouse & Business Intelligence),Mumbai,5.5,"Management, Business intelligence, System design, Application development, Analysis skills",4.4,Business Analyst
+OIA Global,Senior Business Intelligence Developer,Pune,6.5,"Microsoft Powerpoint, Microsoft Word, Power BI, Data modeling, Microsoft Excel",3.3,Business Analyst
+ADCI MAA 15 SEZ,"Business Analyst, Retail Business Services",Chennai,7.0,"Power BI, Microsoft Excel, Tableau, SQL, AWS",3.6,Business Analyst
+Pyramid Global Technologies,Data Business Analyst,Mohali,6.5,"Power BI, Azure, SAP, Microsoft Office, SharePoint",5.0,Business Analyst
+Micron,SAP Business Analyst / Solution Architect,Hyderābād,7.5,"Software troubleshooting, SAP, Information security, SAP Supply Chain Management",3.8,Business Analyst
+Cogoport,Senior Business Analyst,Gurgaon,5.0,"Pricing, Data modeling, Data analysis skills, Customer segmentation, Project management",2.9,Business Analyst
+Sun Pharmaceutical Industries Ltd,Senior Executive - Business Analyst,Mumbai,7.0,APIs,3.6,Business Analyst
+Micron,Business Analyst - IT Supply Chain,Hyderābād,7.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Microsoft Outlook, Software deployment",3.8,Business Analyst
+Datazymes,Senior Analyst -Analytics (Power BI),Bengaluru,5.5,"Power BI, Data modeling, Microsoft SQL Server, SSRS, SQL",4.3,Business Analyst
+State Street,Data Governance Business Analyst - Assistant Manager,Bengaluru,7.5,"Power BI, Tableau, SQL, AWS, Data management",3.5,Business Analyst
+Xtreme Productivity,Senior Power BI Analyst (Remote in India),Mumbai,5.0,"Power BI, Microsoft Excel, Data analysis skills, Microsoft Office, SQL",5.0,Business Analyst
+Jeevan Technologies,Power BI Developer,Remote,7.117826086956522,"Power BI, SAP HANA, SAP, Data structures, QlikView",3.7,Business Analyst
+Citco,Finance - Innovation Business Analyst,Maharashtra,5.642857142857143,"Power BI, Microsoft SQL Server, English, SQL, Data visualization",3.4,Business Analyst
+Nouveau Labs,ServiceNow Business Analyst,Bengaluru,5.5,"IT service management, Business analysis, Project management, Machine learning, ITIL",3.8,Business Analyst
+ASSPL - Maharashtra,"Business Analyst, Prime Video India, Marketplace and Ads",Mumbai,8.0,"Microsoft Excel, Data mining, SAS, Tableau, Databases",3.6,Business Analyst
+Bain & Company Inc,Associate - Visualization CoE (Power BI),Delhi,9.384615384615385,"Power BI, Azure, Business intelligence, Alteryx, Microsoft SQL Server",4.3,Business Analyst
+SiFive,Senior Jira Administrator/Business Analyst,Bengaluru,7.5,"Jira, DevOps, Machine learning, Scripting, Software development",4.2,Business Analyst
+Yash Technologies,Associate Business Analyst - Pre-Sales,Hyderābād,8.5,"Microsoft Powerpoint, Microsoft Word, Writing skills, Microsoft Office, Agile",3.7,Business Analyst
+Eclerx,Technology Services-Process Manager-Business Analyst,India,5.642857142857143,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Auditing, Business analysis",3.4,Business Analyst
+Lam Research,"Business Analyst, Program Lead",Bengaluru,30.0,,4.0,Business Analyst
+U-TO solutions,Sr. Business Analyst,Mumbai,5.0,"Jira, Kanban, Business analysis, SQL, Analysis skills",3.6,Business Analyst
+Kings Labs,Business Analyst,Bengaluru,7.0,"Microsoft Excel, Web analytics, Business intelligence, Business analysis, Databases",3.3,Business Analyst
+ASSPL - Karnataka,"Business Analyst, Ad Finance",Bengaluru,8.5,"Statistics, Cognos, Accounts receivable, Computer science, Microsoft Excel",3.6,Business Analyst
+TRIARQ Health,Data Analyst (Tableau Developer),Pune,4.5,"Data modeling, Business intelligence, Tableau, SQL, Data visualization",3.6,Business Analyst
+Qualcomm,Senior Engineer - Business Intelligence Engineer (BIE),Hyderābād,7.0,"Power BI, Azure, Data mining, Business intelligence, Internet of things",3.9,Business Analyst
+ADCI HYD 13 SEZ,"Senior Business Analyst (L5), Expense & Corporate Card",Hyderābād,7.633333333333334,"Cognos, Accounts receivable, Microsoft Access, Oracle, Data mining",3.6,Business Analyst
+Vigilant Technologies,MSBI Developer,Hyderābād,7.866666666666666,"Performance tuning, Power BI, Cloud infrastructure, Business intelligence, Microsoft SQL Server",4.0,Business Analyst
+Scry Analytics,Power BI Developer,Pune,5.5,"Power BI, Data modeling, Business intelligence, Microsoft SQL Server, SSRS",4.3,Business Analyst
+Micron,Staff Business Analyst - IT Supply Chain,Hyderābād,7.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Microsoft Outlook, Software deployment",3.8,Business Analyst
+PwC,CCaaS Business Analyst-Senior Associate,Bengaluru,6.5,"Jira, Azure, PaaS, Google Cloud Platform, AWS",3.8,Business Analyst
+Qualcomm,Engineer - Business Intelligence Engineer (BIE),Hyderābād,7.0,"Power BI, Azure, Data mining, Business intelligence, Internet of things",3.9,Business Analyst
+VMock Inc,Senior Business Analyst,Gurgaon,6.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Business intelligence, Word processing",3.7,Business Analyst
+Adobe,Business Intelligence (BI) Engineer and Insights Lead,Noida,5.5,"Power BI, Data modeling, Azure, Google Cloud Platform, SQL",4.2,Business Analyst
+ADCI - Karnataka,"Business Analyst II, Global Data Analytics",Bengaluru,8.5,"Power BI, Microsoft Excel, Data mining, Business intelligence, Business analysis",3.6,Business Analyst
+CDSL,Manager in Operations (Business Analyst),Mumbai,5.0,"Systems analysis, Communication skills",3.8,Business Analyst
+EVC Ventures,Sales Business Analyst,Gurgaon,7.5,"Microsoft Powerpoint, Power BI, Business intelligence, Salesforce, Analysis skills",3.0,Business Analyst
+State Street,Business Analyst - Master Data Management - Manager,Bengaluru,7.5,"Jira, Visio, SQL, AWS, Data management",3.5,Business Analyst
+Crypto Mize,Business Intelligence Manager,Delhi,9.5,"Business intelligence, Business analysis, English, Information security, Data collection",4.8,Business Analyst
+ADCI - Karnataka,"Business Analyst II, ROW Supply Chain Analytics",Bengaluru,8.5,"MATLAB, Data modeling, Microsoft Excel, Oracle, Data mining",3.6,Business Analyst
+Paytm,Business Analyst - Assistant Manager - UPI,Noida,7.5,"Microsoft Excel, Business intelligence, SQL, Data analytics, Google Analytics",3.2,Business Analyst
+Citi,AVP- Business Intelligence,Chennai,7.0,"Microsoft Powerpoint, Microsoft Outlook, Business intelligence, Microsoft Office, Tableau",3.7,Business Analyst
+TE Connectivity,Sr. BUSINESS INTELLIGENCE ANALYST,Bengaluru,7.0,"Data modeling, System administration, Azure, Business intelligence, R",4.1,Business Analyst
+General Mills,Sr. Business Analyst - Sales Strategy & Intelligence,India,8.83047619047619,"Microsoft Powerpoint, Statistics, Data modeling, Microsoft Excel, Business analysis",4.1,Business Analyst
+Vodafone,Manager_Lead_Pega Business Analyst_Pune,Pune,4.5,"Pegasystems, Business intelligence, Business analysis, Database management, Digital marketing",3.9,Business Analyst
+Swathi Business Solutions,SCRUM BUSINESS ANALYST WITH OFFICE 365,Bengaluru,5.0,"Jira, Azure, Business intelligence, Waterfall, Software deployment",4.0,Business Analyst
+Yash Technologies,Lead Business Analyst - Salesforce,Bengaluru,7.0,"Jira, Salesforce, Business analysis, Confluence, Agile",3.7,Business Analyst
+Institutional Shareholder Services,Techno-Functional Business Analyst,Mumbai,16.8,"R, Data analysis skills, Bloomberg, SQL, Python",3.5,Business Analyst
+BloomchemAG,Financial & Accounting MIS- Business Analyst,Noida,6.0,"Microsoft Excel, Data mining, Business intelligence, Analysis skills",3.3,Business Analyst
+CustomerXPs,Senior Business Analyst,Bengaluru,7.0,"Business analysis, .NET, Product management, Product demos, Fraud prevention and detection",3.3,Business Analyst
+Zivanta Analytics,Business Analyst – Content Developer Kolkata,Calcutta,6.0,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, SAS, R",4.4,Business Analyst
+PradeepIT Consulting Services,Business Analysts - Brightree (WFO),Bengaluru,5.5,"EHR systems, CPT coding, EMR systems, Communication skills",4.5,Business Analyst
+Glance,Lead - Business Analyst,Bengaluru,7.0,"Power BI, Data modeling, Microsoft Excel, Data mining, Business intelligence",4.3,Business Analyst
+RV Technologies Softwares,Pre-Sale Business Analyst,Mohali,6.5,"Business analysis, English, Microsoft Office, Analysis skills, Product demos",4.5,Business Analyst
+General Mills,"BI Analyst II, PCA",India,8.83047619047619,"Microsoft Powerpoint, Power BI, Microsoft Excel, Spark, Research",4.1,Business Analyst
+JLL,Business Intelligence Senior Analyst,Bengaluru,8.5,"Statistics, Business intelligence, SAS, Big data, Spark",3.8,Business Analyst
+Aimlytics,Lead Business Analysts,Hyderābād,6.0,"Image processing, Tableau, SQL, Project management, Machine learning",4.7,Business Analyst
+PwC,IN_Senior Associate_ Business Analyst_D&A_Advisory_Bangalore,Bengaluru,6.5,"Microsoft Powerpoint, Business intelligence, Business analysis, Project management, Agile",3.8,Business Analyst
+Micron,"Staff Business Analyst (Blue Yonder, Order promising)",Hyderābād,7.5,"Sourcing, SAP, Supply chain, Scrum, SAP Supply Chain Management",3.8,Business Analyst
+ASSPL - Karnataka,"Business Intelligence Engineer, Customer Experience and Business Trends",Bengaluru,5.5,"MATLAB, Data modeling, Image processing, Oracle, Data mining",3.6,Business Analyst
+Nihilent,Data/BI/Business Analyst,Pune,8.0,"Power BI, Data modeling, Business intelligence, Big data, R",3.8,Business Analyst
+Gallagher,Senior Analyst - Business Intelligence – HR/Talent Analytics,Bengaluru,5.5,"Power BI, Microsoft Excel, Business intelligence, Big data, Visual Studio",3.6,Business Analyst
+NTT DATA,Salesforce Senior Commerce Cloud Business Analyst,Bengaluru,6.5,"Waterfall, Salesforce, Analysis skills, Scrum, B2B",3.8,Business Analyst
+SAP,Business Analyst(Spend Analysis/Cost Planning/Supplier Performance) 4-8 years,Bengaluru,6.5,"SAP, ERP systems, Microsoft Office, Databases, Analysis skills",4.2,Business Analyst
+ADCI - Karnataka,"Business Analyst II, CMT",Bengaluru,8.5,"Statistics, Power BI, Data modeling, Microsoft Excel, Business intelligence",3.6,Business Analyst
+Computer Network Systems - ME India Private Limited,Functional Lead/Business Analyst,Chennai,5.5,"Crystal Reports, Power BI, Business intelligence, Supply chain, ERP systems",0.0,Business Analyst
+Fluke,Business Systems Analyst – Oracle Cloud,Bengaluru,7.0,"Oracle, Supply chain, Oracle EBS, SQL, AWS",3.6,Business Analyst
+NewVision Softcom & Consultancy,Power BI Expert,Pune,8.0,"Cognos, Power BI, Data modeling, Microsoft Excel, Business intelligence",3.7,Business Analyst
+General Mills,Sr. D&T Analyst – Business Intelligence,India,8.83047619047619,"Cloud infrastructure, Oracle, Business intelligence, SAP HANA, Big data",4.1,Business Analyst
+Qualcomm,"Tableau & Qlikview Developer, Sr",Hyderābād,6.0,"Sourcing, Business intelligence, Software troubleshooting, QlikView, Tableau",3.9,Business Analyst
+ADSIPL - Karnataka,Business Intelligence Engineer,Bengaluru,8.0,"Power BI, Business intelligence, Supply chain, R, Business analysis",3.6,Business Analyst
+Chubb,Business Analyst,Telangana,8.169411764705883,"Jira, ASP.NET, Data modeling, Microsoft Excel, Azure",3.8,Business Analyst
+Carrier,Specialist - PowerBI Developer !!,Sohna,7.633333333333334,"Power BI, Business intelligence, Relational databases, Data structures, SQL",3.6,Business Analyst
+Kenvue,"Lead Business Analyst, Intelligent Automation",Bengaluru,7.633333333333334,"Visual Basic, C#, Supply chain, Business analysis, .NET",3.6,Business Analyst
+Eclerx,Technology Services- Senior Process Manager-Senior Business Analyst,India,5.642857142857143,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Business analysis, Visio",3.4,Business Analyst
+ADCI - Karnataka,"Business Intelligence Engineer I, FinOps FP&A",Bengaluru,8.0,"Microsoft Excel, Oracle, Business intelligence, Tableau, SQL",3.6,Business Analyst
+Astellas,"Data and Analytics Developer, Junior BI Developer",Mumbai,5.0,"CI/CD, Power BI, Data modeling, Azure, Oracle",3.7,Business Analyst
+AssetSoft,Power BI Developer,Pune,7.0,"Power BI, Azure, Business intelligence, Microsoft SQL Server, SSRS",3.8,Business Analyst
+Vodafone,Senior Manager_IT Business Analyst,Pune,4.5,"Business intelligence, Business analysis, Negotiation",3.9,Business Analyst
+State Street,Performance Product Business Analyst - Senior Manager,Bengaluru,7.5,"Jira, Microsoft Powerpoint, Microsoft Word, Performance tuning, Microsoft Excel",3.5,Business Analyst
+Resource Tree,Tableau Admin,Chennai,9.0,"Performance tuning, Disaster recovery, Tableau, SQL, Database management",4.2,Business Analyst
+Atrium AI,Lead Tableau Developer - Data Visualization,Jaipur,4.5,"System architecture, Tableau, SQL, UX, Data visualization",4.7,Business Analyst
+Confluent,BI Developer 1,Bengaluru,6.5,"Business intelligence, Relational databases, Salesforce, Business analysis, Microsoft SQL Server",3.9,Business Analyst
+EMIDS,BI Developer || 4 to 6 years,Bengaluru,10.5,"Business intelligence, Relational databases, Microsoft SQL Server, Tableau, Databases",3.7,Business Analyst
+PwC,IN_Senior Associate_Business Analyst_Data & Analytics_Advisory_Bangalore,Bengaluru,6.5,"Jira, Power BI, SAFe, Business intelligence, Project coordination",3.8,Business Analyst
+ASSPL - Karnataka,"Business Intelligence Engineer II, Amazon",Bengaluru,5.5,"MATLAB, Data modeling, Oracle, Data mining, Business intelligence",3.6,Business Analyst
+Athenahealth,Manager- Business Intelligence,Bengaluru,6.0,"CRM software, Power BI, Web analytics, Business intelligence, Salesforce",4.0,Business Analyst
+PwC,IN_Senior Associate_ Business Analyst_D&A_Advisory_Mumbai,India,8.169411764705883,"Microsoft Powerpoint, Business intelligence, Business analysis, Project management, Agile",3.8,Business Analyst
+Sundyne ITS,Sr. BI Analyst,Mumbai,5.0,"Power BI, Data modeling, Business intelligence, Microsoft SQL Server, Tableau",5.0,Business Analyst
+TalentXo,"Lead Data Analytics (Python / R, PowerBI)",Bengaluru,19.0,"Power BI, Data modeling, Azure, Business intelligence, Supply chain",0.0,Business Analyst
+Channel Web Consulting,Senior Business Analyst,Noida,5.5,"Business intelligence, Business analysis, Magento, E-Commerce, Scrum",4.2,Business Analyst
+"EPAM Systems, Inc.",Senior Business Analyst - Data Analytics,Chennai,8.5,"EHR systems, Business analysis, English, Tableau, SQL",4.1,Business Analyst
+Genpact,Business Analyst,Bengaluru,8.5,"Power BI, Azure, Business intelligence, Microsoft SQL Server, Microsoft Office",3.9,Business Analyst
+BNP Paribas,Manager - Project Manager / Business Analyst - Digital Project Support,Mumbai,6.0,"Jira, Power BI, Management, Business analysis, Visio",3.8,Business Analyst
+ADCI - BLR 14 SEZ,"Business Intelligence Engineer II, Retail Business Service",Bengaluru,8.0,"MATLAB, Power BI, Data modeling, Oracle, Data mining",3.6,Business Analyst
+Aspinor Technologies,Certified BI Consultant,Bengaluru,6.0,"Power BI, Azure, DevOps, English, SQL",4.5,Business Analyst
+Acrotrend,Senior Consultant – Technical Business Analyst,Navi Mumbai,7.0,"Azure, Big data, Salesforce, Business analysis, SQL",3.6,Business Analyst
+Optum,"Associate Software Engineer - Snowflake, Power BI",Hyderābād,9.0,"Power BI, Data modeling, Azure, Relational databases, SQL",3.5,Business Analyst
+Google,"Strategic Cloud Engineer, Business Intelligence, Looker",Bengaluru,9.384615384615385,"Power BI, Data modeling, Business intelligence, Data structures, R",4.3,Business Analyst
+American homes real estate,Business Analyst,Gurgaon,3.3,"Data entry, Computer skills, Communication skills",0.0,Business Analyst
+Legal Growth Marketing,Business Intelligence (BI) Architect,Remote,13.5,"Power BI, Microsoft Excel, Azure, Business intelligence, Big data",0.0,Business Analyst
+DTCC,"Lead Business Intelligence Engineer (Data warehousing, SQL)",Hyderābād,7.0,"Power BI, Business intelligence, Software deployment, SQL, Data warehouse",3.8,Business Analyst
+"AIC Enterprises, Bangalore",Business Intelligence Developer,India,5.0,"Crystal Reports, Microsoft Excel, Business intelligence, CSS, C#",0.0,Business Analyst
+Digital iTechnology,Business Analyst (Remote) in India,Remote,36.0,"Microsoft Powerpoint, Microsoft Excel, Microsoft Access, Tableau, SQL",5.0,Business Analyst
+ANZ Banking Group,Business Systems Analyst,Bengaluru,6.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Microsoft Access, SAS",3.9,Business Analyst
+Dicetek LLC,Data Analyst – Power BI,Remote,9.384615384615385,"Power BI, Data modeling, SQL, Machine learning, Python",4.3,Business Analyst
+Propel Technology Group,Fresher 2024 | Business Analyst,Chennai,5.9,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Microsoft Office, Unit testing",4.4,Business Analyst
+BLSD LAB,"RQ.EXT.R.TDL.D | Project Manager & Business Analyst - Marketing, CRM , Design , PPT [Remote, 25-42K]",Remote,4.02,"Microsoft Powerpoint, Web design, Adobe Photoshop, Typography, Operations management",2.6,Business Analyst
+Sandoz,Business Analyst Track & Trace,India,11.052499999999998,,3.9,Business Analyst
+Qualcomm,"Data Analyst - Tableau, Power BI & Power Apps (Engineering Operations)",Hyderābād,6.0,"Statistics, Power BI, Microsoft Excel, Management, R",3.9,Business Analyst
+ADCI HYD 20 SEZ,"Business Analyst, WWCP",Hyderābād,8.0,"Power BI, Microsoft Excel, Writing skills, Tableau, SQL",3.6,Business Analyst
+Kennect,Business Analyst (Entry Level),Mumbai,7.0,"Microsoft Powerpoint, Microsoft Excel, Microsoft Office, Analysis skills, Communication skills",4.4,Business Analyst
+ProArch,Data Analyst/PowerBI Engineer,Hyderābād,20.0,"Statistics, Computer science, Power BI, Data modeling, Microsoft Excel",4.1,Business Analyst
+Delta Exchange,Business Analyst,Remote,6.571428571428571,"Microsoft Excel, SQL, Pivot tables, Business requirements, Python",4.5,Business Analyst
+MAKRO,Business Analyst (Trained Freshers),Hyderābād,42.0,"Computer science, Analysis skills, Quality assurance",3.8,Business Analyst
+ADCI HYD 13 SEZ,"Business Analyst, Global Data Analytics (GDA), Finance Operations",Hyderābād,8.0,"Microsoft Excel, Tableau, Financial analysis, SQL, Scripting",3.6,Business Analyst
+Zeta Global,Business Analyst,Hyderābād,8.0,"Oracle, Salesforce, Data analysis skills, Tableau, Presentation skills",3.5,Business Analyst
+ApplogiQ,Business Analyst - Fresher,Tiruppūr,5.0,"Cold calling, Microsoft Excel, Lead generation, SQL, Analysis skills",4.6,Business Analyst
+Object Edge,Business Analyst / Data Analyst [Enterworks PIM/MDM]- (INDIA),Mumbai,5.5,"Data modeling, XML, Relational databases, Databases, SQL",4.0,Business Analyst
+Chai Waale,Business Analyst,Remote,14.0,"Jira, Data modeling, Waterfall, Business analysis, Data analysis skills",0.0,Business Analyst
+Hiring Solution,Business Analyst,Bengaluru,8.0,"R, English, Business requirements, Communication skills, Python",0.0,Business Analyst
+Fulcrum Digital,Data Analyst/Tableau Developer,Pune,4.5,"Microsoft SQL Server, Tableau, SQL, Database management, Data science",4.0,Business Analyst
+"TWO95 International, Inc",Offshore Business Analyst,Remote,6.457330000000001,"Microsoft Powerpoint, Business analysis, Data analysis skills, Research, Microsoft Office",0.0,Business Analyst
+Cygnus Professionals Inc.,Business Analyst with Pharma Commercial Data,Remote,17.5,"Jira, Business analysis, Data analysis skills, Pharmaceutical sales, SQL",4.3,Business Analyst
+TechMojo Solutions,Business Analyst (Work from Office),Hyderābād,7.5,"Jira, Business analysis, Confluence, Product management, Agile",4.1,Business Analyst
+ALSTOM,Power BI Junior Developer,Bengaluru,8.169411764705883,"Power BI, Supply chain, English, Databases, Industrial engineering",3.8,Business Analyst
+ADCI HYD 13 SEZ,"Business Analyst, ROC, ROC",Hyderābād,8.0,"Supply chain, Business analysis, SQL, AWS, Presentation skills",3.6,Business Analyst
+D Analytical Support,Data Entry Operator/ Business operations Analyst (US Shift),Bhilai,2.4,"Microsoft Excel, English, Data entry, Typing, Communication skills",0.0,Business Analyst
+ELFA,Business Analyst,Bengaluru,4.0,"Microsoft Excel, Business analysis, Microsoft Office, Business development, Analysis skills",0.0,Business Analyst
+Hewlett Packard,Business Analyst,Bengaluru,7.0,"SAP, Salesforce, Business analysis, Process improvement, SQL",4.1,Business Analyst
+Lenskart,Business Analyst,Bengaluru,6.5,"Jira, Power BI, Microsoft Excel, Data analysis skills, Tableau",3.5,Business Analyst
+Ignatiuz Software Pvt. Ltd.,Business Analyst,India,9.0,"Business analysis, Analysis skills, Project management, Communication skills",0.0,Business Analyst
+Fossgen Technologies,Business Analyst,Remote,4.8015,"Customer service, Visio, Requirements analysis, Technical writing, Data visualization",0.0,Business Analyst
+Sandoz,Business Analyst Supply Chain Solutions,Telangana,11.052499999999998,"Big data, Supply chain, Business analysis, English, Project management",3.9,Business Analyst
+SYSTECH,Business Analyst (Data Analytics),Chennai,5.0,"Microsoft Powerpoint, Statistics, Business analysis, Data analysis skills, Databases",4.1,Business Analyst
+ASSPL - Telangana,Business Analyst I,Hyderābād,8.0,"Tableau, SQL, Organizational skills, Pivot tables, Communication skills",3.6,Business Analyst
+Amazon Pay (India) Private Limited - D32,"Business Analyst, Amazon Pay, Data Products",Bengaluru,8.5,"Microsoft Excel, Data mining, SAS, SQL, Data analytics",3.6,Business Analyst
+PayU,Business Analyst - Marketing Data Analytics,Mumbai,5.0,"PCI, SQL, Organizational skills, Communication skills, Python",3.7,Business Analyst
+Skysecure Technologies Private Limited,Business Analyst,India,2.0,"Node.js, Project planning, Analysis skills, Communication skills",0.0,Business Analyst
+BizTecno,Data Analyst (Tableau+Alteryx),Chandigarh,5.875,"Power BI, Alteryx, Apache Hive, Tableau, SQL",4.7,Business Analyst
+Drivetrain AI,Business Analyst,Remote,9.5,"Databases, SQL, Analysis skills, SaaS, Communication skills",4.8,Business Analyst
+WebMobi 360,Business Analyst Intern,Remote,0.06,"Microsoft Powerpoint, Microsoft Excel, Business analysis, English, Research",0.0,Business Analyst
+Aptus Data LAbs,Business Analyst/ Data Analyst,Bengaluru,7.5,"Power BI, Data modeling, R, QlikView, Tableau",3.7,Business Analyst
+Datametrics Software Systems,BUSINESS ANALYST,Hyderābād,7.0,"Process improvement, Visio, Quality assurance, APIs, Agile",4.1,Business Analyst
+Trask,Assistant Business Analyst,Hyderābād,7.0,"Data modeling, Business analysis, Analysis skills, Project management, Project management methodology",4.2,Business Analyst
+InterGlobe Aviation (IndiGo),Business Analyst,Gurgaon,5.5,"Power BI, Research, Tableau, SQL, Analysis skills",3.7,Business Analyst
+Verve Systems,Junior Business Analyst,Ahmedabad,11.76,,3.8,Business Analyst
+CIS,Business Analyst Intern,Indore,9.384615384615385,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Business analysis, Microsoft Office",4.3,Business Analyst
+Elorce,Business Analyst,Hyderābād,6.0,"Axure, Visio, Wireframing, Balsamiq, Organizational skills",3.8,Business Analyst
+PwC,Business Analyst Data Modelling-Associate - Kolkata Y-14 - Technology Consulting,Calcutta,7.0,,3.8,Business Analyst
+Kliento Technologies,Business Analyst,Noida,5.5,,3.9,Business Analyst
+Genpact,"Business Analyst, Data & Reporting",Gurgaon,6.5,"Microsoft Excel, AI, Process management, Communication skills",3.9,Business Analyst
+Optum,Senior Manager - Business Analyst,Gurgaon,6.457330000000001,"Power BI, Alteryx, Microsoft SQL Server, Tableau, SQL",0.0,Business Analyst
+Virtusa,Business Analyst,Andhra Pradesh,7.117826086956522,"Analysis skills, Swift",3.7,Business Analyst
+Vision Infotech,Business Analyst,India,3.6,"Power BI, Data analysis skills, SQL, Analysis skills, Project management",0.0,Business Analyst
+Analytix Fintech International Pvt Ltd,Business Analyst,Cochin,5.0,"Power BI, Data analysis skills, Tableau, SQL, Communication skills",2.0,Business Analyst
+Navikenz,Business Analyst-Data,Bengaluru,6.4,"Power BI, R, Business analysis, Data analysis skills, Tableau",4.2,Business Analyst
+Mayura Consultancy Services,Business Analyst (B2B) With 1+year experience,Remote,1.98,"Jira, Microsoft Excel, ERP systems, Business analysis, Microsoft Office",0.0,Business Analyst
+Computershare,Senior IT Business Analyst,Bengaluru,7.5,"Microsoft SQL Server, Process improvement, .NET, Java, SQL",3.4,Business Analyst
+Dicetek LLC,Business Analyst - Data Visualization Skills is mandatory,Remote,9.384615384615385,"Jira, Business analysis, Trello, SQL, Analysis skills",4.3,Business Analyst
+Nowgray IT Services,Business Analyst,Uttar Pradesh,15.928571428571429,,5.0,Business Analyst
+XenonStack,Business Analyst- Trainee,Mohali,4.5,"Jira, Microsoft Access, SQL, Scrum, Organizational skills",3.4,Business Analyst
+UBS,Business Analyst,Pune,5.0,"Data modeling, Business analysis, SQL, Agile, Business requirements",3.8,Business Analyst
+The WildTigers Technologies,Business Analyst,India,3.9,"Project management, Project management methodology, Agile, Business requirements",0.0,Business Analyst
+SourceMash Technologies,Data Analyst/Power BI,Mohali,4.0,"Performance tuning, Power BI, Software troubleshooting, Microsoft SQL Server, SSRS",3.4,Business Analyst
+Novisync,Business Analyst,Visakhapatnam,5.5,,3.4,Business Analyst
+T365,Jr. Business Analyst,India,2.1,,0.0,Business Analyst
+NTT DATA,Business Analyst & Data Analyst,Bengaluru,6.5,"Remedy, Business analysis, Data analysis skills, ServiceNow, Agile",3.8,Business Analyst
+Primacy infotech Private Limited,Odoo Business Analyst,India,42.48,"Business analysis, Microsoft Office, Project management, Requirements gathering, Communication skills",3.9,Business Analyst
+Priceline.com,Business Analyst,Mumbai,7.0,"Microsoft Powerpoint, E-Commerce, Tableau, SQL, Analysis skills",3.8,Business Analyst
+ASSPL - Telangana,"Business Analyst Support, ROW AOP",Bengaluru,8.5,"Microsoft Excel, R, Tableau, SQL, Python",3.6,Business Analyst
+ION,Business Analyst - Fee Data 996,Mumbai,1.5,"Microsoft Excel, SQL, Pivot tables, Communication skills, Python",3.3,Business Analyst
+Dicetek LLC,Business Analyst - Fraud Risk,Remote,9.384615384615385,"Business analysis, Fraud prevention and detection, Communication skills",4.3,Business Analyst
+INK IT SOLUTIONS,Business Operations Analyst,Gurgaon,5.5,"Power BI, Data analysis skills, SQL, Business development, Analysis skills",0.0,Business Analyst
+OMH HealthEdge Holdings,BUSINESS ANALYST,Hyderābād,4.5,"Business analysis, Microsoft Office, Medical billing",4.0,Business Analyst
+Zebra Technologies,"Business Analyst, II",Pune,6.5,"Microsoft Powerpoint, Microsoft Excel, Public speaking, Presentation skills",3.9,Business Analyst
+IQ-EQ,Data Product Business Analyst,Hyderābād,5.5,"Power BI, Business analysis, Tableau, SQL, Project management",3.7,Business Analyst
+Infosys,Associate Business Analyst - GIS,Hyderābād,5.5,"ArcGIS, Software deployment, Java, Analysis skills, JavaScript",3.6,Business Analyst
+Sharp Brains Ltd,"Business Analyst Mumbai, Bengaluru, Chennai, Pune",India,8.5,"CRM software, Power BI, ERP systems, Business analysis, Microsoft Office",0.0,Business Analyst
+Maxxmann Communications,Business Analyst,Chandigarh,3.84,"Jira, Power BI, Microsoft Excel, Business analysis, Visio",0.0,Business Analyst
+Isourse Technologies Pvt Ltd,Business Analyst,India,3.0,"Microsoft Excel, Business analysis, Data analysis skills, English, Microsoft Office",0.0,Business Analyst
+Barclays,Business Analyst,Pune,8.0,"Jira, Business analysis, Microsoft Office, SQL, Project management",3.9,Business Analyst
+Flutter Entertainment,Business Analyst- Data Governance,Hyderābād,7.0,"Relational databases, Business analysis, Databases, SQL, Agile",4.0,Business Analyst
+Deque Systems,Accessibility Business Analyst,Remote,11.052499999999998,"Web accessibility, CSS, Mobile applications, Business analysis, Application development",3.9,Business Analyst
+Graebel Companies Inc.,Global Salesforce Business Analyst & Administrator,Bengaluru,7.25,"Statistics, Data mining, SAS, Salesforce, Business analysis",4.1,Business Analyst
+DataEconomy,Tableau Developer,Pune,5.69,"Data modeling, Business intelligence, Relational databases, Tableau, SQL",4.1,Business Analyst
+HoonarTek,BI - Tableau Resource,Mumbai,5.44,"Jira, Power BI, Business intelligence, D3.js, Research",3.5,Business Analyst
+Kaleesuwari Refinery,Tableau Developer,Tamil Nadu,8.169411764705883,"Data modeling, Microsoft Excel, Business intelligence, Relational databases, R",3.8,Business Analyst
+Pyramid Global Technologies,Tableau Developer,Mohali,15.928571428571429,"Tableau, SQL, Unit testing, Requirements gathering",5.0,Business Analyst
+WTW,Technical Business Analyst -Service Hub France,Thāne,4.99,"SQL, APIs",3.9,Business Analyst
+KSOLVES,Salesforce Business Analyst,Pune,6.81,"Microsoft Powerpoint, Microsoft Word, CI/CD, Microsoft Excel, Salesforce",3.7,Business Analyst
+ThinkAI India Consulting Pvt Ltd,Senior Business Intelligence Developer,Indore,10.0,"Power BI, Data modeling, Azure, Business intelligence, Spark",0.0,Business Analyst
+Stellarhire Solutions,Senior Business Intelligence Developer,Indore,12.365,"Performance tuning, Power BI, Data modeling, Azure, Business intelligence",0.0,Business Analyst
+Landmark Group,BI Developer - Bangalore,Bengaluru,9.0,"Performance tuning, Power BI, Azure, Oracle, Microsoft Outlook",3.8,Business Analyst
+NopAdvance LLP,Business Analyst,Surat,6.0,"MVC, React, English, Microsoft Office, .NET",4.0,Business Analyst
+Crypto Mize,Business Intelligence Developer,Delhi,9.5,"Oracle, Business intelligence, Salesforce, Business analysis, Microsoft SQL Server",4.8,Business Analyst
+Zessta,Business Analyst,Hyderābād,5.0,"Scrum, Agile, Communication skills",4.6,Business Analyst
+NICE Systems,Senior Business Analyst,Pune,6.5,,4.3,Business Analyst
+Timezone,Senior Azure/BI Developer,Mumbai,7.5,"Computer science, Power BI, Azure, C#, Microsoft SQL Server",3.0,Business Analyst
+Silent Infotech,Business Analyst,Ahmedabad,5.5,"Oracle, SAP, ERP systems, Business analysis, Project management",4.1,Business Analyst
+InfoBeans,Power BI Developer,Indore,18.0,"Power BI, Azure, Microsoft SQL Server, SSRS, Application development",3.8,Business Analyst
+Illumina,Business Systems Analyst (Siemens Camstar OpCentre),Bengaluru,8.0,"Software troubleshooting, SAP, ERP systems, Business analysis, Configuration management",3.5,Business Analyst
+BeyondKey,Software Engineer - Tableau,Indore,6.0,"Power BI, Tableau, SQL, Analysis skills, Communication skills",4.7,Business Analyst
+Mani India Technologies,Business analyst / Proposal writer,Remote,3.0,"Writing skills, Business analysis, English, Project management, Proposal writing",0.0,Business Analyst
+Datalogixs Technologies,IT Business Analyst & Technical Content Writer,Hyderābād,9.5,"Microsoft Powerpoint, Microsoft Word, Power BI, Microsoft Excel, Operating systems",0.0,Business Analyst
+Mantra Digital,Technical Writer/Business Analyst,Mumbai,5.0,"Jira, CSS, XML, Business analysis, Trello",3.5,Business Analyst
+PrimaFelicats Pvt. Ltd,Business Analyst,Noida,3.72,"CSS, Business analysis, English, Research, Graphic design",0.0,Business Analyst

@@ -1,0 +1,594 @@
+company_name,job_role,job_location,salary_lpa,skills,company_rating,standardized_job_role
+Warrior tech solutions,SQL Developer,Remote,5.0,"Relational databases, Data structures, Databases, SQL, Database design",0.0,Data Base Administrator
+Metaphor Consulting,SQL Fresher Developer,Jamshedpur,5.0,SQL,5.0,Data Base Administrator
+Corporate Hierarchy Solutions Pvt. Ltd,SQL Developer,India,18.0,"Microsoft SQL Server, Databases, SQL, Analysis skills, Database management",0.0,Data Base Administrator
+KJ Systems India,DataBase Developer (SQL),India,24.0,"SQL, Analysis skills, Communication skills",3.8,Data Base Administrator
+Jinendra infotech pvt ltd.,T-SQL Developer.,Remote,8.5,"Power BI, Data modeling, Azure, Microsoft SQL Server, Databases",0.0,Data Base Administrator
+Dream Tekis Software,SQL Developer,Hyderābād,5.0,"Relational databases, Microsoft SQL Server, SQL, Database design, Debugging",3.7,Data Base Administrator
+Tru View,SQL Developer / Analyst,India,5.5,"Oracle, SQL, Analysis skills, PL/SQL",4.4,Data Base Administrator
+Chai Waale,SQL Developer,Remote,14.5,"Performance tuning, Power BI, Azure, Oracle, Microsoft SQL Server",0.0,Data Base Administrator
+Corporate Hierarchy Solutions,SQL Developer,Hyderābād,20.5,"Microsoft SQL Server, Databases, SQL, Database management, PL/SQL",0.0,Data Base Administrator
+Dinero Solutions,Senior SQL Developer,Hyderābād,17.5,"Microsoft SQL Server, SQL, Analysis skills, SSIS",0.0,Data Base Administrator
+Cherri Technologies,SQL Developer,India,2.1,"Relational databases, Databases, SQL",3.4,Data Base Administrator
+Admin Looks,SQL Developer,Remote,9.9,"Power BI, Oracle, DB2, Microsoft SQL Server, SSRS",0.0,Data Base Administrator
+Wellpoint IT Solutions,SQL Developer,India,12.429545454545455,"Performance tuning, Microsoft SQL Server, SQL, SSIS",4.6,Data Base Administrator
+Flipkoins,Database Developer – SQL - Remote - Indian Timezone,Remote,4.98,"Microsoft SQL Server, SQL, PostgreSQL, SSIS, Communication skills",4.7,Data Base Administrator
+Dinero Solutions,SQL Developer,Pune,17.5,"Java, Databases, SQL, Analysis skills",0.0,Data Base Administrator
+rccenterprises,SQL Developer,India,8.406841132075472,"Microsoft Access, Oracle, Business intelligence, Microsoft SQL Server, SQL",0.0,Data Base Administrator
+Technoforte Software Pvt. Ltd,Oracle PL/SQL Developer,India,3.5,"Oracle, SQL, Analysis skills, PL/SQL, Shell Scripting",0.0,Data Base Administrator
+Jiza Hiring Solutions,Junior SQL Developer,Ponda,3.5,"Power BI, Azure, Tableau, Databases, SQL",0.0,Data Base Administrator
+CAPCO,PL/SQL Developer,Bengaluru,5.5,"Data modeling, Oracle, Tableau, Databases, SQL",3.7,Data Base Administrator
+rccenterprises,MS SQL Developer,India,2.4,"Microsoft SQL Server, Databases, SQL, Analysis skills",0.0,Data Base Administrator
+Zensar Technologies,Sr. PL/SQL Developer,Hyderābād,16.0,"Microsoft SQL Server, SQL, Database administration, Database management, Data management",3.9,Data Base Administrator
+Moksha Softlabs,SQL Developer,India,8.0,"Oracle, Microsoft SQL Server, SQL, Analysis skills, PL/SQL",0.0,Data Base Administrator
+Novatech Software,Junior Database Developer,Nāgpur,6.0,"Performance tuning, Data modeling, Oracle, Microsoft SQL Server, SQL",3.1,Data Base Administrator
+Ivalueplus Services Private Limited,SQL Developer,Haryāna,5.5,"Performance tuning, SQL, Database design, Analysis skills, Agile",4.8,Data Base Administrator
+Citta Solutions,SQL Developer,Remote,5.298846153846155,"C#, Microsoft SQL Server, .NET, SQL, Scripting",3.4,Data Base Administrator
+Dicetek LLC,Engineer - ETL and PL/SQL Developer,Remote,12.554,"Oracle, Microsoft SQL Server, SQL, SSIS, Informatica",4.3,Data Base Administrator
+Renous Consulting,PL/SQL Developer,Gurgaon,8.5,"Performance tuning, Data modeling, Oracle, Software troubleshooting, Databases",3.2,Data Base Administrator
+Mani India Technologies,SQL Server Developer with Power Apps Expertise,Remote,1.5,"Database development, Encryption, Microsoft SQL Server, SQL, Database design",0.0,Data Base Administrator
+HealthAsyst,SQL Developer,Bengaluru,7.0,"Buffer, C#, Microsoft SQL Server, .NET, SQL",3.7,Data Base Administrator
+KALP SOLUTIONS,SQL Developer,Gurgaon,13.5,"Java, Databases, SQL, Analysis skills",3.6,Data Base Administrator
+Sarah Digital Studio,SQL Developer,Nāgpur,8.406841132075472,"Power BI, Visual Studio, SQL",0.0,Data Base Administrator
+Cylsys Software Solution Pvt. Ltd.,My SQL & PostgreSQL Developer,India,7.5,"Performance tuning, Data modeling, SQL, Database management, PostgreSQL",0.0,Data Base Administrator
+"Intelliswift Software, Inc.",PL/SQl Developer,Gurgaon,8.251938775510204,"Azure, DevOps, SQL, Linux, PL/SQL",3.8,Data Base Administrator
+Aliqan Technologies,Database Developer,Remote,18.0,"Data modeling, Relational databases, SQL, Database management",4.6,Data Base Administrator
+Thomsun Infocare,SQL Developer,India,4.890625,"Performance tuning, SQL, Analysis skills, Database management, Data collection",4.5,Data Base Administrator
+Vaspp Technologies,SQL Developer,Bengaluru,42.0,"Performance tuning, Oracle, Software troubleshooting, Relational databases, Microsoft SQL Server",4.0,Data Base Administrator
+ICT Infracon,PL/SQL Developer,Bengaluru,6.5,"Oracle, SQL, PL/SQL, Communication skills",2.7,Data Base Administrator
+Rightpath Computer Technologies,PL/SQL DEVELOPER,Hyderābād,48.0,"SQL, PL/SQL",4.6,Data Base Administrator
+Knack Consulting Services Pvt Ltd,SQL Developer,Gurgaon,6.0,"Power BI, Azure, Business intelligence, Microsoft SQL Server, SSRS",3.8,Data Base Administrator
+Docusoft Solution India Pvt. Ltd.,Microsoft SQL Developer,India,7.2,"Performance tuning, Software troubleshooting, Microsoft SQL Server, SSRS, SQL",0.0,Data Base Administrator
+Zouma,SQL Developer,Gurgaon,5.0,"Microsoft SQL Server, SQL, Database management, SSIS, Communication skills",0.0,Data Base Administrator
+Data Collection Infotech,SQL Developer,Bengaluru,30.0,"Microsoft SQL Server, SQL, SSIS, Debugging, T-SQL",3.6,Data Base Administrator
+157 Industries Private Limited,SQL Developer,Pune,7.5,"SQL, Debugging, T-SQL",0.0,Data Base Administrator
+Msm Unify,Database Developer,Gurgaon,9.0,"Performance tuning, Data modeling, Microsoft SQL Server, SQL, T-SQL",0.0,Data Base Administrator
+Anblicks,Oracle PL / SQL Developer,Hyderābād,6.5,"Oracle, SQL, Agile, PL/SQL, SDLC",4.4,Data Base Administrator
+Achutha Associates,SQL Developer - 5+ Remote - Immediate,Remote,8.0,"Power BI, Oracle, DB2, Microsoft SQL Server, SSRS",0.0,Data Base Administrator
+Nithminds Private limited,SQL Developer - Immediate Joiner,Chennai,5.5,"SQL, Agile, MySQL",0.0,Data Base Administrator
+Mani Jewel,MS SQL Developer,India,9.0,"Microsoft SQL Server, SQL, Database design, Analysis skills, AI",0.0,Data Base Administrator
+APDEOPS TECHNOLOGIES,Oracle PL/SQL Developer,Mumbai,9.5,"Oracle, SQL, Analysis skills, PL/SQL, Communication skills",0.0,Data Base Administrator
+Heptarc Technology Solution,SQL Developer,India,12.061153846153847,"Performance tuning, Relational databases, Data analysis skills, Databases, SQL",5.0,Data Base Administrator
+Sensys Technologies Pvt. Ltd,SQL and NoSQL Developer,India,11.0,"Relational databases, NoSQL, SQL, Database design, UML",0.0,Data Base Administrator
+NS Global Corporation,Database Developer,Bengaluru,19.0,"Performance tuning, DB2, SAP, SQL, PostgreSQL",0.0,Data Base Administrator
+2Nfinity Technology Services,SQL Developer,Mumbai,3.5,"Databases, SQL, Analysis skills, PL/SQL",3.1,Data Base Administrator
+Code Microsystems,SQL/PL SQL DEVELOPER,Nāgpur,5.0,"Oracle, SQL, Scripting, PL/SQL, Communication skills",4.4,Data Base Administrator
+YT Solutions,Database Developer,Nāgpur,6.0,"Microsoft SQL Server, SQL, Forecasting, Communication skills, Data warehouse",3.7,Data Base Administrator
+CloudSmartz,SQL Developer,Chandigarh,5.298846153846155,"Relational databases, Databases, SQL",3.4,Data Base Administrator
+Stratologon,SQL DB Developer,Hyderābād,48.0,"Performance tuning, Microsoft SQL Server, Databases, SQL",3.9,Data Base Administrator
+Christos Group,MS SQL Developer,Bengaluru,18.0,"Microsoft SQL Server, SQL, SSIS",0.0,Data Base Administrator
+Great Minds,ORACLE PL/SQL DEVELOPER(OPENING FOR INTERN),Chennai,5.043333333333334,"Oracle, SQL, PL/SQL",2.6,Data Base Administrator
+Biz Technologies IT Solutions Ltd,SQL Developer,India,3.0,"Relational databases, Microsoft SQL Server, SQL, Database management, PostgreSQL",0.0,Data Base Administrator
+Finacus Solutions Pvt Ltd,SQL Developer,Mumbai,3.5,"Microsoft SQL Server, SQL, Database management, PL/SQL, Communication skills",3.1,Data Base Administrator
+Retransform,SQL Developer,Mumbai,3.5,"Microsoft SQL Server, SQL",2.7,Data Base Administrator
+Shasta Tek Solutions,SQL Developer,Chennai,5.0,"Performance tuning, Power BI, Microsoft SQL Server, SSRS, SQL",3.7,Data Base Administrator
+Nile Technologies,Database Developer,Noida,6.0,"Oracle, Microsoft SQL Server, SQL, PL/SQL, MySQL",3.3,Data Base Administrator
+Innovage cloud,"SQL, PL/SQL Developer",Ahmedabad,8.406841132075472,"Oracle, SQL, Analysis skills, Database management, PL/SQL",0.0,Data Base Administrator
+LaMinds,MS-SQL Developer,Gujarat,8.709107142857142,"Jira, Performance tuning, C#, Microsoft SQL Server, English",4.0,Data Base Administrator
+PradeepIT Consulting Services,SQL Developer,Bengaluru,4.890625,SQL,4.5,Data Base Administrator
+Sensys Technologies Pvt. Ltd,Database Developer (SQL and No SQL),Mumbai,7.0,"Relational databases, Microsoft SQL Server, NoSQL, Databases, SQL",0.0,Data Base Administrator
+Pie Gain Technologies,SQL Developer,Lucknow,6.0,SQL,0.0,Data Base Administrator
+Tenacitics India Pvt Ltd,Database Developer,India,4.0,"Oracle, Microsoft SQL Server, English, Databases, SQL",0.0,Data Base Administrator
+D2K Technologies,SQL Developer,Navi Mumbai,3.5,"Data modeling, Microsoft SQL Server, SSRS, SQL, SSIS",3.4,Data Base Administrator
+Saxon,PL/SQL Developer,Hyderābād,4.0,"Oracle, Application development, SQL, Continuous improvement, Software development",0.0,Data Base Administrator
+Yiron Technologies,Fresher Database Developer (MysQl/SQL),Chandigarh,12.0,"Data modeling, Azure, Cassandra, Relational databases, Big data",3.8,Data Base Administrator
+Squalas,PL / SQL Developer,Hyderābād,48.0,"Statistics, Oracle, SQL, Presentation skills, Scripting",5.0,Data Base Administrator
+Wiz Teckies,SQL Developer,Chennai,4.5,"Performance tuning, Microsoft SQL Server, SSRS, SQL, SSIS",0.0,Data Base Administrator
+One Point One Solutions Ltd,SQL Developer,Mumbai,42.0,"Microsoft SQL Server, SQL, Communication skills, MySQL, Time management",3.5,Data Base Administrator
+Fulcrum Digital,SQL SERVER Developer,Pune,5.5,"Microsoft SQL Server, SSRS, SQL, Database design, SQL Server Management Studio",4.0,Data Base Administrator
+Aliqan Technologies,Python and SQL Developer,Hyderābād,18.0,"Azure, Software troubleshooting, Data structures, Microsoft SQL Server, Git",4.6,Data Base Administrator
+LocoBuzz,SQL Developer,Mumbai,5.5,"Performance tuning, NoSQL, SQL",3.8,Data Base Administrator
+Trangile Services pvt ltd,PL/SQL Developer,Noida,7.5,"Oracle, SQL, JavaScript, PL/SQL",0.0,Data Base Administrator
+Innowave IT Infrastructures,SQL Developer,India,8.709107142857142,"SQL, Leadership, Communication skills, Time management",4.0,Data Base Administrator
+Finonyx,PL/SQL Developer,Bengaluru,7.9675,"Performance tuning, Oracle, Relational databases, Data structures, Struts",3.6,Data Base Administrator
+RemoteStar,SQL (Contract),Bengaluru,48.0,"Data modeling, SQL, Quality assurance, Data science, AI",3.7,Data Base Administrator
+Whitefield Careers,Senior Database Developer,Bengaluru,17.5,"CI/CD, Go, Cassandra, Kubernetes, Database development",0.0,Data Base Administrator
+Norstella,Senior SQL Engineer (Data Intelligence Analyst),Remote,5.298846153846155,"Power BI, Tableau, SQL, Analysis skills, Machine learning",3.4,Data Base Administrator
+Export Genius,DATABASE ANALYST,Delhi,4.890625,"Performance tuning, Big data, Microsoft SQL Server, SQL, Quality assurance",4.5,Data Base Administrator
+FactEntry,SQL Database Administrator,Tamil Nadu,6.338571428571428,"Performance tuning, Big data, Disaster recovery, Microsoft SQL Server, NoSQL",3.3,Data Base Administrator
+Evalueserve,Senior Analyst -Market Data Management,Gurgaon,6.5,"Research, Microsoft Office, Presentation skills, Data management, Investment banking",3.7,Data Base Administrator
+FYNXT,SQL Developer,Surat,5.157777777777778,"Azure, Cassandra, Big data, DevOps, Spark",3.2,Data Base Administrator
+Gistec/RSI Softech India PVT LTD,DataBase Engineer,Hyderābād,6.5,"Microsoft Windows Server, Oracle, IIS, Software deployment, Microsoft SQL Server",0.0,Data Base Administrator
+Bridge,Database QA Engineer - Contract,Remote,13.5,"Jira, Databases, SQL, AWS, Quality assurance",4.3,Data Base Administrator
+Sandoz,"Global MDM Solution Engineer, Data Management & Governance",Telangana,9.830595238095238,"Software deployment, SAP, DevOps, English, Enterprise architecture",3.9,Data Base Administrator
+AnugrahHrservices,Data Management Analyst,Mumbai,2.64,"FTP, Microsoft Excel, Data analysis skills, English, Analysis skills",0.0,Data Base Administrator
+JPMorganChase,Data Management- Analytics Solutions Analyst,Hyderābād,5.5,"Microsoft Excel, Alteryx, Microsoft SQL Server, Tableau, SQL",4.0,Data Base Administrator
+JB Poindexter (India) Private Limited,"Analyst, Master Data Management",Bengaluru,5.5,"Microsoft Excel, JD Edwards, ERP systems, Data analysis skills, Data management",3.8,Data Base Administrator
+Vendasta Technology (India) Private Limited,Database Analyst,India,33.12,,3.7,Data Base Administrator
+JPMorganChase,Data Management Controllers - Analyst,Mumbai,6.5,"SAP, Alteryx, Tableau, AWS, Analysis skills",4.0,Data Base Administrator
+JPMorganChase,Data Management Analyst,Mumbai,6.5,"Microsoft Powerpoint, Microsoft Word, Microsoft Excel, Relational databases, QlikView",4.0,Data Base Administrator
+Novartis,Associate Analyst-Master Data Management,Hyderābād,8.0,"MRP, Project management, Data management",4.0,Data Base Administrator
+Porte Interior Solutions Pvt. Ltd,Data Management Analyst,Ghaziabad,3.0,"Microsoft Word, Data mining, Analysis skills, Data management, Management reporting",0.0,Data Base Administrator
+Puma Energy,Master Data Management Analyst,Mumbai,5.5,"Supplier management, Data management, Master data management",3.8,Data Base Administrator
+Comcast Corporation,Data Management Analyst 2,Chennai,4.5,Quality assurance,3.8,Data Base Administrator
+Northern Trust Corp.,"Analyst, Risk Data Management",Bengaluru,5.5,"Microsoft Powerpoint, Microsoft Word, Statistics, Power BI, Microsoft Excel",3.8,Data Base Administrator
+Citi,Reference Data Management Analyst - Gurgaon,Gurgaon,9.908513513513514,Python,3.7,Data Base Administrator
+Evolent Health,"Analyst, Provider Data Management",Pune,2.5,"Microsoft Powerpoint, Visual Basic, Microsoft SQL Server, Analysis skills, Organizational skills",3.4,Data Base Administrator
+Moody's,Data Management Analyst,Bengaluru,7.5,"Research, SQL, Data management, Agile, Communication skills",3.9,Data Base Administrator
+Oracle,Database Administrator 1-IT,Bengaluru,6.275,"Oracle, SQL, Database design, Database administration, APIs",3.8,Data Base Administrator
+APDEOPS TECHNOLOGIES,MS SQL Database Administrator,India,5.77,"Performance tuning, Disaster recovery, Microsoft SQL Server, SSRS, SQL",0.0,Data Base Administrator
+sirmaindia,Database Administrator - Oracle,Bengaluru,8.406841132075472,Oracle,0.0,Data Base Administrator
+Artefact Projects Limited,Database Administrator,India,1.8,"CRM software, Microsoft Excel, Encryption",2.3,Data Base Administrator
+Resolink Technologies Private Limited,Database Administrator (part time),Remote,8.05516,"NoSQL, Databases, SQL, Database administration, Analysis skills",0.0,Data Base Administrator
+Splashgain,SQL Database Administrator (DBA),Gujarat,9.908513513513514,"Performance tuning, Disaster recovery, Microsoft SQL Server, SQL, High availability",3.7,Data Base Administrator
+Cuculus GmbH,Database Administrator (m/f/d),Bengaluru,5.57,,3.6,Data Base Administrator
+MyWays,Database Administrator,Gurgaon,15.0,"Oracle, Encryption, Microsoft SQL Server, SQL, Database administration",0.0,Data Base Administrator
+Telefónica Tech UK&I (Data & AI),SQL Database Administrator,Pune,4.425,"Azure, DevOps, Disaster recovery, Microsoft SQL Server, English",5.0,Data Base Administrator
+Oracle,Oracle Database Administrator,Bengaluru,6.275,"Azure, Oracle, Weblogic, SQL, Database administration",3.8,Data Base Administrator
+Litera,Database Administrator (SQL Server),Ahmedabad,5.425,"Data modeling, PCI, Encryption, Microsoft SQL Server, SOX",3.3,Data Base Administrator
+Capital Placement Services,SQL Database Administrator For MNC in Spaze IT Park Gurgaon,Farīdābād,6.0,"Performance tuning, Microsoft Excel, Data analysis skills, Disaster recovery, Microsoft SQL Server",0.0,Data Base Administrator
+ShyftLabs,MS SQL Server Database Administrator (DBA),Noida,9.37,"Microsoft SQL Server, PostgreSQL, Communication skills, Python, Time management",3.6,Data Base Administrator
+Strattek Consulting,DBA – Database Administrator,Hyderābād,6.15,"Oracle, Software troubleshooting, Oracle EBS, Weblogic, Databases",4.2,Data Base Administrator
+Accenture,Database Administrator,Pune,8.251938775510204,"Performance tuning, Oracle, Database administration",3.8,Data Base Administrator
+BigSpire Software,MySQL Database Administrator,India,9.830595238095238,"SQL, Communication skills, MySQL",3.9,Data Base Administrator
+Probit Softech Pvt. Ltd,Database Administrator,India,6.625,"Oracle, SAP, Microsoft SQL Server, Windows, SQL",0.0,Data Base Administrator
+Tech Concierge Pro,MySQL DBA,Remote,18.0,"Performance tuning, Encryption, Disaster recovery, Google Cloud Platform, SQL",0.0,Data Base Administrator
+Kyndryl,Database administrator - Sybase,Mumbai,6.28,"Performance tuning, Oracle, Microsoft SQL Server, Databases, Database administration",3.9,Data Base Administrator
+TotHR Solutions,Database Administrator,Bengaluru,5.0,"Elasticsearch, Cassandra, Ansible, NoSQL, MongoDB",5.0,Data Base Administrator
+Murally Cretions Pvt Ltd,Database administrator,Delhi,15.0,"Microsoft Windows Server, Windows, Database management, PostgreSQL, IDS",0.0,Data Base Administrator
+Travitons Technologies,Database Administrator,India,12.0,"Performance tuning, Azure, Oracle, Microsoft SQL Server, SQL",0.0,Data Base Administrator
+IDBI Intech,MYSQL Database Administrator,Gurgaon,6.8,"Relational databases, Databases, Database management, Data management, MySQL",3.4,Data Base Administrator
+Bornfire Innovations Private Limited,Database Administrator,Salem,2.5,"Oracle, Microsoft SQL Server, Windows, Linux, MySQL",0.0,Data Base Administrator
+Bounteous,MS SQL Database Administrator,India,5.298846153846155,"Azure, Oracle, Kubernetes, Software deployment, Configuration management",3.4,Data Base Administrator
+ZL Tech,Oracle Database Administrator,Hyderābād,5.65,"Performance tuning, Oracle, Load balancing, Encryption, SQL",3.6,Data Base Administrator
+DLI Systems (P) Ltd,SQL Database Administrator,Calicut,4.32,"Database development, Relational databases, Databases, SQL, Database administration",3.5,Data Base Administrator
+Reylon soft,Database Administrator - MSSQL,Bengaluru,5.2,"Microsoft SQL Server, SQL",3.6,Data Base Administrator
+LTIMindtree,Oracle Database Administrator,Hyderābād,10.0,"Oracle, SQL, Database administration, AWS, PL/SQL",0.0,Data Base Administrator
+Infosys,Database Administrator (SQL/Oracle),Pune,6.215,"Azure, Oracle, Microsoft SQL Server, SQL, Analysis skills",3.6,Data Base Administrator
+Alpha Networks Solution Pte Ltd,Database Administrator,India,4.465,"Databases, SQL, Database management",3.0,Data Base Administrator
+Altera Digital Health India,Database Administrator(always on) - 1709,Bengaluru,7.37,"SQL, Communication skills",3.5,Data Base Administrator
+Paul Mason Consulting India,Database Administrator (SQL),Vadodara,8.01,"Microsoft Windows Server, Performance tuning, Oracle, Microsoft SQL Server, SSRS",4.0,Data Base Administrator
+Golden Hippo Technology Pvt Ltd,Associate MySQL Database Administrator,Madurai,5.1125,"Performance tuning, Microsoft SQL Server, Scripting, Clustering, Communication skills",2.4,Data Base Administrator
+PARASCADD,Database Administrator,Mumbai,1.575,"Disaster recovery, Microsoft SQL Server, SQL, Database administration, High availability",2.7,Data Base Administrator
+Knowledge Bridge Consulting,Database Administrator(DBA),Remote,8.0,"Performance tuning, Azure, Disaster recovery, NoSQL, Google Cloud Platform",0.0,Data Base Administrator
+Parth Infotech,ORACLE DATABASE ADMINISTRATOR,Pune,4.425,"Performance tuning, Oracle",4.2,Data Base Administrator
+MDI NetworX,Database Administrator,Pune,4.25,"SQL, Database design, Database administration, APIs",3.7,Data Base Administrator
+Amphenol Omniconnect India Pvt Ltd,Database Administrator,Chennai,3.06,,3.3,Data Base Administrator
+Xllent Corporate Services,Database Administrator,India,25.0,"NoSQL, Databases, SQL, AWS, PostgreSQL",0.0,Data Base Administrator
+AtkinsRéalis,SQL Database Administrator,Bengaluru,6.415,"Performance tuning, Relational databases, Microsoft SQL Server, PaaS, Databases",4.1,Data Base Administrator
+Commando Industril Security Force,Database Administrator,Rānchī,3.24,"Oracle, Load balancing, Microsoft SQL Server, MongoDB, Databases",0.0,Data Base Administrator
+Clepr Technologies,Database Administrator (DBA),Mohali,12.0,"Performance tuning, Oracle, Microsoft SQL Server, SQL, Database administration",0.0,Data Base Administrator
+SBG Industries Pvt. Ltd,DBA (Database Administrator) - Shri Balaji Global - Nagpur,India,5.0,"Performance tuning, Azure, Encryption, Disaster recovery, Microsoft SQL Server",0.0,Data Base Administrator
+Wildnet Technologies,SQL Server DBA,Remote,5.0,"Azure, Encryption, Disaster recovery, Microsoft SQL Server, SQL",4.6,Data Base Administrator
+Trine Infotech Pvt Ltd,Database Administrator and Architect,Remote,3.75,"Data modeling, Cloud infrastructure, Azure, Cloud architecture, Microsoft SQL Server",0.0,Data Base Administrator
+Kamlax Global Technologies SDN BHD,Snowflake database administrator,Mumbai,10.0,"Oracle, Microsoft SQL Server, SQL, Database administration, RBAC",0.0,Data Base Administrator
+ZL Technologies,Oracle Database Administrator,Hyderābād,5.65,"Performance tuning, Oracle, Load balancing, Encryption, SQL",3.6,Data Base Administrator
+Kyndryl,MS-SQL Database Administrator,Bengaluru,9.830595238095238,"Operating systems, Disaster recovery, Microsoft SQL Server, SQL, Database administration",3.9,Data Base Administrator
+Egnyte,Database Administrator,Remote,8.709107142857142,"Azure, Go, Ansible, Relational databases, Spark",4.0,Data Base Administrator
+SourceFuse,Database Migration Specialists,Remote,8.709107142857142,"CI/CD, Oracle, PCI, Software deployment, DevOps",4.0,Data Base Administrator
+LedX Law,Database Administrator,Indore,15.0,"SQL, Database design, Database administration, PostgreSQL, Scripting",3.7,Data Base Administrator
+In Time Tec,Database Administrator,Bengaluru,6.415,"Power BI, Firmware, Microsoft SQL Server, Performance management, Databases",3.8,Data Base Administrator
+Oracle,Senior Oracle Database Administrator,Mumbai,5.65,Oracle,3.8,Data Base Administrator
+HiringGo,MySQL Database Administrator,Pune,5.0,"Performance tuning, Azure, Oracle, Software troubleshooting, Kubernetes",0.0,Data Base Administrator
+Dentaweb Services,Mysql Database Administrator,Ahmedabad,4.5,MySQL,0.0,Data Base Administrator
+Maximus Infoware,SQL and PostgreSQL Database Administrator (DBA),Thāne,4.8,"Performance tuning, Software deployment, Microsoft SQL Server, Windows, SQL",3.7,Data Base Administrator
+Zipigo technosoft pvt ltd,Oracle Database Administrator,Mumbai,6.65,"Oracle, Databases, Database administration",0.0,Data Base Administrator
+APDEOPS TECHNOLOGIES,PLSQL DATABASE ADMINISTRATOR,Mumbai,7.5,"Oracle, Microsoft SQL Server, SQL, Database administration, PL/SQL",0.0,Data Base Administrator
+Palium Software,Database Administrator,Mumbai,4.98,"Database management, Banking",5.0,Data Base Administrator
+Baker Hughes,Database Administrator- SQL server,Gurgaon,9.830595238095238,"Performance tuning, Azure, Encryption, Disaster recovery, Microsoft SQL Server",3.9,Data Base Administrator
+Datamate Infosolutions Ltd,Database Administrator,Cochin,4.05,"Hospitality, Azure, Oracle, Disaster recovery, Databases",4.0,Data Base Administrator
+Mr. Cooper,Database Administrator,Chennai,5.42,"Performance tuning, Disaster recovery, Microsoft SQL Server, SQL, Database administration",3.6,Data Base Administrator
+Norah Technologies,Database Administrator (DBA),India,5.298846153846155,"SQL, Database design, Database administration, APIs",3.4,Data Base Administrator
+Simple Logic IT,MySQL Database Administrator,Mumbai,39.9,"SQL, AWS, PostgreSQL, Scripting, Python",4.2,Data Base Administrator
+LyfLeap Talent Solutions Private Ltd,SQL Server Database Administrator,Mumbai,9.0,"Performance tuning, Encryption, Disaster recovery, Microsoft SQL Server, SQL",0.0,Data Base Administrator
+Invia Private Limited,MS - SQL Database Administrator,Noida,4.965,"Performance tuning, IT service management, Disaster recovery, Microsoft SQL Server, SQL",4.1,Data Base Administrator
+Reylon soft,Database Administrator- Oracle,Bengaluru,5.2,Oracle,3.6,Data Base Administrator
+GKM IT,Database Administrator,Udaipur,5.8,"CI/CD, Performance tuning, Oracle, Load balancing, Encryption",0.0,Data Base Administrator
+Sujata Computers,Database Administrator L1,Delhi,5.298846153846155,SQL,3.4,Data Base Administrator
+The Scalers,Database Administrator,Bengaluru,5.2,"Authentication, Relational databases, Encryption, Windows, Databases",3.8,Data Base Administrator
+MBI Digital,Oracle Database Administrator,India,4.465,"Oracle, SQL, Database design, IT support, Linux",2.9,Data Base Administrator
+VasyERP Solutions,Database Administrator,Ahmedabad,17.34,"Database development, Databases, PostgreSQL",4.2,Data Base Administrator
+Programming.com,Sr. Database Administrator,Bengaluru,10.0,"Azure, Oracle, Microsoft SQL Server, Databases, Database administration",0.0,Data Base Administrator
+DLI PDC,Database Administrator - SQL,Malappuram,8.406841132075472,"Database development, Relational databases, Databases, SQL, Database administration",0.0,Data Base Administrator
+CornerTree Consulting,Database Administrator,Bengaluru,25.0,"Data modeling, Cassandra, C#, Windows, .NET",3.6,Data Base Administrator
+Newfold Digital,Database Administrator,India,9.908513513513514,"Elasticsearch, Oracle, Cassandra, WordPress, Microsoft SQL Server",3.7,Data Base Administrator
+"Intercontinental Exchange Holdings, Inc.",Database Administrator,Hyderābād,8.525,"Oracle, Cassandra, Relational databases, NoSQL, MongoDB",3.4,Data Base Administrator
+Nexus pro services,Technical Database - Administrator,Delhi,5.4,"Oracle, Microsoft SQL Server, SQL, Database administration, Analysis skills",0.0,Data Base Administrator
+Intellioz,"Sr. Database Administrator (MongoDB, PostgreSQL)",Mumbai,14.1,"Performance tuning, MongoDB, SQL, Database design, Database administration",0.0,Data Base Administrator
+"Medpace, Inc.",Experienced SQL Database Administrator,Navi Mumbai,6.55,"Performance tuning, Oracle, Disaster recovery, Microsoft SQL Server, SQL",2.7,Data Base Administrator
+Explorance,Database Administrator PGSQL & MSSQL,Chennai,4.875,"Performance tuning, Disaster recovery, Microsoft SQL Server, SSRS, Databases",3.3,Data Base Administrator
+Molex,Database Administrator -Logical DBA (SQL),Bengaluru,7.0,"Microsoft Windows Server, Performance tuning, Azure, Software troubleshooting, Disaster recovery",3.6,Data Base Administrator
+Nivid Solutions Pvt Ltd,Database Administrator,Cannanore,4.45,"Performance tuning, Azure, Oracle, Encryption, Microsoft SQL Server",4.3,Data Base Administrator
+Mobikon,Database Administrator,Pune,4.95,"Performance tuning, Elasticsearch, Business intelligence, Big data, Disaster recovery",3.6,Data Base Administrator
+NdimensionZ,Database Administrator,Bengaluru,4.475,"Data modeling, Microsoft SQL Server, MongoDB, SQL, Database administration",3.8,Data Base Administrator
+Innovative Tech Hub,MySQL Database Administrator,Navi Mumbai,5.125,"Data modeling, Microsoft SQL Server, SQL, Database administration, PostgreSQL",3.7,Data Base Administrator
+Scalability Engineers,Senior Database Administrator,Remote,5.5,"Performance tuning, Relational databases, Disaster recovery, Microsoft SQL Server, Databases",4.8,Data Base Administrator
+Xopple,Database Administrator,Gāndhīnagar,4.5,"MongoDB, Databases, AWS, Database management",2.7,Data Base Administrator
+Akhil Systems,Database Administrator (DBA),Gurgaon,5.065,"CI/CD, Performance tuning, Azure, Oracle, Software troubleshooting",3.5,Data Base Administrator
+Viavi Solutions,Database Administrator 3,Pune,5.225,"Hyperion, Oracle, Software troubleshooting, Microsoft SQL Server, J2EE",3.7,Data Base Administrator
+PAN ASIA SOFTWARE SOLUTIONS SDN BHD,Immediate Opening for Database Administrator (DB2/MariaDB/MongoDB),India,5.0,"DB2, MongoDB, .NET, Databases, Database design",0.0,Data Base Administrator
+GeoTechnosoft,Database Administrator,Noida,6.08,"Data modeling, Oracle, Encryption, NoSQL, SQL",3.9,Data Base Administrator
+nfolks,SQL Server Database Administrator,Hyderābād,5.4,"Azure, Incident management, C#, Microsoft SQL Server, .NET",4.2,Data Base Administrator
+Muvi,Database Administrator,Bhubaneshwar,4.6,"Performance tuning, Elasticsearch, NoSQL, MongoDB, Databases",4.0,Data Base Administrator
+Classic Informatics Private Limited,Database Administrator,Gurgaon,5.875,"Ansible, Encryption, MongoDB, SQL, Database administration",4.4,Data Base Administrator
+Kaleyra,Database Administrator - Mysql / Maria & Mongo #232 (Remote),Bengaluru,7.025,"MongoDB, Databases, SQL, AWS, Perl",3.9,Data Base Administrator
+Bombay Mercantile Co-operative Bank,DATABASE ADMINISTRATOR,Mumbai,4.98,"Azure, XML, Relational databases, DevOps, Disaster recovery",4.7,Data Base Administrator
+ProArch,Oracle Database Administrator,Hyderābād,25.0,"Performance tuning, Oracle, Databases, Database administration, Scripting",4.1,Data Base Administrator
+Eazy Business Solutions,Database Administrator(Postgres sql),Gurgaon,43.98,"Performance tuning, SQL, Database administration, PostgreSQL, Linux",4.2,Data Base Administrator
+inlogic,Database Administrator,Chennai,4.3,"Performance tuning, Data modeling, SQL, Business requirements",4.5,Data Base Administrator
+Cympac Software Solutions,Oracle Database Administrator,India,5.298846153846155,"Oracle, R, SQL, PL/SQL, High availability",3.4,Data Base Administrator
+Kyndryl,Database Administrator - MSSQL,Bengaluru,5.895,"Azure, Oracle, DB2, Encryption, Microsoft SQL Server",3.9,Data Base Administrator
+Mechatronics Systems,Database Administrator,Pune,4.176428571428572,"Software troubleshooting, Relational databases, NoSQL, SQL, Database design",2.7,Data Base Administrator
+Vertafore,"Sr. Database Administrator (SQL DBA, T- SQL)",Hyderābād,9.745,"Performance tuning, Data center experience, Software troubleshooting, Encryption, Microsoft SQL Server",3.7,Data Base Administrator
+Susoft Solutions,Jr Database Administrator,India,8.406841132075472,"CSS, Microsoft SQL Server, SQL, PHP, PostgreSQL",1.0,Data Base Administrator
+Servify,Database Administrator,Mumbai,4.825,"Performance tuning, Disaster recovery, MongoDB, PostgreSQL, MySQL",3.9,Data Base Administrator
+HIRD Services Pvt ltd,MS SQL Database Administrator,Navi Mumbai,15.0,"Power BI, Microsoft SQL Server, SSRS, SQL, Database administration",0.0,Data Base Administrator
+JellyFish Technologies,Database Administrator,Noida,15.0,"Performance tuning, Disaster recovery, Research, MongoDB, High availability",0.0,Data Base Administrator
+Knack Consulting Services Pvt Ltd,Database Administrator,Mumbai,8.251938775510204,"Performance tuning, Operating systems, Oracle, SQL, Communication skills",3.8,Data Base Administrator
+ZeroNorth,Database Administrator,India,3.9225,"Performance tuning, Cassandra, Encryption, NoSQL, Technical support",3.1,Data Base Administrator
+Rezo.ai.,Senior Database Administrator,Noida,8.251938775510204,"Performance tuning, Software troubleshooting, NoSQL, Redis, MySQL",3.8,Data Base Administrator
+Carwale,Database Administrator,India,8.251938775510204,"Data modeling, Azure, Oracle, Software troubleshooting, Relational databases",3.8,Data Base Administrator
+EGB Systems & Solutions,Database Administrators,Chennai,4.3,"Databases, SQL, Database management, PL/SQL",3.7,Data Base Administrator
+Vexil Infotech private Limited,Database Administrator,Lucknow,8.406841132075472,"CI/CD, Azure, Oracle, Software troubleshooting, DevOps",0.0,Data Base Administrator
+PureSoftware Technologies Pvt Ltd,Database Administrator,Hyderābād,6.5,"Performance tuning, Oracle, Microsoft SQL Server, Databases, AWS",3.4,Data Base Administrator
+Infotel UK,SQL Database Administrator,Chennai,6.345,"Performance tuning, Azure, Microsoft SQL Server, SQL, Database administration",3.5,Data Base Administrator
+Leeway Softech,Sr. Database Administrator(My SQL),India,8.406841132075472,SQL,0.0,Data Base Administrator
+NAVNIT GROUP,MSSql Administrator/Database Administration,Calcutta,3.5,"Oracle, Microsoft SQL Server, Databases, SQL, Database administration",0.0,Data Base Administrator
+Gritstone Technologies,Database Administrator,Calicut,4.8,"Oracle, Microsoft SQL Server, .NET, Databases, Administrative experience",4.6,Data Base Administrator
+Syncfusion Software Private Limited,Database Administrator,India,2.88,,0.0,Data Base Administrator
+NORAH CLINICAL SOLUTION,Database Administrator (DBA),India,5.298846153846155,"SQL, Database design, Database administration, APIs",3.4,Data Base Administrator
+Datavail,Associate Database Administrator,Bengaluru,6.15,"Microsoft Powerpoint, Microsoft Excel, Azure, Disaster recovery, Microsoft SQL Server",3.7,Data Base Administrator
+S&P Global,Database Administrator,Gurgaon,6.575,"Performance tuning, Oracle, Microsoft SQL Server, Git, Databases",4.1,Data Base Administrator
+Infinite Computer Solutions Ltd.,Senior Database administrator,Bengaluru,4.425,"SQL, PostgreSQL",3.3,Data Base Administrator
+Avadhesh India Adivsory Services LLP,Oracle DBA,Remote,30.0,"Performance tuning, Cloud infrastructure, Oracle, Databases, SQL",0.0,Data Base Administrator
+NTT DATA,Associate Database Administrator - L2 Oracle,Chennai,4.975,"Performance tuning, Azure, Oracle, Encryption, Microsoft SQL Server",3.8,Data Base Administrator
+Coditude,Database Administrator,Pune,4.425,"Power BI, Microsoft SQL Server, SSRS, English, Database administration",2.4,Data Base Administrator
+Paytm,DBA-Senior Database Administrator,Noida,3.735,"Performance tuning, Database administration, AWS, Analysis skills, Scripting",3.2,Data Base Administrator
+InSphere Solutions,Database Administrator,Delhi,12.429545454545455,"Encryption, MongoDB, SQL, Database design, Database management",4.6,Data Base Administrator
+unilog,Database Administrator (PostgreSQL DBA),Bengaluru,5.42,"Oracle, Encryption, Disaster recovery, Databases, SQL",3.8,Data Base Administrator
+Carifer Technologies,MySQL Database Administrator,Erode,5.0,"NoSQL, Git, MongoDB, Databases, SQL",4.4,Data Base Administrator
+ContractPodAi,Senior Database Administrator,Mumbai,5.08,"Performance tuning, Azure, Disaster recovery, Microsoft SQL Server, NoSQL",3.6,Data Base Administrator
+Attain,Oracle Database Administrator (DBA),Bengaluru,6.0,"Azure, Oracle, Microsoft SQL Server, Databases, SQL",5.0,Data Base Administrator
+"RBG Labs, IIT Madras",Immediate requirement for Database Administrator,Chennai,3.0,"Elasticsearch, Disaster recovery, NoSQL, MongoDB, PostgreSQL",0.0,Data Base Administrator
+CustomerXPs,MySQL Database Administrator,Bengaluru,5.2,".NET, Financial services, Fraud prevention and detection, Linux, Banking",3.3,Data Base Administrator
+Cricbuzz,Database Administrator,Bengaluru,5.42,"Cassandra, iOS, NoSQL, MongoDB, Redis",4.1,Data Base Administrator
+Knowledge Bridge Consulting Inc.,System Administrator/DBA,Remote,8.25,"Microsoft Windows Server, Performance tuning, System administration, Azure, Oracle",0.0,Data Base Administrator
+Golden Hippo Technology Pvt Ltd,Senior MySQL Database Administrator,Madurai,5.8,"Performance tuning, Microsoft SQL Server, Scripting, Clustering, Communication skills",2.4,Data Base Administrator
+Yiron Technologies,Fresher Database Developer (MysQl/SQL),Chandigarh,24.72,"Data modeling, Azure, Cassandra, Relational databases, Big data",3.8,Data Base Administrator
+Gratia Technology Pvt. Ltd.,Database Administrator,Guwahati,2.1,"Microsoft SQL Server, Databases, SQL, PHP, Database management",3.0,Data Base Administrator
+50 Hertz,Database Administrator - MongoDB,Delhi,4.176428571428572,"MongoDB, PostgreSQL, MySQL",2.7,Data Base Administrator
+Kyndryl,Database Administrator,Bengaluru,5.895,"Azure, Node.js, Disaster recovery, Microsoft SQL Server, PaaS",3.9,Data Base Administrator
+Gcodes Hub Solution Pvt. Ltd.,Database Administrator,Cochin,4.5,"Microsoft Windows Server, Performance tuning, Azure, Operating systems, Encryption",0.0,Data Base Administrator
+Kyndryl,Oracle Database Administrator,Mumbai,5.4,"Performance tuning, Cloud infrastructure, Azure, Oracle, Node.js",3.9,Data Base Administrator
+Chai Waale,SQL Developer,Remote,15.0,"Performance tuning, Power BI, Azure, Oracle, Microsoft SQL Server",0.0,Data Base Administrator
+"R1 RCM, Inc.",Sr. Database Administrator,Chennai,4.5,,3.5,Data Base Administrator
+Insys IT,Database Administrator,Chennai,8.406841132075472,"Oracle, Microsoft SQL Server, Databases, SQL, Database administration",0.0,Data Base Administrator
+Somnetics,Database Administrator,Calcutta,6.28,"MongoDB, Linux, MySQL",4.4,Data Base Administrator
+Applogiq,Database Administrator,Cochin,4.52,"Azure, Oracle, Cassandra, Relational databases, Microsoft SQL Server",4.6,Data Base Administrator
+ScaleIn,Database Administrator,Bengaluru,6.0,"System administration, Oracle, Cassandra, Microsoft SQL Server, NoSQL",0.0,Data Base Administrator
+Sightview Software,Database Administrator (DBA),Tamil Nadu,4.176428571428572,"Performance tuning, Microsoft SQL Server, Databases, AWS, Analysis skills",2.8,Data Base Administrator
+"Arrow Electronics, Inc.",Database Administrator I,Pune,4.55,"Oracle, Load balancing",3.8,Data Base Administrator
+Roadmap IT Solutions,Database Administrator - ERP Software,Pondicherry,8.925666666666666,"Oracle, Java, SQL, PL/SQL",3.5,Data Base Administrator
+CEREBULB,Database Administrator,Ahmedabad,6.4,"XML, .NET, SQL, Math, Database management",4.3,Data Base Administrator
+Thermo Fisher Scientific,Database Administrator II,Bengaluru,7.9675,"Azure, Microsoft SQL Server, Windows, AWS, Analysis skills",3.6,Data Base Administrator
+INTEL,HANA Database Administrator,Bengaluru,9.5,"Performance tuning, SAP HANA, SAP, LAN, Encryption",3.9,Data Base Administrator
+Accusol Technologies,Database / Software Support Administrator,Ahmedabad,4.176428571428572,"Microsoft SQL Server, Databases, SQL, Database design, Communication skills",2.7,Data Base Administrator
+Insigno Quipment Technologies,Database Administrator (DBA),Ahmedabad,4.95,"Jira, Performance tuning, Power BI, Microsoft SQL Server, NoSQL",2.6,Data Base Administrator
+Softcarve,Database Administrator,Bhopal,5.8,"Microsoft Windows Server, Performance tuning, Oracle, Disaster recovery, Microsoft SQL Server",0.0,Data Base Administrator
+We Excel Software Pvt. Ltd.,Sr. Database Administrator,Chandigarh,15.0,"Performance tuning, Disaster recovery, SQL, Database administration, Scripting",4.4,Data Base Administrator
+Al Adrak Trading & Contracting,Oracle Database Administrator,Thiruvananthapuram,5.8,"Performance tuning, Oracle, SQL",3.7,Data Base Administrator
+Vodafone,Deputy Manager_Assistant Manager_MS SQL Database Administrator_Pune,Pune,5.055,"Performance tuning, Azure, Business intelligence, Disaster recovery, Microsoft SQL Server",3.9,Data Base Administrator
+Magnit,Sr PostgreSQL Database Administrator,Bengaluru,4.435,"Encryption, SQL, PostgreSQL, Perl, Python",3.4,Data Base Administrator
+MediaTechTemple,Database Administrator,Bharatpur,1.98,"Oracle, Microsoft SQL Server, Database management, PostgreSQL, MySQL",0.0,Data Base Administrator
+Kyndryl,SQL- Database Administrator,Mumbai,5.4,"Oracle, Microsoft SQL Server, SQL, Database administration, PostgreSQL",3.9,Data Base Administrator
+Infocepts,Database Admin- Postgres (#39538),India,5.298846153846155,"Encryption, Disaster recovery, PostgreSQL, Clustering",3.4,Data Base Administrator
+Invokhr,Database administrator,Delhi,4.465,"Performance tuning, Business intelligence, Encryption, Microsoft SQL Server, MongoDB",3.0,Data Base Administrator
+Valor PayTech,Database Administrator,Chennai,4.82,"Oracle, Cassandra, Relational databases, Encryption, Microsoft SQL Server",4.3,Data Base Administrator
+Kyndryl,Database Administrator - MS SQL,Greater Noida,5.495,"Microsoft SQL Server, SQL, Database administration",3.9,Data Base Administrator
+BlackLine,Senior Database Administrator,Bengaluru,6.7,"Performance tuning, Azure, Microsoft SQL Server, NoSQL, AWS",3.2,Data Base Administrator
+Parexel,"Principal Database Administrator, IT Enterprise",Hyderābād,7.925,"Performance tuning, System administration, Oracle, IT management, XML",4.0,Data Base Administrator
+Litera,Senior Database Administrator (PostgreSQL),India,6.338571428571428,"Data modeling, PCI, Encryption, SOX, Databases",3.3,Data Base Administrator
+Zensar Technologies,"Microsoft SQL Database Administrator_ India-Pune_ 5+ Yrs., _ 1 Position",India,9.830595238095238,"Azure, Microsoft SQL Server, SSRS, SQL, Scripting",3.9,Data Base Administrator
+Datametrics Software Systems,SR. DATABASE ADMINISTRATOR,Hyderābād,5.65,"XML, Encryption, Microsoft SQL Server, SSRS, SQL",4.1,Data Base Administrator
+Crypto Mize,Database Administrator,Delhi,5.5,"Information security, SQL, Database design, Database administration, APIs",4.8,Data Base Administrator
+XMEDIA SOLUTIONS,Oracle Database Administrator,India,2.1,"Oracle, Microsoft SQL Server, SQL, Database administration, Angular",3.1,Data Base Administrator
+Oswal Computers & Consultants,Database Administrator,Jaipur,5.46,,3.7,Data Base Administrator
+Consilium Software,Database Developer,Delhi,4.890625,"Relational databases, Microsoft SQL Server, SSRS, Information security, SQL",4.5,Data Base Administrator
+Jade Global,Database Administrator - Apps,Pune,5.11,"Oracle, XML, Oracle EBS, SOX, Databases",3.7,Data Base Administrator
+Ascentx Software Development Services,Database Administrator,Chandigarh,6.338571428571428,"Operating systems, Oracle, Load balancing, English, Windows",3.3,Data Base Administrator
+HealthEdge,Database Admin,Pune,8.185,"Oracle, Microsoft SQL Server, Build automation, Information security, Databases",3.5,Data Base Administrator
+Venator,MySQL DBA,Gurgaon,15.0,"Performance tuning, System administration, Data mining, Software troubleshooting, AWS",3.4,Data Base Administrator
+Vidushi Infotech,Oracle Database Admin,India,3.9225,"Oracle, Administrative experience, Database administration, Machine learning, Data science",3.1,Data Base Administrator
+Navayuga Infotech,Oracle Database Administrator,Hyderābād,4.5,"Performance tuning, Oracle, Microsoft SQL Server, SQL, Database administration",3.9,Data Base Administrator
+credmantra pvt. ltd,Database Administrator,Mohali,2.34,"Oracle, Software troubleshooting, Encryption, Microsoft SQL Server, SQL",0.0,Data Base Administrator
+IDBI Intech,Database Administrator MySQL,Delhi,5.298846153846155,"Relational databases, Databases, Database management, Data management, MySQL",3.4,Data Base Administrator
+EVC Ventures,Oracle Database Administrator,Gurgaon,5.875,"Performance tuning, Oracle, Software troubleshooting, Enterprise Software, Tomcat",3.0,Data Base Administrator
+Dygitech,Database Administrator,Delhi,8.709107142857142,"Jira, Oracle, SAP, Selenium, Oracle EBS",4.0,Data Base Administrator
+Rezo.ai.,Database Administrator,Noida,6.605,"Performance tuning, Software troubleshooting, NoSQL, Redis, MySQL",3.8,Data Base Administrator
+Zoof Software Solutions,Sr. Database Developer,Remote,12.429545454545455,"Performance tuning, SQL, JSON, Communication skills, MySQL",4.6,Data Base Administrator
+Indus Net Technologies,Database Administrator,Calcutta,9.73,"Authentication, Node.js, React, DevOps, Encryption",4.2,Data Base Administrator
+CodeClouds,Database Administrator (SQL & NoSQL),Calcutta,41.88,"Performance tuning, Azure, Disaster recovery, NoSQL, MongoDB",4.4,Data Base Administrator
+Innovative Tech Hub,MongoDB Database Administrator,Navi Mumbai,5.125,"Node.js, MongoDB, Database administration",3.7,Data Base Administrator
+MNJ Software,MongoDB Database Administrator,Remote,7.9675,"Big data, NoSQL, English, MongoDB, Java",3.6,Data Base Administrator
+S&P Global,Lead Database Administrator,Hyderābād,7.575,"Performance tuning, Oracle, Databases, SQL, Database administration",4.1,Data Base Administrator
+Consilio LLC,Senior Database Administrator,Bengaluru,6.505,"Performance tuning, Software deployment, Microsoft SQL Server, Git, SQL",3.2,Data Base Administrator
+BizAnalytix Technologies,Postgres Database Administrator,Pune,5.5,"Operating systems, Kubernetes, Load balancing, Databases, SQL",4.8,Data Base Administrator
+Kyndryl,Redis Lead Database Administrator,Mumbai,5.4,"Microsoft Windows Server, Cloud infrastructure, Azure, Windows, SQL",3.9,Data Base Administrator
+PARASCADD,Sr Database Administrator,Mumbai,1.575,"Performance tuning, Azure, Microsoft SQL Server, Databases, SQL",2.7,Data Base Administrator
+Talentroof Infotech Private Limited,MySQL DBA,India,6.0,"Scripting, Linux, Shell Scripting, MySQL",0.0,Data Base Administrator
+MillerKnoll,Database Administrator,Bengaluru,4.49,"Microsoft Windows Server, Oracle, ERP systems, Microsoft SQL Server, SSRS",3.3,Data Base Administrator
+Bosch Group,"Database SME (MSSQL, Oracle & Mongo)",Bengaluru,9.206666666666667,"Performance tuning, Azure, Oracle, Cassandra, Encryption",4.1,Data Base Administrator
+MBI Digital,Oracle Database Administrator with MongoDB,India,4.465,"Oracle, MongoDB, SQL, Database design, IT support",2.9,Data Base Administrator
+Sanmina Corporation,SQL Database Administrator,Chennai,4.05,"CI/CD, Ansible, Software deployment, Load balancing, Microsoft SQL Server",3.4,Data Base Administrator
+Infinite Computer Solutions Ltd.,Senior Lead Database Administrator,Bengaluru,4.425,SQL,3.3,Data Base Administrator
+The Scalers,Senior Database Administrator,Bengaluru,5.2,"Microsoft SQL Server, English, AWS, Analysis skills, Data management",3.8,Data Base Administrator
+NTT DATA,Senior Associate Database Administrator,Mumbai,4.815,"Performance tuning, Azure, Oracle, Software troubleshooting, Encryption",3.8,Data Base Administrator
+Ankercloud Technologies Pvt Ltd,Sr Database Administrator,Bengaluru,4.890625,"Authentication, Relational databases, Encryption, MongoDB, SQL",4.5,Data Base Administrator
+IIW Hosting,Database Administrator,Bengaluru,6.0,"Statistics, System administration, Disaster recovery, Solaris, Database administration",5.0,Data Base Administrator
+Endpoint Clinical,Principal Database Administrator,Hyderābād,7.115,"Azure, Encryption, Microsoft SQL Server, Databases, SQL",3.3,Data Base Administrator
+Resolink Technologies Private Limited,Database Administrator (DBA),Gurgaon,8.406841132075472,"Performance tuning, Azure, Big data, Spark, NoSQL",0.0,Data Base Administrator
+Medicosa,DBA (Data Base Administrator),Noida,5.065,SQL,0.0,Data Base Administrator
+Effervo Technologies,"Database Administrator, Senior. Database Administrator (Oracle, DB2, Sybase, SQLserver, MYSQL)",India,8.406841132075472,"Performance tuning, Oracle, DB2, SAP, Sybase",0.0,Data Base Administrator
+s&S services,MySQL DBA,Hyderābād,6.9,"Database administration, Linux, Shell Scripting, MySQL",3.3,Data Base Administrator
+IIW Hosting,Database Administrator III (MySQL),Bengaluru,6.0,"English, Windows, Firewall, Virtualization, Scripting",5.0,Data Base Administrator
+PradeepIT Consulting Services,Senior MSSQL Database Administrator | 6+ Years | Remote,Bengaluru,5.285,"Microsoft SQL Server, Information security, Database administration, AWS, Database management",4.5,Data Base Administrator
+Kyndryl,MS-SQL Administrator,Bengaluru,9.45,"Azure, Operating systems, Microsoft SQL Server, SQL, Database administration",3.9,Data Base Administrator
+Protera,Oracle Database Administrator,Mumbai,9.7,"Oracle, DB2, SAP, Microsoft SQL Server, NoSQL",4.2,Data Base Administrator
+Merative,Senior Database Administrator,Hyderābād,3.9225,"Performance tuning, Azure, Oracle, DB2, Git",3.1,Data Base Administrator
+"Stefanini, Inc",Oracle DBA,Pune,7.465,"Performance tuning, Azure, Oracle, SQL, PostgreSQL",3.8,Data Base Administrator
+Jarus Technologies,Database Administrator,India,8.709107142857142,"Power BI, Data mining, Disaster recovery, Microsoft SQL Server, SQL",4.0,Data Base Administrator
+Infosys,Postgres Database Admin,Bengaluru,4.135,"DB2, Database administration, Analysis skills, PostgreSQL, Scripting",3.6,Data Base Administrator
+Resulticks,Database administrator,Chennai,5.5,"Performance tuning, .NET, Information security, Databases, Database administration",4.2,Data Base Administrator
+Landis+Gyr,"Technical Expert, Database Administrator(PostgreSQL)",Noida,9.908513513513514,"Performance tuning, Azure, Oracle, Ansible, Load balancing",3.7,Data Base Administrator
+Infosys,Mongo Database Admin,Bengaluru,4.135,"DB2, Database administration, Analysis skills, Scripting, Linux",3.6,Data Base Administrator
+Poppulo,Senior Database Administrator,Bengaluru,5.75,"Azure, Cassandra, DevOps, Encryption, Microsoft SQL Server",3.5,Data Base Administrator
+Partners Group,Snowflake Database Administrator (DBA),Mumbai,5.515,"CI/CD, Performance tuning, Quality management, SQL, Database administration",3.5,Data Base Administrator
+Blackstraw,Database Administrator,Chennai,6.015,"Image processing, Azure, R, NoSQL, Java",4.0,Data Base Administrator
+NTT DATA,Database administrator - Oracle-1,Chennai,4.975,"Performance tuning, Azure, Oracle, Encryption, Microsoft SQL Server",3.8,Data Base Administrator
+AppGallop Private Limited,MySQL DBA,Jaipur,4.5,"Performance tuning, Disaster recovery, SQL, Database design, Database administration",0.0,Data Base Administrator
+Moonpreneur,Database Administrator,Gurgaon,5.065,"Performance tuning, Microsoft Excel, Azure, Visual Basic, DevOps",3.8,Data Base Administrator
+Capgemini,0ATEIV - Telefonica - Junior Middleware / Database,Mumbai,5.315,"JBoss, Oracle, IIS, WebSphere, Weblogic",3.8,Data Base Administrator
+Sciens Technologies,Database Optimization Expert,Bengaluru,1.655,"Performance tuning, Data modeling, Microsoft SQL Server, Databases, SQL",0.0,Data Base Administrator
+Acute Informatics Pvt. Ltd,Oracle DBA,Mumbai,25.0,"Oracle, Encryption",3.3,Data Base Administrator
+Avadhesh India Adivsory Services LLP,DBA Adminstrator,Noida,6.595,"Oracle, SQL, Database design, Database administration, APIs",0.0,Data Base Administrator
+Infor,"Database Administrator, Senior",Hyderābād,8.28,"Jira, DevOps, System design, Microsoft SQL Server, NoSQL",4.0,Data Base Administrator
+Elfonze Technologies,Oracle DBA - Database Administrator,Hyderābād,6.15,"Performance tuning, Azure, Oracle, Enterprise Software, Configuration management",4.9,Data Base Administrator
+"Stonewain Systems, an EquiLend Company",Senior PostgreSQL Database Administrator (DBA),Chandigarh,8.406841132075472,"Data modeling, Databases, Database administration, AWS, Database management",0.0,Data Base Administrator
+HSK IT Solutions,Database Administartor,Hyderābād,9.908513513513514,,3.7,Data Base Administrator
+AppSierra Solutions Private Limited,SQL Server DBA,Bengaluru,9.0,"Crystal Reports, Operating systems, Microsoft SQL Server, Windows, SQL",0.0,Data Base Administrator
+Zensar Technologies,MS SQL Server DBA,India,9.830595238095238,"Microsoft Windows Server, Disaster recovery, Microsoft SQL Server, SSRS, Windows",3.9,Data Base Administrator
+StayinFront India Pvt Ltd,SQL DBA,Gāndhīnagar,4.5,"Database development, Microsoft SQL Server, SQL, Database administration, Clustering",3.3,Data Base Administrator
+Worldpay,Database Developer(7+ years of experiencein PL/SQL) Pune,Pune,7.7,"Performance tuning, Oracle, SQL, Agile, PL/SQL",3.9,Data Base Administrator
+MBI Digital,Hadoop Database Administrator (Support role),India,4.465,"Performance tuning, Oracle, Big data, Disaster recovery, Microsoft SQL Server",2.9,Data Base Administrator
+Planck Epoch Institute of Professional Studies,Database Administration Trainee,Calicut,0.9,"Databases, SQL, Database administration, Analysis skills, Database management",0.0,Data Base Administrator
+Deyo Infotech,MySQL DBA,Ālangulam,2.16,"Communication skills, MySQL",0.0,Data Base Administrator
+JLL,Senior Database Administrator,Aurangābād,7.2,"Performance tuning, Azure, Oracle, Maximo, DB2",3.8,Data Base Administrator
+Soul of Pluto Tech,Database Admin,Hyderābād,6.15,MySQL,3.6,Data Base Administrator
+LanceTech Solutions Pvt Ltd,Senior DBA,Delhi,15.0,"Performance tuning, Azure, Software troubleshooting, MongoDB, Microservices",4.6,Data Base Administrator
+Rite Software Solutions & Services (IN),MS SQL DBA,Bengaluru,6.5,"Cloud infrastructure, Microsoft SQL Server, SQL",4.1,Data Base Administrator
+Bosch Group,Database Consultant,Bengaluru,8.125,"Power BI, Azure, Oracle, Pentaho, DevOps",4.1,Data Base Administrator
+Rite Software Solutions & Services (IN),MS SQL DBA Consultant,Hyderābād,4.315,"Cloud infrastructure, Microsoft SQL Server, SQL, Unit testing, PL/SQL",4.1,Data Base Administrator
+Arya Omnitalk,PostgreSql Administrator,Pune,4.5,"SQL, PostgreSQL, Linux, PL/SQL, High availability",3.7,Data Base Administrator
+Infosys,DB2 Database Admin,Bengaluru,4.135,"Oracle, DB2, Database administration, Analysis skills, Scripting",3.6,Data Base Administrator
+Terralogic Vietnam,Database Activity Monitoring (DAM),Mumbai,5.298846153846155,,3.4,Data Base Administrator
+Mafiree,MySQL DBA,Bengaluru,9.6,"Performance tuning, Data mining, PHP, Perl, Scripting",0.0,Data Base Administrator
+Cognizant,Core Database Administrator,Calcutta,9.908513513513514,"Ansible, Weblogic, ITIL, Scrum, Agile",3.7,Data Base Administrator
+Anblicks,SQL Server DBA,Hyderābād,6.41,"DevOps, Encryption, Microsoft SQL Server, Git, Relationship management",4.4,Data Base Administrator
+SFJ Business solutions,DBA,Mumbai,6.0,"Node.js, SQL, Database administration, Redis, Linux",4.5,Data Base Administrator
+Vitech,Postgres Database Developer,Hyderābād,5.25,"System administration, Databases, SQL, Analysis skills, PostgreSQL",4.9,Data Base Administrator
+Kuber and Company,Sr. SQL DBA,Remote,8.406841132075472,"Performance tuning, Azure, Oracle, SAP HANA, DB2",0.0,Data Base Administrator
+Oracle,TAM - Oracle DBA,Navi Mumbai,5.89,"Oracle, PaaS, IaaS",3.8,Data Base Administrator
+DEME,Data Base Administrator,India,12.554,"Performance tuning, DevOps, Encryption, Disaster recovery, Microsoft SQL Server",4.3,Data Base Administrator
+Paymentology,PostgreSQL Database Administrator,Haryana,12.429545454545455,"Azure, Ansible, Encryption, Microsoft SQL Server, Git",4.6,Data Base Administrator
+Barclays,Database Engineer,Pune,5.795,"Jira, CI/CD, Performance tuning, Azure, Kubernetes",3.9,Data Base Administrator
+Saks,"Assistant Manager, Database Administration",Bengaluru,5.015,"Data center experience, Azure, Oracle, DB2, Microsoft SQL Server",3.8,Data Base Administrator
+Contentstack,Senior Database Administrator II,Bengaluru,5.18,"Performance tuning, Elasticsearch, Data modeling, Azure, NoSQL",4.2,Data Base Administrator
+Infotel UK,Adabas Database,Chennai,8.925666666666666,"Performance tuning, Database administration, Analysis skills",3.5,Data Base Administrator
+Jade Global,Junior Oracle DBA,Pune,5.11,"Oracle, SQL, Database design, Database management",3.7,Data Base Administrator
+Appsierra,SQL Server DBA Support,Hyderābād,21.18,"Crystal Reports, Operating systems, Microsoft SQL Server, Windows, SQL",3.9,Data Base Administrator
+InSphere Solutions,Senior Database Administrator,Delhi,12.429545454545455,"Management, Git, SVN, PostgreSQL, Organizational skills",4.6,Data Base Administrator
+Datavail,Senior Associate Database Administrator,Bengaluru,6.175,"DB2, Database administration, COBOL",3.7,Data Base Administrator
+Noduco,Sr. Database Administrator,Noida,6.605,"Performance tuning, Data modeling, Oracle, Database development, Data analysis skills",4.6,Data Base Administrator
+HIRD Services Pvt ltd,Oracle DBA-Exadata / Mumbai,Mumbai,25.0,"Oracle, Microsoft SQL Server, SQL",0.0,Data Base Administrator
+Landis+Gyr,Technical lead - Database Administrator (Postgres SQL),Noida,5.165,"Performance tuning, Azure, Oracle, Incident management, Ansible",3.7,Data Base Administrator
+"ABC Financial Services, Inc.",Lead Oracle Database Administrator,Hyderābād,5.88,"Knowledge management, TCP, Azure, Oracle, NFS",4.0,Data Base Administrator
+Crayontek,SQL Server DBA,Bengaluru,8.406841132075472,"Performance tuning, Data modeling, Microsoft SQL Server, Databases, SQL",0.0,Data Base Administrator
+Nuware Systems,MS SQL DBA,Bengaluru,5.515,"Microsoft SQL Server, Windows, SQL",4.2,Data Base Administrator
+Accenture,Microsoft SQL Server Database Administration-Software Development Engineer,Hyderābād,8.251938775510204,"Microsoft SQL Server, Database administration, PostgreSQL",3.8,Data Base Administrator
+Phygital Insights,Database Admin,Mumbai,5.6125,"Encryption, Database administration, PostgreSQL",4.9,Data Base Administrator
+ION,Senior Database Administrator,Noida,3.825,"Performance tuning, Azure, Oracle, Ansible, DB2",3.3,Data Base Administrator
+Ekvayu Tech Pvt Ltd,DBA,India,5.0,"CI/CD, Encryption, MongoDB, Analysis skills, Database management",0.0,Data Base Administrator
+Ikrux,No SQL DataBase Admin,Bengaluru,5.285,"Elasticsearch, Encryption, NoSQL, MongoDB, Analysis skills",4.5,Data Base Administrator
+Nexus pro services,Technical- DBA- MYSQL,Delhi,4.25,"SQL, Database administration, Analysis skills, Communication skills, MySQL",0.0,Data Base Administrator
+Lucini&Lucini Communications,MySQL Data Base Administrator,Bengaluru,5.42,"English, Databases, SQL, PHP, Scripting",3.7,Data Base Administrator
+EVERSANA,Sr Database Administrator,Pune,6.415,"Microsoft Windows Server, Power BI, Software troubleshooting, Customer service, DevOps",3.5,Data Base Administrator
+Onevega system India Pvt Ltd,Sr. SQL DBA,Bengaluru,15.0,"Oracle, Microsoft SQL Server, Databases, SQL, Database administration",0.0,Data Base Administrator
+Virtusa,Postgres DBA,Bengaluru,8.96,"SQL, PostgreSQL",3.7,Data Base Administrator
+Mex Exhibitions,Manager-Database,Delhi,8.709107142857142,"Microsoft Excel, Process improvement, Communication skills",4.0,Data Base Administrator
+Oracle,Senior Consultant - Oracle Database Administrator,Bengaluru,6.275,"Operating systems, Oracle, OS Kernels, Mentoring, Customer support",3.8,Data Base Administrator
+Corsearch,Senior Database Administrator,Mumbai,4.815,"CI/CD, Performance tuning, Azure, Oracle, Cassandra",4.1,Data Base Administrator
+Photon,"Senior DBA- Lead Database Administrator- Chennai, TN",Chennai,5.425,"Database administration, PostgreSQL",4.0,Data Base Administrator
+NTT DATA,Technical Specialist Database administrator- Oracle,Chennai,4.915,"Oracle, Relational databases, Encryption, Microsoft SQL Server, Application development",3.8,Data Base Administrator
+Parahit Technologies,MySQL DBA,Delhi,9.908513513513514,MySQL,3.7,Data Base Administrator
+Ace Software,Sr. Oracle Database Administrator,Mumbai,4.98,"Performance tuning, Operating systems, Oracle, Database development, Windows",0.0,Data Base Administrator
+Triumph Ladders Pvt. Ltd.,MySQL DBA,Bengaluru,6.0,"Performance tuning, MongoDB, SQL, Database design, Database administration",5.0,Data Base Administrator
+Vigilant Technologies,SQL DBA,Hyderābād,5.12,"Performance tuning, Cloud infrastructure, Azure, Software troubleshooting, Encryption",4.0,Data Base Administrator
+Refulgence,"Server Administrator (MCSE, RHCE, DBA)",Chennai,5.05,"Windows, Linux",3.7,Data Base Administrator
+Medicodio,Database Admin,Bengaluru,6.0,"Authentication, Performance tuning, Encryption, Disaster recovery, SQL",0.0,Data Base Administrator
+Luxoft,MYSQL DBA,India,9.908513513513514,"Performance tuning, IT service management, English, Databases, Database administration",3.7,Data Base Administrator
+Purple Drive Technologies,Sybase DBA,Bengaluru,11.95,"Disaster recovery, SQL, Scripting, Sybase, High availability",3.6,Data Base Administrator
+Hashone Careers,PostgreSQL DBA,Hyderābād,10.0,"Data modeling, SQL, Database administration, AWS, PostgreSQL",0.0,Data Base Administrator
+Velocida private limited,Senior Oracle DBA,Hyderābād,13.495,"Cloud infrastructure, Oracle, Databases, Scripting, Software development",5.0,Data Base Administrator
+iSOCRATES,Senior Database Administrator,India,6.338571428571428,"Jira, Cloud infrastructure, Azure, Business intelligence, DevOps",3.3,Data Base Administrator
+Iksha Labs,PostgreSQL DBA,Gurgaon,10.0,"Performance tuning, Load balancing, Disaster recovery, Databases, Database administration",0.0,Data Base Administrator
+Cloud Kinetics,Database Admin,Chennai,4.3,"Data modeling, Software troubleshooting, Database design, Database administration, Database management",3.8,Data Base Administrator
+Datamini Technologies,Database Developer & Admin,India,8.709107142857142,"Oracle, NoSQL, Databases, SQL, Database design",4.0,Data Base Administrator
+NTT DATA,Database Administrator - MSSQL DBA - L2,Mumbai,4.815,"Performance tuning, Azure, Oracle, Software troubleshooting, Encryption",3.8,Data Base Administrator
+CDM Smith,Senior Database Administrator,Chennai,4.975,"Oracle, Visual Basic, Microsoft SQL Server, Oracle EBS, SSRS",4.1,Data Base Administrator
+NCR Atleos,Database Engineer III,Gurgaon,6.7,"Performance tuning, Cloud infrastructure, Azure, Oracle, Software troubleshooting",3.4,Data Base Administrator
+WTW,DBA,Bengaluru,6.575,"Microsoft Windows Server, Oracle, Microsoft SQL Server, Windows, SQL",3.9,Data Base Administrator
+Excelencia Itech Consulting Pvt Ltd,Senior Application Database Administrator,Chennai,4.4,"Performance tuning, Azure, Database development, Project planning, Enterprise Software",4.5,Data Base Administrator
+CGI,Postgres DBA,Bengaluru,5.57,"Oracle, PostgreSQL, MySQL",3.8,Data Base Administrator
+Purple Drive Technologies,Oracle DBA,India,5.52,"Performance tuning, Oracle, Disaster recovery, SQL, Database administration",0.0,Data Base Administrator
+Ritchoiz,MySQL DBA,Cochin,3.18,MySQL,0.0,Data Base Administrator
+Vidushi Infotech,Oracle DBA,India,3.9225,"Performance tuning, Cloud infrastructure, Oracle, Databases, SQL",3.1,Data Base Administrator
+MNJ Software,Senior MongoDB Database Administrator,Remote,7.9675,"Big data, NoSQL, English, MongoDB, Java",3.6,Data Base Administrator
+Kyndryl,Oracle Database Administration (Golden Gate),Greater Noida,5.495,"Performance tuning, Oracle, Database administration, Communication skills",3.9,Data Base Administrator
+Right Infotech Solutions,Senior MySQL Database Administrator,Delhi,4.176428571428572,"JBoss, Cloud infrastructure, English, Java, AWS",2.7,Data Base Administrator
+Infosys,Peoplesoft DBA,Bengaluru,4.135,"SSO, Oracle, Windows, Database administration, Analysis skills",3.6,Data Base Administrator
+walnut softech private limited,Oracle DBA,India,11.4,"Oracle, Go, Writing skills, Java, SQL",0.0,Data Base Administrator
+Photon,Oracle DBA,Bengaluru,5.825,"Performance tuning, Oracle, Software troubleshooting",4.0,Data Base Administrator
+Radiss Tech Services,MySQL DBA,Andhra Pradesh,8.925666666666666,"openSUSE, Scripting, Linux, LAMP stack, MySQL",3.5,Data Base Administrator
+WOWinfotech,SQL Developer 1+ years,Nashik,44.4,"Performance tuning, Microsoft SQL Server, SSRS, SQL, Database design",3.8,Data Base Administrator
+Speridian,MS SQL DBA,Bengaluru,9.465,"Performance tuning, Disaster recovery, Microsoft SQL Server, SQL, Database design",4.0,Data Base Administrator
+Sakshi Infotech Solution,Database Engineer,Mumbai,15.0,"Performance tuning, Azure, Cassandra, Software troubleshooting, Kubernetes",3.7,Data Base Administrator
+Landis+Gyr,Technical lead - Database Administrator (PostgreSQL),Noida,5.165,"Performance tuning, Azure, Oracle, Incident management, Ansible",3.7,Data Base Administrator
+MNJ Software,Team Member (SQL DBA),Remote,7.9675,"Oracle, Data structures, Microsoft SQL Server, English, .NET",3.6,Data Base Administrator
+Renovision Automation Services Pvt. Ltd,MySQL DBA,Mumbai,48.0,"Azure, Microsoft SQL Server, MongoDB, SQL, Database administration",3.7,Data Base Administrator
+HSBC,Database admin/Consultant Specialist,Hyderābād,4.905,"Jira, Performance tuning, Oracle, SQL, Confluence",3.9,Data Base Administrator
+Jash Job Service,PL/SQL Developer,India,4.0,"Git, SQL, Database administration, PostgreSQL, PL/SQL",0.0,Data Base Administrator
+JRK Infotech,Oracle DBA L2,Navi Mumbai,5.8,Oracle,3.9,Data Base Administrator
+Cambridge Technology Enterprises (CTE),Oracle DBA,Bengaluru,5.2,"Performance tuning, Oracle, Solaris, Windows, SQL",4.0,Data Base Administrator
+Shree Group,"SQL, PL/SQL Developer",India,6.0,"Software deployment, Git, SQL, Database administration, AWS",0.0,Data Base Administrator
+Savantys Solutions,SQL DBA,Bengaluru,6.295,"Jira, CI/CD, Performance tuning, Azure, Load balancing",5.0,Data Base Administrator
+PTS Consulting Services,Database Developer,Calcutta,33.12,"Performance tuning, Azure, Oracle, Cassandra, Encryption",4.0,Data Base Administrator
+NTT DATA,Database Admin Advisor,Noida,4.915,"Performance tuning, Oracle, Disaster recovery, Quality management, Windows",3.8,Data Base Administrator
+AAS Technosoft,DBA,Delhi,8.406841132075472,,0.0,Data Base Administrator
+Kyndryl,Mongo Lead Database Administrator,Mumbai,5.4,"Microsoft Windows Server, Cloud infrastructure, Azure, MongoDB, Windows",3.9,Data Base Administrator
+Salus Technologies,Sr. Database Developer SQL/mySQL/mariaDB,Pune,4.53,"Microsoft Windows Server, Database development, Microsoft SQL Server, Databases, SQL",2.6,Data Base Administrator
+SK International,Oracle DBA,Mumbai,7.52,"Oracle, Microsoft SQL Server, Database administration, MySQL",3.2,Data Base Administrator
+Athena Global Technologies,MSSQL Server DBA,Hyderābād,5.65,"Microsoft Windows Server, Azure, Operating systems, Microsoft SQL Server, Windows",3.9,Data Base Administrator
+"Kochasoft, Inc","Oracle DBA (Chennai, Pune)",India,15.0,"Microsoft Windows Server, Performance tuning, Azure, Oracle, Disaster recovery",0.0,Data Base Administrator
+OCULUSIT,SQL DBA Engineer,Gurgaon,4.5,"JBoss, Power BI, Azure, Microsoft SQL Server, SQL",3.9,Data Base Administrator
+TechMojo Solutions,MYSQL DBA (Work from Office),Hyderābād,38.16,"Cassandra, NoSQL, MongoDB, Databases, SQL",4.1,Data Base Administrator
+Antrorse,DATABASE ADMIN,Bengaluru,5.585,"iOS development, iOS, Java, OOP, Analysis skills",4.5,Data Base Administrator
+Figment Global Solutions,Database Developer (ORACLE DBA),Nāgpur,6.0,"Microsoft Windows Server, Oracle, Windows, SQL, Quality assurance",2.2,Data Base Administrator
+Pi Techniques,Database Admin - 4 to 6 Years Experience,Mumbai,3.215,"Microsoft Windows Server, Performance tuning, Disaster recovery, Microsoft SQL Server, Windows",3.1,Data Base Administrator
+Kyndryl,Sybase SQL,Bengaluru,9.45,"Incident management, Lean, SQL, Analysis skills, Project management",3.9,Data Base Administrator
+3Di Systems,PLSQL / PostgreSQL Developer,Navi Mumbai,4.53,"SQL, PostgreSQL, PL/SQL",4.0,Data Base Administrator
+Accelya,Specialist Database Administration - PostgreSQL,Mumbai,28.2,"Cassandra, Salt, Ansible, MongoDB, Database administration",3.7,Data Base Administrator
+Sanmina Corporation,Senior Oracle Database Administrator,Chennai,4.05,"Oracle, Database administration",3.4,Data Base Administrator
+"Qualifacts Systems, Inc.",Staff Database Admin,Vadodara,5.625,"Performance tuning, Encryption, Microsoft SQL Server, SSRS, SQL",3.6,Data Base Administrator
+Pyramid Global Technologies,Database Admin/Build Eng,Mohali,12.061153846153847,"Microsoft Windows Server, Operating systems, Oracle, Microsoft SQL Server, Solaris",5.0,Data Base Administrator
+Ingrain Systems Inc.,Infrastructure DBA MongoDB,Hyderābād,4.5,"Software troubleshooting, DevOps, MongoDB, Databases, Database administration",4.6,Data Base Administrator
+Luxsh solution pvt ltd,Sr Oracle DBA,Vadodara,8.22,"Oracle, Relational databases, Windows, SQL, Scripting",0.0,Data Base Administrator
+SymphonyAI,Oracle DBA,Bengaluru,15.0,"Performance tuning, Cloud infrastructure, Azure, Oracle, Node.js",3.5,Data Base Administrator
+"TWO95 International, Inc",Oracle EBS DBA(database),India,4.890625,"Authentication, Oracle, Relational databases, Oracle EBS, Weblogic",4.5,Data Base Administrator
+Simple Logic IT,Oracle DBA,Mumbai,12.35975,"Performance tuning, Oracle, Analysis skills, High availability",4.2,Data Base Administrator
+"Stefanini, Inc",IMS DBA,Pune,7.465,"Database administration, CICS, Analysis skills, AI",3.8,Data Base Administrator
+M Tech Soft,Microsoft SQL DBA,Gurgaon,40.32,"Azure, Node.js, Disaster recovery, Microsoft SQL Server, SQL",3.9,Data Base Administrator
+Simple Logic IT,PostgreSQL DBA,India,12.35975,"Azure, Oracle, SQL, AWS, PostgreSQL",4.2,Data Base Administrator
+Rohin Infotech Pvt Ltd.,PostgreSQL DBA,Delhi,4.2,"Performance tuning, Azure, Oracle, Encryption, Disaster recovery",0.0,Data Base Administrator
+Squid Technologies,MS SQL Server DBA,India,4.465,"Microsoft Windows Server, Statistics, Performance tuning, Disaster recovery, Microsoft SQL Server",3.0,Data Base Administrator
+Infosys,Oracle Apps and Core DBA,Bengaluru,4.135,"Oracle, Node.js, Disaster recovery, Oracle EBS, Weblogic",3.6,Data Base Administrator
+Hewlett Packard Enterprise,MSSQL Server DBA,Bengaluru,7.555,"Performance tuning, Azure, Data analysis skills, Disaster recovery, Microsoft SQL Server",4.2,Data Base Administrator
+Tekion,Database Engineer I,Bengaluru,5.298846153846155,"CI/CD, Azure, NoSQL, Git, MongoDB",3.4,Data Base Administrator
+Data Ingenious Global,Database Server/ System Administrator (Oracle Certified),Jaipur,2.12,Oracle,3.2,Data Base Administrator
+Qualitest,OCI Analyst/Developer - Database,Bengaluru,2.255,"Performance tuning, Cloud infrastructure, Azure, Oracle, Ansible",3.4,Data Base Administrator
+Barclays,Senior Database Engineer,Pune,5.795,"Jira, CI/CD, Performance tuning, Azure, Kubernetes",3.9,Data Base Administrator
+Radcom,DBA Support,Delhi,9.830595238095238,"TCP, Oracle, Big data, English, SQL",3.9,Data Base Administrator
+Sapiens,Associate Consultant - DBA,Bengaluru,8.28,"Azure, Encryption, Disaster recovery, PaaS, SQL",3.6,Data Base Administrator
+Hotel Simsan,Oracle DBA,Chennai,6.565,"Telugu, Oracle, Multilingual, Tamil, Database management",0.0,Data Base Administrator
+LSEG (London Stock Exchange Group),Database & DevOps Engineer,Bengaluru,7.63,"Data modeling, Cloud infrastructure, System administration, Ansible, Relational databases",3.8,Data Base Administrator
+PradeepIT Consulting Services,DBA (MS SQL server),Bengaluru,4.245,"Azure, Microsoft SQL Server",4.5,Data Base Administrator
+Algosec,"DBA, India",Delhi,12.554,"Software troubleshooting, Disaster recovery, English, Java, Databases",4.3,Data Base Administrator
+DXC Technology,Senior SQL Server DBA,Bengaluru,5.54,"Encryption, Microsoft SQL Server, Databases, SQL, PowerShell",3.5,Data Base Administrator
+Oracle,Sr Oracle Apps DBA,Bengaluru,6.275,"Cloud infrastructure, Oracle, English, SQL, PL/SQL",3.8,Data Base Administrator
+Logicsoft International,PostgreSQL DBA,Delhi,6.338571428571428,"SQL, Database administration, PostgreSQL",3.3,Data Base Administrator
+Anvin Infosystems Palakkad,SQL Developer,India,8.406841132075472,"Performance tuning, CSS, Database development, Relational databases, Microsoft SQL Server",0.0,Data Base Administrator
+MNJ Software,Team Member (Oracle DBA),Remote,7.9675,"Oracle, Data structures, Microsoft SQL Server, English, Administrative experience",3.6,Data Base Administrator
+Ameriprise India,Technical Lead - Database Analyst,Noida,6.3,"Performance tuning, Microsoft SQL Server, SQL, Database design, Database administration",3.8,Data Base Administrator
+Parexel,"Senior Database Administrator, IT Enterprise",Hyderābād,7.925,"Performance tuning, System administration, Oracle, IT management, XML",4.0,Data Base Administrator
+Infolob Solutions,Oracle DBA,Mumbai,33.6,"Performance tuning, Oracle, Encryption, Windows, Databases",4.3,Data Base Administrator
+Jade Global,SQL Server DBA,Hyderābād,5.085,"Performance tuning, Cloud infrastructure, Node.js, Encryption, Disaster recovery",3.7,Data Base Administrator
+LSEG (London Stock Exchange Group),Sr. Database Engineer,Bengaluru,7.29,"CI/CD, Performance tuning, Azure, DevOps, Encryption",3.8,Data Base Administrator
+Rightpath Computer Technologies,ORACLE DBA,Hyderābād,6.15,"Oracle, Weblogic, OBIEE",4.6,Data Base Administrator
+MBI Digital,Oracle DBA with Golden Gate,India,4.465,"Performance tuning, Oracle, Remedy, Database development, MongoDB",2.9,Data Base Administrator
+Triumph Ladders Pvt. Ltd.,Cassandra dba,Bengaluru,6.0,"Cassandra, Software troubleshooting, Encryption, Python",5.0,Data Base Administrator
+NTT DATA,Oracle DBA,Bengaluru,5.84,"Oracle, Ansible, Databases, SQL, Analysis skills",3.8,Data Base Administrator
+Conacent Consulting,Oracle Core DBA,Calcutta,4.37,Oracle,3.9,Data Base Administrator
+Valley Telegence,Database Architect/ Engineer,Gurgaon,8.406841132075472,"Oracle, Database administration, Scripting, Linux, Shell Scripting",1.0,Data Base Administrator
+SSTech System Solutions,SQL DBA,Gujarat,9.830595238095238,"Microsoft SQL Server, SQL, Business development, Organizational skills, Communication skills",3.9,Data Base Administrator
+SecureKloud,"Snowflake DBA with Snowflake,SQL,Performance Tuning Pune (Hybrid)",Chennai,5.05,"SQL, Accounting",3.8,Data Base Administrator
+HIPAA box Inc.,DBA,Pune,5.035,"Oracle, XML, SQL, Database administration, AWS",2.7,Data Base Administrator
+Phygital Insights,Sybase Database Admin,Bengaluru,6.0,"Oracle, Microsoft SQL Server, SQL, Sybase, High availability",4.9,Data Base Administrator
+AWC Consulting,Oracle DBA,Delhi,8.406841132075472,"Operating systems, Oracle, Solaris, Windows, Database administration",0.0,Data Base Administrator
+Equinix,Senior Staff App and Database Administrator (Siebel),Bengaluru,4.7,"Jira, CI/CD, Pricing, Oracle, CSS",4.0,Data Base Administrator
+MNJ Software,Lead MongoDB Database Administrator,Remote,7.9675,"Big data, NoSQL, English, MongoDB, Java",3.6,Data Base Administrator
+Pi Techniques,Mongo DBA,Mumbai,5.22,"Cassandra, Software troubleshooting, Kubernetes, Encryption, NoSQL",3.1,Data Base Administrator
+SAP,Senior Database Administrator - SAP HANA,Bengaluru,7.75,"Azure, Ansible, SAP HANA, DB2, SAP",4.2,Data Base Administrator
+SSquad Global,Oracle Apps DBA Consultant,Bengaluru,4.8,"Cloud infrastructure, Oracle, Cloud architecture, Software troubleshooting, Oracle EBS",4.2,Data Base Administrator
+Atlas Systems,SQL DBA-HR-P1,Bengaluru,5.54,"Performance tuning, Azure, Oracle, Encryption, Disaster recovery",4.0,Data Base Administrator
+Yaanar Technologies Pvt Ltd,Oracle Apps DBA,Chennai,8.406841132075472,"Performance tuning, Cloud infrastructure, Oracle, Software troubleshooting, DevOps",0.0,Data Base Administrator
+Ajaysai Solutions Pvt Ltd,DB2 DBA,Bengaluru,11.955,"Oracle, DB2, Microsoft SQL Server, SQL, Database design",0.0,Data Base Administrator
+MNJ Software,PostgreSQL DBA,Remote,7.9675,"English, Databases, Administrative experience, SQL, Database administration",3.6,Data Base Administrator
+Nuware Systems,Snowflake DBA,Bengaluru,7.1,"Microsoft SQL Server, SQL, Communication skills",4.2,Data Base Administrator
+Onedirect,Database Engineer - DBA,Bengaluru,7.9675,"Elasticsearch, Azure, Cassandra, Relational databases, NoSQL",3.6,Data Base Administrator
+InnOvator Web Solutions,Cassandra DBA,India,5.157777777777778,"Microsoft Access, Cassandra, Spark, NoSQL, Java",3.2,Data Base Administrator
+Logitech,Database Engineer,Chennai,5.875,"Hyperion, Oracle, Pentaho, Microsoft SQL Server, Oracle EBS",4.2,Data Base Administrator
+Conacent Consulting,Oracle Apps DBA,Calcutta,4.37,Oracle,3.9,Data Base Administrator
+Agnito Technologies,Senior Database Architect,Bhopal,8.406841132075472,"Software troubleshooting, NoSQL, MongoDB, Databases, SQL",0.0,Data Base Administrator
+Galaxy Office Automation,Oracle DBA,Thāne,6.1,"Performance tuning, System administration, Oracle, Node.js, Ansible",4.2,Data Base Administrator
+Saankhya,Oracle Apps DBA,Maharashtra,12.061153846153847,"Oracle, Software troubleshooting",5.0,Data Base Administrator
+PayU,Lead- MYSQL DBA,Gurgaon,5.325,"Performance tuning, Cassandra, Software troubleshooting, MongoDB, SQL",3.7,Data Base Administrator
+Helius Technologies,Product DBA,India,12.35975,"CI/CD, Power BI, Database development, Software deployment, DevOps",4.2,Data Base Administrator
+Ahana Systems and Solutions,MySQL DBA,Bengaluru,37.14,"Data modeling, Disaster recovery, SQL, Scripting, PowerShell",4.4,Data Base Administrator
+Knack Consulting Services Pvt Ltd,Senior DBA,Bengaluru,8.251938775510204,"Performance tuning, Database administration, Analysis skills, PostgreSQL",3.8,Data Base Administrator
+Simple Logic IT,Oracle DBA Performance Tuning,Mumbai,39.9,"Cloud infrastructure, Oracle, SQL, Scripting, PL/SQL",4.2,Data Base Administrator
+Paytm,MySQL DBA-Paytm Money-Paytm Money,Noida,3.735,"Performance tuning, Cloud infrastructure, Microsoft SQL Server, MongoDB, Databases",3.2,Data Base Administrator
+CDM Smith,Senior Database Administrator (Digital Engineering Solutions),Chennai,4.975,"CI/CD, Authentication, Cloud infrastructure, Azure, MVC",4.1,Data Base Administrator
+Blazeclan Technologies,Database Admin L3 - Aurora DB,Bengaluru,8.251938775510204,"SQL, Database administration, AWS, ITIL, PostgreSQL",3.8,Data Base Administrator
+Kāladi Consulting,Oracle Apps DBA,Bengaluru,5.285,"Oracle, Oracle EBS, Weblogic, Databases, SQL",3.8,Data Base Administrator
+RSAB IT India,ORACLE DBA,Bengaluru,6.0,"Performance tuning, Oracle, Database administration, Communication skills",3.8,Data Base Administrator
+Amrita University,Alumni Engagement Database Administrator & E-mail Marketing Specialist (Basic level),Kollam,4.95,"Email marketing, Project management, SEO, Marketing automation, Google Analytics",3.9,Data Base Administrator
+Kontoor Brands,"Senior System Engineer, Database Administration",Remote,8.925666666666666,"Microsoft Windows Server, SFTP, Power BI, TCP, Cloud infrastructure",3.5,Data Base Administrator
+Exela Technologies,Sr.DBA,Pune,4.735,"Microsoft SQL Server, SQL",3.6,Data Base Administrator
+Maxus Technologies,SQL Developer/Sr. SQL Developer,India,4.890625,"Software troubleshooting, Database development, Microsoft SQL Server, SSRS, Databases",4.5,Data Base Administrator
+Access Automation,System Admin with SQL DBA,Bengaluru,5.42,"Microsoft Windows Server, IIS, LAN, Microsoft SQL Server, Windows",3.0,Data Base Administrator
+Kyndryl,REDIS DB DBA,Mumbai,6.28,"Microsoft Windows Server, Cloud infrastructure, Azure, Windows, SQL",3.9,Data Base Administrator
+CAI,SQL and Oracle DBA,Remote,5.157777777777778,"Azure, Oracle, SCCM, Ansible, Vendor management",3.2,Data Base Administrator
+Genpact,Lead Consultant - MS SQL DBA,Hyderābād,8.065,"Microsoft SQL Server, SQL, Communication skills",3.9,Data Base Administrator
+Motive,Senior Database Engineer (DBA),Bengaluru,7.25,"Elasticsearch, Ansible, Databases, Database administration, AWS",4.0,Data Base Administrator
+i-Source Infosystems,PeopleSoft DBA,Pune,3.5,"SQL, Database administration, PeopleSoft",3.3,Data Base Administrator
+Rightpath Computer Technologies,ORACLE APPS DBA,Hyderābād,6.15,Oracle,4.6,Data Base Administrator
+Nascent Infotechnologies,Postgresql DBA,Ahmedabad,8.406841132075472,"Windows, SQL, PostgreSQL, Linux, Debugging",0.0,Data Base Administrator
+IT Convergence,Oracle Apps DBA,Hyderābād,44.4,"Cloud infrastructure, Oracle, Oracle EBS, Windows, AWS",3.9,Data Base Administrator
+Viavi Solutions,Database Engineer,Chennai,5.09,"Oracle, Node.js, Cassandra, Big data, Spark",3.7,Data Base Administrator
+Virtusa,Oracle DBA,Chennai,9.875,"Oracle, MongoDB, SQL, Linux, PL/SQL",3.7,Data Base Administrator
+Capgemini,"SQL Server DBA | 9 to 12 Years | Bengaluru, Pune & Mumbai",Bengaluru,6.325,"Disaster recovery, Microsoft SQL Server, ServiceNow, AI, Communication skills",3.8,Data Base Administrator
+United Airlines,Senior Manager - Database Engineering and Operations,Gurgaon,22.38,"Cloud infrastructure, Oracle, Management, Microsoft SQL Server, NoSQL",3.9,Data Base Administrator
+Phygital Insights,Oracle Database Administration,Chennai,5.05,"Oracle, Microsoft SQL Server, MongoDB, Database administration, PostgreSQL",4.9,Data Base Administrator
+Varseno Solutions,Sr. SQL Developer,India,4.98,"Microsoft Windows Server, TCP, Relational databases, Microsoft SQL Server, SSRS",4.7,Data Base Administrator
+Zensar Technologies,ESaaS - Oracle - DBA - Apps,Maharashtra,9.830595238095238,"Oracle, Remedy, IT service management, Microsoft SQL Server, SQL",3.9,Data Base Administrator
+Xanika Infotech,Application DBA Lead,Chennai,10.0,"Oracle, J2EE, Java, Microservices, SOAP",4.0,Data Base Administrator
+Varologic,Sr. Microsoft SQL DBA,Ahmedabad,4.635,"Hyperion, Oracle, IIS, Microsoft SQL Server, SSRS",4.1,Data Base Administrator
+ExcelaCom Technologies,Oracle DBA,Chennai,5.298846153846155,"Oracle, Database design, AWS, Agile",3.4,Data Base Administrator
+MSC Technology,SENIOR DBA - SQL,Chennai,3.87,"Performance tuning, Azure, Microsoft SQL Server, SSRS, SQL",3.2,Data Base Administrator
+Excelencia Itech Consulting Pvt Ltd,SQL DBA,Chennai,4.025,"Performance tuning, Azure, Encryption, Microsoft SQL Server, SQL",4.5,Data Base Administrator
+Savitriya Technologies,DBA Genius (DBA / SDBA),Ahmedabad,9.206666666666667,"Perl, Scripting, MySQL",4.1,Data Base Administrator
+E Hook Systems,SQL DBA,Delhi,8.406841132075472,"Microsoft Windows Server, Performance tuning, Oracle, Business intelligence, Microsoft SQL Server",0.0,Data Base Administrator
+LiferayGurus,Lead Engineer/DBA (MySQL) India,India,8.406841132075472,"Databases, Hibernate, MySQL",0.0,Data Base Administrator
+Gtropy Systems,SQL DEVELOPER – DBA,Delhi,12.780454545454546,"ASP.NET, Relational databases, Microsoft SQL Server, SQL, Database design",4.4,Data Base Administrator
+Jade Global,SQL DBA,Hyderābād,5.085,"SQL, Communication skills",3.7,Data Base Administrator
+Paytm,DBA - Senior MySQL DBA,Noida,3.735,"AWS, Terraform, MySQL",3.2,Data Base Administrator
+Comcast Corporation,Engineer 3 - Database Administration,Chennai,5.35,Database administration,3.8,Data Base Administrator
+Cintra: The Multi-Cloud Database Architects,EBS DBA,Chandigarh,4.345,"Oracle, Oracle EBS, Google Cloud Platform, Database administration, AWS",3.8,Data Base Administrator
+SAP,SAP HANA and ASE Database Engineer (1-3 years experience only),Bengaluru,8.295,"Azure, Oracle, SAP HANA, DB2, SAP",4.2,Data Base Administrator
+State Street,"Lead Database Performance Engineer, Officer",Hyderābād,6.28,"Performance tuning, Power BI, Cloud infrastructure, Azure, Customer service",3.5,Data Base Administrator
+DXC Technology,Sr Analyst II Infrastructure Services (Database),Bengaluru,5.1,"Performance tuning, Cloud infrastructure, Operating systems, Oracle, Microsoft SQL Server",3.5,Data Base Administrator
+Bloom Solutions Pvt. Ltd.,Oracle Apps DBA,Hyderābād,12.554,"Performance tuning, Oracle, ERP systems, Oracle EBS, Databases",4.3,Data Base Administrator
+TransUnion,Consultant MariaDB DBA,Pune,8.495,"Databases, SQL, PHP, Scripting, Recruiting",4.0,Data Base Administrator
+Evolent Health,"Analyst, Provider Data Management",Pune,2.47,"Microsoft Powerpoint, Visual Basic, Microsoft SQL Server, Analysis skills, Organizational skills",3.4,Data Base Administrator
+Kaleyra,DBA Engineer (Remote) #243,Bengaluru,5.35,"MongoDB, Databases, SQL, AWS, Perl",3.9,Data Base Administrator
+E Hook Systems,DB2 DBA,Delhi,8.406841132075472,"Performance tuning, Data modeling, Remedy, DB2, Database design",0.0,Data Base Administrator
+UST Global,Lead SQL Administrator with T-SQL and Powershell,Thiruvananthapuram,8.9,"CI/CD, Performance tuning, Azure, Encryption, Disaster recovery",3.9,Data Base Administrator
+Vodafone,"Assistant Manager_Oracle DBA, Datagaurd_Pune",Pune,5.055,"Performance tuning, Oracle, Business intelligence, Cassandra, NoSQL",3.9,Data Base Administrator
+Retail Sols,DBA - Oracle Retail,Hyderābād,5.65,"Oracle, Weblogic, Communication skills",2.6,Data Base Administrator
+Oracle,Senior DevOps Engineer - Autonomous Database,India,8.251938775510204,"Cloud infrastructure, Oracle, OS Kernels, APIs",3.8,Data Base Administrator
+Oracle,Principal DevOps Engineer - Autonomous Database,India,8.251938775510204,"Cloud infrastructure, Oracle, Software troubleshooting, Java, OS Kernels",3.8,Data Base Administrator
+LSEG (London Stock Exchange Group),Database & DevOps Engineer,Bengaluru,8.0,"Data modeling, Cloud infrastructure, System administration, Ansible, Relational databases",3.8,Data Base Administrator
+Dassault Systèmes,Snowflake SQL Developer,Pune,7.0,"NoSQL, SQL, Unit testing, Debugging",4.0,Data Base Administrator
+Worldpay,Database Developer(7+ years of experiencein PL/SQL) Pune,Pune,8.0,"Performance tuning, Oracle, SQL, Agile, PL/SQL",3.9,Data Base Administrator
+Classic Informatics Private Limited,Database Administrator,Gurgaon,6.0,"Ansible, Encryption, MongoDB, SQL, Database administration",4.4,Data Base Administrator
+Capital Placement Services,SQL Database Administrator For MNC in Spaze IT Park Gurgaon,Farīdābād,6.0,"Performance tuning, Microsoft Excel, Data analysis skills, Disaster recovery, Microsoft SQL Server",0.0,Data Base Administrator
+DTCC,Data Management Associate Director,Chennai,48.0,"Jira, Data modeling, Kanban, SQL, Database design",3.8,Data Base Administrator
+Tech Concierge Pro,MySQL DBA,Remote,15.5,"Performance tuning, Encryption, Disaster recovery, Google Cloud Platform, SQL",0.0,Data Base Administrator
+Koenig Solutions Pvt. Ltd,Corporate Trainer - SQL Database,Remote,7.2,"Azure, Oracle, Microsoft SQL Server, SQL, AWS",3.7,Data Base Administrator
+Mobineers Info Systems,SQL Developer,India,8.251938775510204,"Microsoft SQL Server, SQL",3.8,Data Base Administrator
+NCR JOB CONSULTANT,Network Engineer (Broadband),Karol Bāgh,3.6,"Operating systems, English, Network protocols, Routing protocols, Computer networking",0.0,Data Base Administrator
+Genesis Head Hunters,Field Network Engineer (Broadband),Bengaluru,39.6,"Software troubleshooting, Field sales, Network engineering",5.0,Data Base Administrator
+Vodafone,"Assistant Manager_Senior Engineer_Unix, SQL-PL- SQL- DWH_Pune",Pune,4.5,"Business intelligence, SAS, SQL, Problem management, PL/SQL",3.9,Data Base Administrator
+Google,Databases Engineer,Bengaluru,12.554,"Data modeling, Oracle, Software troubleshooting, Encryption, NoSQL",4.3,Data Base Administrator
+Mastercard,Software Engineer-II (PL/SQL),Vadodara,7.0,"Oracle, JUnit, Database development, Git, Test-driven development",4.2,Data Base Administrator
+State Street,"Lead Database Performance Engineer, Officer",Hyderābād,6.5,"Performance tuning, Power BI, Cloud infrastructure, Azure, Customer service",3.5,Data Base Administrator
+Photon,"Software Engineer-Java, SQL",Chennai,5.5,"Java, Microservices, SQL, REST, APIs",4.0,Data Base Administrator
