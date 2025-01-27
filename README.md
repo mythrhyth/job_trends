@@ -42,7 +42,7 @@ We will collect and analyze datasets related to tech jobs, sourced from:
 ## 🎯 Goals
 - Identify the best-paying tech jobs
 - Determine the most in-demand skills
-- Predict the future job landscape
+- Determine the locations with most job-postings
 - Provide data-driven career insights
 
 ## 💡 Future Improvements
