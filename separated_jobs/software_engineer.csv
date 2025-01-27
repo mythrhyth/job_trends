@@ -1,0 +1,794 @@
+company_name,job_role,job_location,salary_pa,skills,company_rating,standardized_job_role
+Microsoft,Senior Software Engineer,Bengaluru,600000.0,"TensorFlow, C++, C, Deep learning, SDKs",4.2,Software Engineer
+Goldman Sachs,Software Engineer - Vice President - Core Engineering,Hyderābād,0.0,"CI/CD, React, Kubernetes, Relational databases, DevOps",3.9,Software Engineer
+Trellix,Senior Software Development Engineer,Bengaluru,750000.0,"Oracle, SAP HANA, DB2, Microsoft SQL Server, NoSQL",3.4,Software Engineer
+Oracle,Software Developer,Hyderābād,800000.0,"Oracle, JUnit, XML, Enterprise Software, J2EE",3.8,Software Engineer
+infiniti soft system,Software Developer,Bengaluru,1400000.0,"Relational databases, Microsoft SQL Server, SSRS, English, Java",,Software Engineer
+InfoMatrix Digital Solutions,Software Developer Intern,Remote,48000.0,"Node.js, React, APIs",,Software Engineer
+Twinsway Technologies,Junior Software Developer,Thiruvananthapuram,300000.0,"CSS, React, JavaScript, Communication skills, HTML",,Software Engineer
+PropertyGuru Pte Ltd,Software Engineer,Bengaluru,700000.0,"Elasticsearch, Node.js, React, Kubernetes, Git",3.5,Software Engineer
+"Signimus Technolgies: Hiring Python, MERN, React Native and other Devs",Software Developer Training internship,Remote,0.0,"Git, MongoDB, .NET, Java, Application development",,Software Engineer
+AerialBorne,Junior Software Developer,Pilani,282000.0,"Computer science, Node.js, React, Web development, OOP",,Software Engineer
+EXR Systems LLC,Software Developer,Remote,330000.0,"Authentication, Node.js, CSS, React, MongoDB",,Software Engineer
+Xanika Infotech,Enterprise Software Developer,Remote,600000.0,"CI/CD, Go, Software deployment, Enterprise Software, English",4.0,Software Engineer
+KRYFS Technologies Pvt Ltd,Junior Software Developer,India,200000.0,"CSS, Software troubleshooting, Git, PHP, Analysis skills",,Software Engineer
+Digital Upward Pvt Ltd,Software Developer Intern,Bengaluru,1050000.0,"Node.js, Mobile applications, Application development, OOP, Analysis skills",,Software Engineer
+Logic Research Labs,Software Developer,Thanjāvūr,550000.0,,3.7,Software Engineer
+Avidian Technologies,Software Developer,Remote,3600000.0,"Azure, Microsoft Outlook, React, DevOps, .NET Core",4.0,Software Engineer
+Indo-Thai Securities Ltd,Software Developer Intern,Indore,102000.0,"CSS, React, Git, Databases, SQL",,Software Engineer
+SOTI Inc.,Junior Software Developer,Cochin,0.0,"Data modeling, Node.js, CSS, C#, .NET",3.6,Software Engineer
+Meltronics Systemtech,Application software developer,India,400000.0,"Visual Studio, C#, .NET, SQL, C++",,Software Engineer
+HyScaler,Junior Software Developer,India,0.0,"Node.js, Databases, SQL, PHP, Docker",4.7,Software Engineer
+Actify Business,Software Developer Intern,Thāne,150000.0,"CSS, React, Data structures, J2EE, Java",,Software Engineer
+Technource (Techno Source Web Pvt. Ltd.),Jr. Software Developer,India,150000.0,"Node.js, CSS, React, NoSQL, Git",,Software Engineer
+Crypto PMS,Flash crypto software developer,Remote,150000.0,"Rust, Node.js, React, .NET, Java",,Software Engineer
+LCX,Senior Software Developer,Gurgaon,1450000.0,"Node.js, Kubernetes, Encryption, NoSQL, SQL",4.1,Software Engineer
+nLineAxis,Senior Software Developer,Gurgaon,2350000.0,"Node.js, Kubernetes, Encryption, NoSQL, SQL",,Software Engineer
+Coinbase,"Staff Software Engineer, Infrastructure - Developer Productivity",Remote,0.0,"Machine learning, Communication skills, SDLC",3.8,Software Engineer
+Oracle,Software Development Snr Manager,Bengaluru,700000.0,"Performance tuning, Oracle, Go, Node.js, Kubernetes",3.8,Software Engineer
+The Liechtenstein Cryptoassets Exchange,Senior Software Developer,Gurgaon,550000.0,"Node.js, Kubernetes, Encryption, NoSQL, SQL",4.1,Software Engineer
+S&P Global,Software Developer/Engineer III,Noida,800000.0,"Azure, Node.js, React, Test-driven development, Java",4.1,Software Engineer
+Accenture,Software Development Engineer,Bengaluru,0.0,"CI/CD, Cloud infrastructure, Azure, Kubernetes, Load balancing",3.8,Software Engineer
+Collins Aerospace,Lead Software Developer,Bengaluru,0.0,"Oracle, CAD, Big data, Pro/ENGINEER, Java",3.8,Software Engineer
+"Mercari, Inc. (India)","Software Engineer, Platform Engineering (Mercari India)",Bengaluru,700000.0,"CI/CD, Elasticsearch, Azure, Go, Kubernetes",3.9,Software Engineer
+Ultrapro Blockchain Tech Private Limited,Senior Software Engineer,India,0.0,"Node.js, CSS, Software troubleshooting, React, Git",,Software Engineer
+Simform,Sr. Software Engineer (Innovation),Ahmedabad,600000.0,"Azure, Cloud architecture, Internet of things, Kubernetes, Google Cloud Platform",4.1,Software Engineer
+RockWallet,Senior Software Engineer,Noida,550000.0,"CI/CD, Ant, JUnit, Cassandra, Kubernetes",3.1,Software Engineer
+Chubb,Senior Software Engineer,Telangana,0.0,"Cucumber, Salesforce, C#, Selenium, Test-driven development",3.8,Software Engineer
+General Mills,Software Engineer II – Sites & Services,Mumbai,700000.0,"CI/CD, ASP.NET, Cloud infrastructure, Kubernetes, Kanban",4.1,Software Engineer
+JPMorganChase,Software Engineer III - Java,Bengaluru,600000.0,"CI/CD, Software troubleshooting, Relational databases, System design, Java",4.0,Software Engineer
+ZoomRx,Software Development Engineer,India,0.0,"Software deployment, iOS, System design, Git, REST",3.7,Software Engineer
+NASDAQ,Software Developer Specialist - AI/ML,Bengaluru,4800000.0,"TensorFlow, CI/CD, Azure, Big data, DevOps",4.1,Software Engineer
+Coinbase,"Software Engineer, Emerging Talent",Remote,1350000.0,"Go, React, iOS, MongoDB, AWS",3.8,Software Engineer
+Mastercard,"Vice President, Software Engineering",Pune,0.0,"Oracle, Big data, Spark, Git, Information security",4.2,Software Engineer
+Sadhana IT Solutions,Software Engineer (Entry-level/Fresher),Pune,4800000.0,"Azure, Go, Node.js, React, Web development",4.0,Software Engineer
+Vividco,Entry Level Software Engineer,Remote,250000.0,"Software troubleshooting, Relational databases, Git, Databases, SQL",,Software Engineer
+Nbyula,Software Engineer-Summer Internship,Bengaluru,850000.0,Distributed systems,3.9,Software Engineer
+Experian,Associate Software Engineer,Hyderābād,550000.0,"CI/CD, XML, NoSQL, Information security, Java",4.2,Software Engineer
+Edvak Technologines Inc,Software Engineer,India,1100000.0,"Elasticsearch, Node.js, Kubernetes, Web development, System design",,Software Engineer
+Optum,Software Engineer,Hyderābād,900000.0,"Performance testing, AI",3.5,Software Engineer
+BP Energy,Staff Software Development Engineer for Test,Pune,600000.0,"CI/CD, Azure, Kubernetes, iOS, Business analysis",3.9,Software Engineer
+Frenzopay,Software Engineer,Noida,660000.0,"System administration, DevOps, .NET, Java, AWS",,Software Engineer
+Notops Software Pvt Ltd.,Software Engineer,India,350000.0,"Kubernetes, Java, AWS, JavaScript, Distributed systems",,Software Engineer
+NetApp,Software Engineer,Bengaluru,550000.0,"Test cases, Communication skills, Python, PowerShell",4.1,Software Engineer
+Boston Consulting Group,Software Engineer - X Delivery,Gurgaon,600000.0,"Microsoft Powerpoint, CI/CD, Azure, Oracle, Cloud architecture",4.3,Software Engineer
+Boston Consulting Group,Global IT Software Engineer Specialist,Gurgaon,600000.0,"Salesforce Marketing Cloud, TestNG, Microsoft Excel, Microsoft Outlook, Test management tools",4.3,Software Engineer
+Windfall Production Pvt Ltd,Junior Software Engineer,India,150000.0,"CI/CD, Azure, Software troubleshooting, React, Kubernetes",,Software Engineer
+BrowserStack,Software Development Engineer in Test (SDET),Remote,0.0,"Node.js, Selenium, Ruby, Software testing, SaaS",4.3,Software Engineer
+"Deltek, Inc.",Software Engineer,Remote,0.0,"CI/CD, Program management, Node.js, React, C#",4.5,Software Engineer
+Fio technologies,Software Engineer,Remote,42000.0,"React, .NET, Java, AI, MySQL",,Software Engineer
+Distinct Infotech Solutions,Software Engineer,Remote,210000.0,"Azure, CSS, React, Kubernetes, .NET Core",,Software Engineer
+Ecolab,Associate Software Engineer,Bengaluru,950000.0,"Software troubleshooting, Salesforce",3.7,Software Engineer
+NOKIA,Software Engineer,India,0.0,"CI/CD, Kubernetes, DevOps, Git, Bloomberg",4.0,Software Engineer
+NetApp,Software Engineer,Bengaluru,550000.0,"Go, Kubernetes, Databases, Microservices, C++",4.1,Software Engineer
+Microsoft,Software Engineer,Hyderābād,4200000.0,"Azure, Machine learning, Software development",4.2,Software Engineer
+PayPal,Software Engineer 2,Chennai,600000.0,"Performance tuning, Data modeling, Big data, Spark, Apache Hive",3.7,Software Engineer
+Visionary Recruitment Service Private Limited,Software Engineer,Hyderābād,1000000.0,"CI/CD, Software troubleshooting, React, DevOps, MongoDB",,Software Engineer
+OrangeSiri India Private Limited,Software Engineer-Bot,Remote,1750000.0,"Node.js, English, Google Cloud Platform, Java, Natural language processing",,Software Engineer
+NetApp,Software Engineer (Python),Bengaluru,550000.0,"Node.js, MongoDB, Databases, Microservices, Analysis skills",4.1,Software Engineer
+Turing,Software Engineer (vetting),Remote,0.0,"Data modeling, Cloud infrastructure, Node.js, React, Google Cloud Platform",4.0,Software Engineer
+Akamai,Software Development Engineer in Test II_Remote,Remote,0.0,Distributed systems,4.6,Software Engineer
+Zeta Global,Software Engineer,Bengaluru,600000.0,"Cassandra, English, Java, Digital marketing, PostgreSQL",3.5,Software Engineer
+"Anthology, Inc.",Associate Software Engineer I,Chennai,650000.0,"Software troubleshooting, Data structures, Test-driven development, English, Java",3.6,Software Engineer
+Herbspro.com,Software Engineer I,Remote,250000.0,"CI/CD, Power BI, Azure, Web development, Database development",,Software Engineer
+Accenture,Software Development Engineer,Hyderābād,0.0,"Performance tuning, Azure, Cassandra, NoSQL, MongoDB",3.8,Software Engineer
+Hashedin,Software Engineer,Karnataka,0.0,"Blogging, Cloud infrastructure, DevOps, Data structures, Java",4.2,Software Engineer
+DHL,Software Engineer,Indore,550000.0,"CI/CD, Azure, Node.js, React, Kubernetes",3.9,Software Engineer
+Shalom World TV,Junior Software Engineer,Kerala,0.0,"CI/CD, Azure, Software troubleshooting, React, Kubernetes",,Software Engineer
+Finewebarts Web Solutions,Software Engineer,Remote,1250000.0,"Azure, Oracle, React, WordPress, MongoDB",,Software Engineer
+infiniti soft system,Software Developer,Bengaluru,1304000.0,"Relational databases, Microsoft SQL Server, SSRS, English, Java",,Software Engineer
+Allstate,Software Engineer II,Pune,726500.0,"Oracle, SQL, Supervising experience, Quality assurance, Scripting",3.5,Software Engineer
+SIXT India,Software Development Engineer I (Salesforce),Bengaluru,830000.0,"Cloud infrastructure, Ant, XML, Customer service, Salesforce",3.5,Software Engineer
+NORAH CLINICAL SOLUTION,Software Developer,India,0.0,"JBoss, Oracle, CSS, Software troubleshooting, Tomcat",3.4,Software Engineer
+"Red Hat, Inc.",Software Engineer,Pune,745500.0,"Jira, Oracle, CSS, Kubernetes, Web development",4.2,Software Engineer
+ARM,Embedded /Frimware Senior Software Engineer,Bengaluru,650000.0,"CSS, Firmware, OS Kernels, C, Embedded software",4.4,Software Engineer
+QUEST INNOVATIVE SOLUTIONS,Software Engineer - Freshers,Thiruvananthapuram,486000.0,".NET, Java, PHP, Data science, AI",,Software Engineer
+unnayan defence technologies,Junior Software Engineer,Hyderābād,500000.0,"TensorFlow, Statistics, Software troubleshooting, Calculus, Quality assurance",,Software Engineer
+Infosys,Embedded Software Developers,Bengaluru,550000.0,"ADAS, Pricing, Embedded software, Agile, SDLC",3.6,Software Engineer
+Apple,Embedded Power Software Engineer,Bengaluru,0.0,"5G, iOS, C++, Electrical experience, C",4.1,Software Engineer
+Ceremorphic,"Software Engineer, Embedded Systems",Hyderābād,0.0,"FPGA, OOP, OS Kernels, C++, C",2.8,Software Engineer
+ValetEZ,Software Engineer - Embedded,Bengaluru,0.0,"Software troubleshooting, C++, C, Embedded software, Software development",,Software Engineer
+embedUR systems,Embedded Software Development Engineer,Chennai,500000.0,"Software troubleshooting, Internet of things, Firmware, OS Kernels, Analysis skills",3.8,Software Engineer
+Nordson,Software Engineer I,Bengaluru,700000.0,"Software troubleshooting, React, Linux",3.3,Software Engineer
+ZF,Senior Software Engineer,Bengaluru,750000.0,Embedded software,3.9,Software Engineer
+TestCore IT Solutions,Software Engineer,Hyderābād,1000000.0,"Git, .NET, Java, C++, C",,Software Engineer
+vTitan Corporation,Embedded ​ Software Engineer,Chennai,4200000.0,"Software troubleshooting, English, C++, C, Software development",3.9,Software Engineer
+Google,"Software Engineer, Kernel and Firmware, Silicon",Hyderābād,0.0,"Schematics, Software deployment, Firmware, System design, OS Kernels",4.3,Software Engineer
+Vir Innovations Private Limited,Software Engineer,India,700000.0,"TCP, Image processing, OOP, C++, C",,Software Engineer
+Accenture,Software Development Engineer,Bengaluru,0.0,"OOP, Embedded software, Communication skills",3.8,Software Engineer
+Aptiv plc,Software Engineering - Intern,Bengaluru,0.0,"Embedded software, Software development",3.5,Software Engineer
+Oracle,Software Developer,Bengaluru,700000.0,"Oracle, Kubernetes, System design, Java, Application development",3.8,Software Engineer
+NVIDIA,Software Engineer,Bengaluru,550000.0,"Go, Kubernetes, Data structures, Windows, Java",4.5,Software Engineer
+Speed Engineering Solutions,System Software engineer - (Electronics - Embedded Skills),Pune,500000.0,"Visio, Programmable logic controllers, Embedded software",3.8,Software Engineer
+Susan Future Technologies Private Limited,Graduate Software Engineer,India,90000.0,"MATLAB, Data structures, System design, Java, C++",,Software Engineer
+Arista Networks,Software Engineer (Systems),Bengaluru,650000.0,"Test automation, DHCP, C++, C, Computer networking",4.1,Software Engineer
+Microsoft,Software Engineer,Noida,550000.0,"Statistics, Data modeling, Azure, Customer service, C#",4.2,Software Engineer
+kinara,"Software Engineer, Embedded",Hyderābād,0.0,"TensorFlow, Image processing, Windows, Analysis skills, C++",4.1,Software Engineer
+Google,"Software Engineering III, Embedded",Bengaluru,0.0,"Data structures, System design, OS Kernels, C++, C",4.3,Software Engineer
+Medtronic,Software Engineer II,India,0.0,"MATLAB, Signal processing, English, C++, Electrical experience",3.8,Software Engineer
+Barracuda Networks Inc.,Software Engineer,India,0.0,"Software troubleshooting, Git, Windows, Analysis skills, C++",3.5,Software Engineer
+Spectrum Talent Management,Embedded Software Developer,Bengaluru,650000.0,"System design, Git, OOP, OS Kernels, C++",3.3,Software Engineer
+QuEST Global,Software Development Engineer,Hyderābād,500000.0,"Operating systems, English, Analysis skills, C++, C",3.7,Software Engineer
+Bosch Group,IN_RBAI_Software Engineer,Bengaluru,600000.0,"Automotive electrical systems, Power BI, Oracle, CSS, C#",4.1,Software Engineer
+Arista Networks,Software Engineer (Wifi/ Embedded),Bengaluru,0.0,"QoS, Computer science, LAN, Test automation, OS Kernels",4.1,Software Engineer
+Inceptial Tech,Software Engineer,Remote,0.0,"TCP, Internet of things, REST, APIs, Linux",4.3,Software Engineer
+Tesco Technology,Software Development Engineer II,Bengaluru,450000.0,"Azure, NoSQL, Java, SQL, APIs",3.8,Software Engineer
+Tesco,Software Development Engineer II,Bengaluru,4200000.0,Agile,3.8,Software Engineer
+Yash Technologies,Software Engineer - IoT,Pune,0.0,"CI/CD, Software deployment, DevOps, Continuous integration, UI",3.7,Software Engineer
+Robosoft,Software Engineer (Model-Based Testing),Bengaluru,700000.0,"MATLAB, Test automation, Unit testing",3.9,Software Engineer
+Avin Systems,Software Engineer,Bengaluru,650000.0,"Unit testing, Root cause analysis",4.0,Software Engineer
+Strix Systems,Software Development Engineer,Mumbai,550000.0,"LAN, C++, C, Software development, Linux",2.8,Software Engineer
+"Advanced Micro Devices, Inc",Software Development Engineer 2,Hyderābād,0.0,"FPGA, Data structures, C++, Quality assurance, C",4.0,Software Engineer
+Liebherr CMCtec India Private Limited,Engineer - Embedded Software Testing,Pune,0.0,"Jira, MATLAB, Azure, DevOps, Git",3.8,Software Engineer
+Vruthii,Software Engineer,Bengaluru,400000.0,"TCP, Microsoft Access, Software troubleshooting, XML, Visual Studio",,Software Engineer
+TeamF1 Networks,Software Engineer (OpenWRT),India,0.0,"C++, C, Network management, Network protocols, Linux",3.7,Software Engineer
+Consort Digital,Software Engineer _ Embedded Developer,Farīdābād,450000.0,"Schematics, Software troubleshooting, C++, C, Software development",4.0,Software Engineer
+Microsoft,Senior Software Engineer,Bengaluru,600000.0,"Cloud infrastructure, Azure, Operating systems, Microsoft Office, C++",4.2,Software Engineer
+Analog Devices,Associate Software Engineer – Embedded Testing,Bengaluru,700000.0,Python,3.9,Software Engineer
+Qualcomm,WLAN Software Engineer,Bengaluru,550000.0,"Analysis skills, C, Embedded software, Test cases, Communication skills",3.9,Software Engineer
+NVIDIA,System Software Engineer,Pune,750000.0,"Operating systems, System architecture, Windows, OS Kernels, C++",4.5,Software Engineer
+Enfabrica,Embedded Functional Test Software Engineer,Hyderābād,4200000.0,"TensorFlow, CI/CD, TCP, Git, OS Kernels",5.0,Software Engineer
+Arista Networks,Software Engineer ( DPDK),Bengaluru,650000.0,"QoS, Test automation, C++, C, Computer networking",4.1,Software Engineer
+Aptiv plc,Advanced Software Engineer,Bengaluru,750000.0,"Product development, Telecommunication, IT",3.5,Software Engineer
+Panasonic,Software Engineer - COMS/ Loyalty,Pune,700000.0,"TCP, Project planning, Application development, OS Kernels, C++",3.8,Software Engineer
+Embedded Technology Labs,System Software Engineer,Mumbai,400000.0,"Application development, Ethernet, Linux",1.0,Software Engineer
+Axiado,Senior Software Engineer,Hyderābād,500000.0,"Node.js, Software troubleshooting, R, Encryption, C++",4.1,Software Engineer
+Maruti Suzuki India Ltd,Software Engineer (C#),Gurgaon,650000.0,"Software deployment, Visual Studio, C#, .NET, SQL",3.8,Software Engineer
+Google,"Software Engineer, Power and Performance Software",Bengaluru,0.0,"Software deployment, Firmware, System design, Android, OS Kernels",4.3,Software Engineer
+Arista Networks,Software Engineer (Routing),Bengaluru,650000.0,"Computer science, Data center experience, Kubernetes, C++, C",4.1,Software Engineer
+Accenture,Advanced Embedded System Engineering-Software Development Engineer,Bengaluru,0.0,"System architecture, System design, Git, C++, C",3.8,Software Engineer
+Grundfos Holding A/S,Senior Software Development Engineer- Embedded C,Chennai,700000.0,"MATLAB, Test automation, DHCP, Embedded software, Continuous integration",4.0,Software Engineer
+Aptiv plc,Radar Resim Software Engineer,Bengaluru,750000.0,"Jira, ADAS, Signal processing, Git, C++",3.5,Software Engineer
+"Advanced Micro Devices, Inc",MTS Software Development Eng.,Hyderābād,600000.0,"FPGA, C++, C, Communication skills, Python",4.0,Software Engineer
+Grundfos Holding A/S,Software Development Engineer,Chennai,700000.0,"Visual Studio, C#, Visio, Windows, .NET",4.0,Software Engineer
+Molex,Embedded Software Developer,Bengaluru,450000.0,"Computer science, 5G, Git, English, C++",3.6,Software Engineer
+Analog Devices,Software Engineer – Embedded Testing,Bengaluru,1200000.0,"MATLAB, Quality assurance, C, Embedded software, Software testing",3.9,Software Engineer
+QuEST Global,BLE - Software Engineer,Thiruvananthapuram,650000.0,"Software troubleshooting, C, Embedded software, APIs",3.7,Software Engineer
+Arista Networks,Software Engineer (Platform),Bengaluru,550000.0,"Test automation, C++, C, Computer networking, Software development",4.1,Software Engineer
+Lekha Wireless,Software Engineer PHY JD,Bengaluru,450000.0,"Signal processing, 5G, Firmware, English, Analysis skills",4.2,Software Engineer
+Tesco Technology,Software Development Manager,Bengaluru,3000000.0,"Java, Product development, Agile",3.8,Software Engineer
+Apple,Software Development Engineer - Factory Test Station,Bengaluru,0.0,"TCP, Internet of things, Big data, Firmware, Objective-C",4.1,Software Engineer
+Ambetronics Engineers Pvt. Ltd.,Embedded Software Developer,Mumbai,300000.0,"FTP, TCP, Software troubleshooting, Internet of things, Embedded software",2.5,Software Engineer
+Reventech Engineering Services,Software Engineer- HMI,Bengaluru,0.0,"Jira, Git, English, Java, C++",,Software Engineer
+nVent,Sr. Software Engineer – Embedded Systems,Bengaluru,850000.0,"Jira, TCP, Software troubleshooting, Firmware, Git",3.7,Software Engineer
+INTEL,GPU Network Software Engineer,Bengaluru,550000.0,"CI/CD, TCP, Go, C, Network management",3.9,Software Engineer
+Testcore Solutions,Software Development Validation,Bengaluru,1000000.0,"Java, Assembly, Embedded software, Software development, Unit testing",,Software Engineer
+Qualcomm,GNSS - Location Tech Software Engineer,Bengaluru,550000.0,"MATLAB, Signal processing, Data analysis skills, Java, C++",3.9,Software Engineer
+Cogoport,Software Development Engineer - I / II / III (Front-end),Mumbai,800000.0,"React, JavaScript, Angular, UX, Scalability",2.9,Software Engineer
+NVIDIA,System Software Engineer - GPU Profiling,Pune,750000.0,"Operating systems, C++, C, Assembly, APIs",4.5,Software Engineer
+Arista Networks,Software Engineer- SONiC,Bengaluru,650000.0,"Test automation, C++, Docker, C, Redis",4.1,Software Engineer
+Onevega system India Pvt Ltd,Senior Software Engineer,Bengaluru,550000.0,"Java, Assembly, JavaScript, Embedded software",,Software Engineer
+AGCO,Software Engineer - Autosar,Pune,650000.0,"Software troubleshooting, Electrical experience, Embedded software, Ethernet, Debugging",3.9,Software Engineer
+Boston Consulting Group,Global IT Software Engineer Senior Manager & Chapter Lead,Gurgaon,600000.0,"Node.js, CSS, React, DevOps, Information security",4.3,Software Engineer
+Zettaone Technologies,Software Engineer,Bengaluru,800000.0,"FPGA, Laboratory experience, Git, C++, C",4.1,Software Engineer
+Larsen & Toubro,Sr. Software Engineer â€“ Radar UI Design (JD#RSW02),Bengaluru,600000.0,"Operating systems, Windows, C++, C, UI",3.4,Software Engineer
+Sun King,"Software Engineer, Infrastructure",Remote,0.0,"CI/CD, Performance tuning, Elasticsearch, TCP, Kubernetes",4.2,Software Engineer
+Raja Bahadur International Ltd,OCPP Software Engineer,Pune,0.0,"Software troubleshooting, Load balancing, Git, Java, Analysis skills",,Software Engineer
+unnayan defence technologies,Senior Software Engineer,Hyderābād,800000.0,"Image processing, Software troubleshooting, Computer vision, Calculus, SQL",,Software Engineer
+Ciena,Software Engineer,Gurgaon,800000.0,"Embedded software, Software development, Linux",4.2,Software Engineer
+Hewlett Packard Enterprise,Senior Systems/Software Engineer,Bengaluru,0.0,"TCP, DevOps, English, Local language, Analysis skills",4.2,Software Engineer
+Light & Wonder,Software Engineer,Bengaluru,900000.0,"CI/CD, TCP, Rust, Internet of things, R",4.0,Software Engineer
+Tesco Bengaluru,Software Development Engineer III,Bengaluru,0.0,"Agile, Communication skills",3.9,Software Engineer
+"Advanced Micro Devices, Inc",SMTS Software Development Eng.,Hyderābād,600000.0,"5G, Firmware, Git, OOP, C++",4.0,Software Engineer
+Western Digital,"Senior Engineer, Software Engineering (Firmware Development)",Bengaluru,600000.0,"SAFe, FPGA, System design, OOP, Analysis skills",3.7,Software Engineer
+NielsenIQ,Senior Software Engineer - IBMi,Pune,0.0,"Node.js, WebSphere, DB2, SQL, JavaScript",3.8,Software Engineer
+Synaptics Inc.,"Software Engineer, Wireless Connectivity MCU",Bengaluru,900000.0,"Firmware, English, Analysis skills, C, Machine learning",3.2,Software Engineer
+Ericsson,Software Development Engineer III,Bengaluru,750000.0,"Operating systems, System architecture, Firmware, Git, OS Kernels",4.0,Software Engineer
+Synaptics Inc.,"Staff Software Engineer, Embedded & Edge AI MCU Software",Bengaluru,900000.0,"Firmware, Analysis skills, C++, C, Machine learning",3.2,Software Engineer
+SMARTPADDLE TECHNOLOGY,Software Engineer II,Bengaluru,700000.0,"Data modeling, NoSQL, Java, Databases, REST",3.4,Software Engineer
+MapuSoft Technologies,Software Development Engineer,Chennai,600000.0,"Windows, Java, C++, C, Software development",3.3,Software Engineer
+Motorola Solutions,Sr Software Engineer,Bengaluru,550000.0,"TCP, Microsoft Access, Mobile applications, iOS, Application development",4.3,Software Engineer
+vTitan Corporation,Software Test ​ Engineer,Chennai,2916000.0,"C++, Quality assurance, C, Software development, Software testing",3.9,Software Engineer
+Castus Info,Software Developer - Intern (Python),Hyderābād,0.0,"CSS, Databases, JavaScript, Django, Communication skills",4.2,Software Engineer
+CrelioHealth,Junior Software Developer,Pune,600000.0,"React, Git, Databases, JavaScript, REST",4.1,Software Engineer
+ATHMIN,Software Developer,Noida,0.0,"Oracle, Microsoft SQL Server, Java, PHP, C++",3.8,Software Engineer
+Oneyes Infotech Solutions pvt ltd,Software Developer,Chennai,540000.0,"Software development, Unit testing, SDLC",,Software Engineer
+SingleStore,"Software Engineer, Full-Stack (Developer Experience)",Hyderābād,1128000.0,"Rust, Go, React, Web development, SQL",3.9,Software Engineer
+Orion Infosolutions,Junior Software Tester,India,240000.0,"Jira, Unreal Engine, Test management tools, Java, Analysis skills",,Software Engineer
+"TRC Companies, Inc.",Software Developer,Hyderābād,0.0,"Software troubleshooting, Mobile applications, Visual Studio, C#, iOS",3.7,Software Engineer
+Oracle,Software Developer 3 - C++,Bengaluru,700000.0,"Software troubleshooting, Data structures, Windows, Java, SQL",3.8,Software Engineer
+IDZ Digital,Software Developer,India,0.0,"Mobile applications, iOS",3.9,Software Engineer
+Light & Wonder,Software Engineer,Bengaluru,900000.0,"Data structures, Communication skills",4.0,Software Engineer
+NICE Systems,Software Engineer (Salesforce Developer),Pune,650000.0,"CI/CD, Software troubleshooting, Salesforce, Application development, SOAP",4.3,Software Engineer
+DAZN,"Associate Software Engineer, IN",Hyderābād,800000.0,"Azure, Gradle, JUnit, Waterfall, Data structures",2.9,Software Engineer
+Touchzing Media,Software Developer,India,0.0,"Mobile applications, iOS",4.6,Software Engineer
+Crypto Mize,Software Developer,Delhi,0.0,"Operating systems, Oracle, XML, Visual Basic, C#",4.8,Software Engineer
+Rempute Systems Private Limited,Senior Software Engineer,Remote,1200000.0,"Computer science, Mobile applications, iOS, Android, Performance testing",,Software Engineer
+Raytheon,Software Engineer,Bengaluru,0.0,"Unreal Engine, C#, .NET, C++, Math",3.7,Software Engineer
+Microsoft,Software Engineer 2,Hyderābād,0.0,"Image processing, Azure, React, C#, Research",4.2,Software Engineer
+DAZN Software,"Software Engineer, IN",Hyderābād,800000.0,"CI/CD, Node.js, Git, English, Microservices",2.9,Software Engineer
+ADCI HYD 13 SEZ,"Software Developer Engineer II, Global Logistics",Hyderābād,500000.0,"Distributed systems, Software development, SDLC, Design patterns",3.6,Software Engineer
+ADCI HYD 13 SEZ,Software Development Engineer,Hyderābād,500000.0,"Oracle, Java, Distributed systems, Software development, Agile",3.6,Software Engineer
+Baazi Games,Software Development Engineer I,Delhi,0.0,"Node.js, Kubernetes, Git, MongoDB, Databases",3.9,Software Engineer
+Microsoft,Senior Software Engineer,Hyderābād,4200000.0,"Cloud infrastructure, Azure, C#, iOS, NoSQL",4.2,Software Engineer
+DAZN,Software Development Engineer in Test,Hyderābād,650000.0,"Jira, CI/CD, Test management tools, Test automation, Selenium",2.9,Software Engineer
+Concentrix,Sr. Software Developer,India,0.0,"Jira, MVC, CSS, PCI, .NET Core",4.0,Software Engineer
+Scientific Games,Software Engineer,Bengaluru,800000.0,"CSS, Bootstrap, Git, JavaScript, SCSS",3.7,Software Engineer
+deltatre,Front-End WebTV Software Engineer (Senior),India,0.0,"React, Git, JavaScript, ECMAScript, Redux",3.1,Software Engineer
+Electronic Arts,Software Engineer II,India,0.0,"React, J2EE, Java, Microservices, AWS",4.1,Software Engineer
+NICE,Senior Software Engineer (Snowflake),Pune,800000.0,"Data modeling, Kubernetes, Java, Databases, SQL",4.0,Software Engineer
+PepsiCo,Deputy Director Software Engineering,Hyderābād,550000.0,"Azure, React, Kubernetes, Java, Microservices",3.9,Software Engineer
+DAZN,Lead Software Development,Hyderābād,750000.0,"Azure, Gradle, JUnit, Waterfall, Data structures",2.9,Software Engineer
+SITA Switzerland Sarl,Senior Software Developer,Delhi,0.0,"Kubernetes, Microsoft SQL Server, Java, Microservices, Analysis skills",3.7,Software Engineer
+NICE Systems,Specialist Software Engineer,Pune,750000.0,"Software troubleshooting, Java, Microservices, SQL, AWS",4.3,Software Engineer
+ADCI - Tamil Nadu - A83,"Software Development Engineer, Appstore, Appstore",Chennai,600000.0,"React, Distributed systems, Software development, React Native, SDLC",3.6,Software Engineer
+Epsilon,Manager Software Engineering,Bengaluru,800000.0,"Oracle, Management, Bootstrap, Web development, C#",3.9,Software Engineer
+NCR JOB CONSULTANT,"IT Software Engineer(erp ,billing)",Gurgaon,210000.0,".NET, Java, SQL, JavaScript, IT support",,Software Engineer
+NICE,Software Engineer (Golang),Pune,800000.0,"CI/CD, Go, Kubernetes, Big data, Git",4.0,Software Engineer
+ADSIPL - Karnataka,"Software Development Engineer, Amazon Grocery",Bengaluru,600000.0,"CSS, Java, AWS, JavaScript, Software development",3.6,Software Engineer
+NPS Prism Asia Private Limited,Manager Software Engineering,Gurgaon,3000000.0,"Azure, Management, React, Kubernetes, C#",,Software Engineer
+ADCI - Tamil Nadu,"Software Development Engineer, Appstore",Chennai,0.0,"Java, Databases, Distributed systems, Software development, SDLC",3.6,Software Engineer
+DAZN,"Senior Software Engineer, IN",Hyderābād,800000.0,"Go, Node.js, React, Git, AWS",2.9,Software Engineer
+Valocity,"Software Engineer (New Delhi, NCR)",Haryana,0.0,"Azure, MVC, CSS, Software troubleshooting, Kubernetes",4.4,Software Engineer
+NICE Systems,Senior Software Engineer (Salesforce Developer),Pune,650000.0,"CI/CD, Software troubleshooting, Salesforce, Application development, SOAP",4.3,Software Engineer
+SITA Switzerland Sarl,Lead Software Developer,Delhi,0.0,"Elasticsearch, CSS, Kubernetes, MongoDB, Java",3.7,Software Engineer
+Simplify360 (A Nextiva Company),Software Engineer (React),Chennai,4200000.0,"CSS, React, Kubernetes, DevOps, System design",4.5,Software Engineer
+NICE,Software Engineer (Java + Kafka),Pune,800000.0,"CI/CD, Kubernetes, Big data, Git, Java",4.0,Software Engineer
+NICE Systems,Senior Software Engineer,Pune,750000.0,"Azure, Oracle, DevOps, .NET Core, Visual Studio",4.3,Software Engineer
+Maxwell GeoSystems,Software Engineer,Cochin,450000.0,"MVC, CSS, NoSQL, Git, Databases",3.9,Software Engineer
+YouTube,"Software Engineer, YouTube",Bengaluru,792000.0,"System design, Java, C++, C, JavaScript",4.4,Software Engineer
+WE Connect (Wired Entertainment),Software Engineer,Remote,900000.0,".NET, Java, SQL, JavaScript, AI",,Software Engineer
+Angular Minds,Fresher Software Engineer,Pune,1800000.0,"Computer science, Node.js, CSS, Software troubleshooting, React",3.9,Software Engineer
+Insight Consultants,Junior Software Engineer,Bengaluru,500000.0,"C#, Test automation, Microsoft SQL Server, .NET, Java",4.1,Software Engineer
+Google,"Software Engineer, Corp Eng",Hyderābād,0.0,"System design, Java, C++, C, JavaScript",4.3,Software Engineer
+Google,"Software Engineer III, Google Assistant",Bengaluru,0.0,"Data structures, System design, Distributed systems, Natural language processing, Software development",4.3,Software Engineer
+PRODAT IT SOLUTIONS (INDIA) PVT. LTD,Associate Software Engineer,India,3600000.0,"TensorFlow, React, Git, Java, Microservices",3.6,Software Engineer
+PhonePe,Software Engineer : Apps,Sān,0.0,"iOS, Machine learning, SDKs",3.9,Software Engineer
+Unstop,Software Development Engineer,Delhi,700000.0,"Node.js, Relational databases, NoSQL, PHP, OOP",3.2,Software Engineer
+PayU,Software Engineer,Pune,650000.0,"MVC, Data structures, NoSQL, Java, Databases",3.7,Software Engineer
+Google,"Software Engineer, Geo",Bengaluru,0.0,"System design, Java, C++, C, JavaScript",4.3,Software Engineer
+American Express Global Business Travel,Software Development Engineer II,Gurgaon,500000.0,"CSS, React, Multilingual, Load balancing, Data structures",4.1,Software Engineer
+Magnet Brains Software Technology Pvt. Ltd DBA Pabbly,Associate Software Developer,Bhopal,500000.0,"Git, AWS, Quality assurance, GitHub, APIs",,Software Engineer
+BP Energy,Software Engineer,Pune,600000.0,"Azure, Data structures, iOS, Business analysis, NoSQL",3.9,Software Engineer
+Namaste Credit,Software Engineer,India,950000.0,"AJAX, Azure, MVC, Node.js, CSS",,Software Engineer
+Qualys,Software Engineer,Pune,600000.0,"Elasticsearch, Azure, Cassandra, Kubernetes, Relational databases",3.7,Software Engineer
+Google,"Software Engineer III, Infrastructure, Geo",Bengaluru,0.0,"Data structures, System design, Distributed systems, Natural language processing, Software development",4.3,Software Engineer
+Clearwater Analytics,Software Development Engineer,Noida,850000.0,"TensorFlow, Image processing, Machine learning, Distributed systems, Deep learning",3.5,Software Engineer
+Microsoft,Software Engineer II,Hyderābād,4200000.0,"Azure, Machine learning, Software development",4.2,Software Engineer
+Google,"Software Engineer III, AI/ML",Bengaluru,0.0,"Data structures, System design, Distributed systems, Natural language processing, Software development",4.3,Software Engineer
+Visa,Software Engineer - AI/ML,Bengaluru,800000.0,"Azure, Rust, Go, Cloud architecture, Ansible",3.9,Software Engineer
+"Deltek, Inc.",Sr Software Engineer,Remote,0.0,"CI/CD, Node.js, Test-driven development, Java, OOP",4.5,Software Engineer
+Connecting codes,Software Engineer,Remote,900000.0,"TensorFlow, Azure, Node.js, React, .NET",,Software Engineer
+Michelin,Software Engineer,Pune,800000.0,"Power BI, C#, .NET, Java, Analysis skills",4.0,Software Engineer
+Zelis,Software Engineer- E&IE APIM,Hyderābād,0.0,"Jira, CI/CD, Azure, DevOps, Visual Studio",3.8,Software Engineer
+"R1 RCM, Inc.",Software Engineer,Noida,0.0,"Data modeling, Azure, Microsoft SQL Server, NoSQL, SQL",3.5,Software Engineer
+Zeta Global,Python Software Engineer,Hyderābād,600000.0,"Software troubleshooting, Digital marketing, Scalability, Agile, Integration testing",3.5,Software Engineer
+Cargill,Software Engineer,Bengaluru,800000.0,"CI/CD, Software troubleshooting, Supply chain, PaaS, Databases",4.0,Software Engineer
+BestoSys Solutions,Software Engineer,India,600000.0,"Rust, Go, Relational databases, Software deployment, Data structures",,Software Engineer
+Phenomenal HR Pvt Ltd,Junior Software Engineer,Cochin,800000.0,"Elasticsearch, Go, C#, Test-driven development, English",,Software Engineer
+Atlassian,Software Engineer,Bengaluru,500000.0,"Jira, Cloud infrastructure, Azure, Oracle, Go",3.7,Software Engineer
+BeamStacks,Associate Software Engineer C++ - MAY2019,Delhi,0.0,"Data structures, Git, English, Java, OOP",3.9,Software Engineer
+Google,"Software Engineer III, Technical Infrastructure",Bengaluru,0.0,"Data structures, System design, Distributed systems, Natural language processing, Software development",4.3,Software Engineer
+OptiSol Business Solutions Pvt Ltd,Software Engineer Intern,India,1800000.0,"Node.js, CSS, React, Web development, Java",3.9,Software Engineer
+Adobe,Software Development Engineer 3,Noida,600000.0,"CI/CD, AWS, Docker, Continuous integration, Software development",4.2,Software Engineer
+Workday,Software Development Engineer,Chennai,500000.0,"Jira, Kubernetes, NoSQL, Git, English",4.1,Software Engineer
+Greenfield Software,Software Developer,Remote,0.0,"XML, Mobile applications, J2EE, Java, Application development",3.2,Software Engineer
+Leuwint technologies,Jr. Software Developer,India,0.0,"CSS, Web development, Mobile applications, iOS, Git",,Software Engineer
+Leuwint technologies,Software Developer,India,0.0,"CSS, Web development, Mobile applications, iOS, Git",,Software Engineer
+The Anderson Diagnostics Services P Ltd,Jr. Software Developer,India,270000.0,"Node.js, Bootstrap, React, .NET Core, .NET",,Software Engineer
+Oracle,Software Developer,Bengaluru,700000.0,"Oracle, Enterprise Software, Mobile applications, Data structures, C#",3.8,Software Engineer
+Iwish Technologies,Software Developer Intern,Gwalior,0.0,"Node.js, CSS, Mobile applications, .NET, Java",,Software Engineer
+Mastercard,Software Engineer I,Pune,800000.0,"iOS, Encryption, Information security, SDKs, Agile",4.2,Software Engineer
+GAMURS Group,Software Engineer (Web),Remote,2500000.0,"Computer science, CSS, React, WordPress, Git",3.4,Software Engineer
+Providence Global Center,Software Engineer 2,Hyderābād,450000.0,,3.5,Software Engineer
+R. Wadiwala Security Pvt Ltd,Software Engineer,India,2200000.0,"C++, C, Network protocols, Software development, Python",,Software Engineer
+"R1 RCM, Inc.",Staff Software Engineer,Noida,600000.0,"Jira, CI/CD, C#, Selenium, Git",3.5,Software Engineer
+PayPal,Software Engineer 3,Bengaluru,600000.0,"Java, OOP, Communication skills",3.7,Software Engineer
+Microsoft,Software Engineer,Hyderābād,4200000.0,"Azure, Rust, Go, Kubernetes, C#",4.2,Software Engineer
+Quick Heal,Software Engineer - Pune,Pune,600000.0,"Operating systems, Windows, Java, C++, C",3.8,Software Engineer
+Marmon Technologies India Private Limited,Software Engineer,Madivala,650000.0,Supervising experience,4.0,Software Engineer
+NatWest,Software Engineer,Chennai,750000.0,"Cloud infrastructure, Software deployment, DevOps, Java, Microservices",4.1,Software Engineer
+RedBus,Software Engineer,Bengaluru,0.0,"Go, Node.js, React, NoSQL, Git",4.5,Software Engineer
+Flexport,"Software Development Engineer I, SMB",Bengaluru,500000.0,"Node.js, React, Logistics, Git, Java",3.1,Software Engineer
+Tesco Technology,Software Development Engineer II,Bengaluru,450000.0,"Node.js, React, Java, OOP, Continuous integration",3.8,Software Engineer
+Larsen & Toubro,Software Engineer,Chennai,450000.0,"Node.js, CSS, React, C#, Adobe Illustrator",3.4,Software Engineer
+DHL,Software Engineer – Support Operator (m/f/x),Bengaluru,600000.0,"Kubernetes, IT service management, Microsoft SQL Server, Windows, Microsoft Office",3.9,Software Engineer
+PayPal,"MTS 1, Software Engineer",Bengaluru,600000.0,"Go, Java, C++, C, Distributed systems",3.7,Software Engineer
+Blackhawk Network,Software Engineer,Bengaluru,500000.0,"Oracle, DB2, Struts, J2EE, Java",3.6,Software Engineer
+Ajaysai Solutions Pvt Ltd,System Software Engineer,Remote,0.0,"Go, Computer networking, MacOS, Linux, Python",,Software Engineer
+Accenture,Software Development Engineer,Gurgaon,0.0,"OOP, Communication skills",3.8,Software Engineer
+Broadridge,Software Engineer-Mainframe | Bangalore,Bengaluru,700000.0,"DB2, CICS, Analysis skills, COBOL, Mainframe development",3.8,Software Engineer
+Assessli,Software Development Engineer II,India,120500.0,"Jira, CI/CD, Cloud infrastructure, Node.js, DevOps",,Software Engineer
+Oracle,Software Development Manager,India,0.0,"Cloud architecture, Kubernetes",3.8,Software Engineer
+CSG,Manager - Software Development,Remote,0.0,"Jira, CI/CD, Salesforce, English, Research",4.1,Software Engineer
+JPMorganChase,Manager of Software Engineering,Hyderābād,4800000.0,"CI/CD, Computer science, Java, AWS, Continuous integration",4.0,Software Engineer
+Autolligent Technologies,Junior Software Developer,Bengaluru,0.0,,,Software Engineer
+IRC Engineering Services Pvt Ltd,Fresher Software Engineer Robotics,India,0.0,"Mechanical engineering, Node.js, React, Machine learning, JavaScript",,Software Engineer
+LeapMile Logistics Private Limited,Python Software Engineer,India,500000.0,"Research, APIs, Test cases, Robotics, Communication skills",,Software Engineer
+QuEST Global,Software Engineer - JavaScript,Bengaluru,500000.0,"CSS, English, JavaScript, HTML",3.7,Software Engineer
+Niqo Robotics,Software Engineer Intern,Bengaluru,294000.0,"Statistics, Image processing, Data structures, Git, C++",,Software Engineer
+Accenture,Software Development Engineer,Bengaluru,0.0,"Software troubleshooting, C#, Git, .NET, Java",3.8,Software Engineer
+IRC Engineering Services Pvt Ltd,Software Engineer Robotics,India,0.0,"Mechanical engineering, Node.js, React, Machine learning, JavaScript",,Software Engineer
+Helius Technologies,Software Engineer (Remote),India,0.0,"CI/CD, TCP, Azure, Software troubleshooting, Ansible",4.2,Software Engineer
+Career Soft Solutions,Robotics Software Engineer - Autonomy,Chennai,3000000.0,"TensorFlow, ADAS, MATLAB, Image processing, Computer vision",4.4,Software Engineer
+PetroBot Technologies Pvt Ltd,Electronics Software Engineer,Jaipur,0.0,"Operating systems, C++, C, Robotics, Python",,Software Engineer
+Orangewood Labs,Robotics Software Engineer,Noida,600000.0,"Java, C++, C, Embedded software, Software development",3.2,Software Engineer
+AVPL INTERNATIONAL,Drone Software Engineer,Gurgaon,800000.0,"Image processing, Software troubleshooting, Computer vision, Java, C++",,Software Engineer
+Nagarro,Staff Engineer (Robotics Software Engineering),Gurgaon,550000.0,"TensorFlow, C++, C, Embedded software, Software development",3.9,Software Engineer
+Zebra Technologies,Software Engineer II,Bengaluru,800000.0,"AWS, JavaScript, Linux, Python, IaaS",3.9,Software Engineer
+Amgen,Specialist Software Engineer - E2E Reconciliation,Hyderābād,700000.0,"Cognos, SAFe, Data modeling, Oracle, Tableau",4.1,Software Engineer
+"R1 RCM, Inc.",Software Engineer,Noida,600000.0,"Jira, TensorFlow, Visual Basic, C#, R",3.5,Software Engineer
+motion works robotics private limited,Software Developer open cv,Gurgaon,444000.0,"LabView, MATLAB, Image processing, Software troubleshooting, C++",,Software Engineer
+QuEST Global,Software Engineer - C#,Bengaluru,600000.0,"CI/CD, Azure, XML, C#, .NET",3.7,Software Engineer
+Unbox Robotics,Software Development Engineer - Robotics,Pune,550000.0,"CI/CD, TCP, Image processing, Computer vision, Data structures",,Software Engineer
+Capgemini,"Associate Software Engineer | 2 to 4 Years| Pune, Mumbai,Chennai",Calcutta,450000.0,"Software deployment, SQL, REST, SharePoint, APIs",3.8,Software Engineer
+Maersk,Software Engineer - SAC Planning,Bengaluru,900000.0,"Financial planning, Azure, Waterfall, SAP HANA, Big data",4.0,Software Engineer
+Amgen,Specialist Software Engineer,Hyderābād,700000.0,"Cognos, SAFe, Data modeling, Oracle, Tableau",4.1,Software Engineer
+QuEST Global,Software Engineer,Bengaluru,600000.0,"CI/CD, Azure, XML, C#, .NET",3.7,Software Engineer
+Soliton,Lead Software Engineer - Python for AI,Bengaluru,1000000.0,"CI/CD, Cloud infrastructure, Azure, DevOps, Microservices",,Software Engineer
+Medtronic,Senior Software Engineer,India,0.0,"Signal processing, FMEA, Unit testing",3.8,Software Engineer
+Intercax,Java/Scala Software Engineer,Remote,0.0,"CI/CD, Mechanical engineering, C#, Git, .NET",5.0,Software Engineer
+Ocrolus,Senior Software Engineer,Remote,0.0,"CI/CD, Authentication, Cloud infrastructure, Kubernetes, Relational databases",3.5,Software Engineer
+QuEST Global,Software Engineer - C#/WPF,Kerala,0.0,"C#, English, Windows, .NET, OOP",3.7,Software Engineer
+Yethi Consulting,Performance Testing Software Engineer_Bangalore/Chennai,Chennai,4800000.0,"LoadRunner, Test automation, Performance testing, Quality assurance, New Relic",3.6,Software Engineer
+Kyndryl,Software Engineering - Power Platform Developer,Bengaluru,500000.0,"Microsoft Word, CI/CD, Power BI, Microsoft Excel, Azure",3.9,Software Engineer
+The ePlane Company,Ground Control Station (GCS) Development Software Engineer - Products,Chennai,650000.0,"Analysis skills, C++, C, System testing, Software development",4.1,Software Engineer
+Intuitive Surgical,Software Development Engineer,Bengaluru,700000.0,"Software troubleshooting, React, Application development, Docker, JavaScript",4.4,Software Engineer
+AMC Bridge,Full-Stack Software Development Engineer,India,0.0,"Mechanical engineering, Node.js, React, Data structures, C#",4.4,Software Engineer
+ideaForge,Engineer-II (Software Engineer),Navi Mumbai,650000.0,"Jira, TCP, C#, Git, .NET",3.8,Software Engineer
+Consilium Software,Software Developer,Delhi,0.0,"Statistics, Data modeling, Data structures, R, Information security",4.5,Software Engineer
+Svaya Robotics,Lead Software Engineer – Infrastructure,Hyderābād,550000.0,"Firmware, Git, OOP, C++, C",4.0,Software Engineer
+NVIDIA,Senior System Software Engineer - Autonomous Vehicles,Pune,750000.0,"Image processing, Computer vision, Analysis skills, C++, C",4.5,Software Engineer
+Medtronic,Software Engineer II - SR,India,0.0,"MATLAB, English, Build automation, OOP, C++",3.8,Software Engineer
+ADCI - Karnataka,"Software Development Engineer III, LMDT- DTO",Bengaluru,600000.0,"Mentoring, Software development, SDLC, Design patterns",3.6,Software Engineer
+Konrad GmbH,Software Engineer - LabVIEW,India,0.0,"Jira, LabView, ADAS, Azure, Computer literacy",3.6,Software Engineer
+Soliton Technologies,Lead Software Engineer - Python for AI,Bengaluru,0.0,"CI/CD, Cloud infrastructure, Azure, DevOps, Microservices",,Software Engineer
+NVIDIA,"System Software Engineer, Conversational AI",Bengaluru,550000.0,"CI/CD, Node.js, Kubernetes, Git, Databases",4.5,Software Engineer
+NVIDIA,Senior System Software Engineer,Bengaluru,950000.0,Software development,4.5,Software Engineer
+NVIDIA,Senior Software Engineer - Conversational AI,Pune,650000.0,"CI/CD, Kubernetes, Software deployment, Git, Microservices",4.5,Software Engineer
+Konrad GmbH,Senior Software Engineer - LabVIEW,India,0.0,"Jira, LabView, ADAS, Azure, FPGA",3.6,Software Engineer
+QuEST Global,Software Engineer - C++,Thiruvananthapuram,650000.0,"C#, English, Windows, .NET, OOP",3.7,Software Engineer
+Tesseract Imaging,Senior Software Developer (ROS) - Robotics,Maharashtra,0.0,"Operating systems, Software troubleshooting, Internet of things, Firmware, Git",4.2,Software Engineer
+"R1 RCM, Inc.",Staff Software Engineer,Noida,600000.0,"TensorFlow, Power BI, Image processing, Azure, NoSQL",3.5,Software Engineer
+Yamaha Motor Solutions India Pvt.Ltd.,Technical Lead/Senior Software Engineer – Robotic Solutions,Farīdābād,850000.0,"C++, C, Robot programming, Robotics, Python",4.1,Software Engineer
+ADCI - Karnataka,"Software Developer - Kernel Engineer, OPD Hardware",Bengaluru,600000.0,"Image processing, Software deployment, OS Kernels, Machine learning, Software development",3.6,Software Engineer
+Citi,Software Development Engineer in Test (SDET)– AVP-C12 - PUNE,Pune,650000.0,"MVC, CSS, JUnit, Cucumber, Test automation",3.7,Software Engineer
+NVIDIA,Senior System Software Engineer - GPU Virtualization,Pune,750000.0,"System architecture, Windows, OS Kernels, Analysis skills, C++",4.5,Software Engineer
+Flipkart,Software Development Engineer IV,Bengaluru,4200000.0,"CI/CD, Tomcat, C#, Test-driven development, .NET",3.8,Software Engineer
+ArtPark - I-Hub for Robotics and Autonomous Systems Innovation Foundation,Sr. Software Development Engineer,Bengaluru,0.0,"Azure, Oracle, Go, Cassandra, NoSQL",,Software Engineer
+QuEST Global,Senior Software Engineer - C++,Thiruvananthapuram,650000.0,"C#, English, Windows, .NET, OOP",3.7,Software Engineer
+Capgemini,"Lead Software Engineer | 6 to 10 Years| Pune, Mumbai,Chennai",Pune,550000.0,"Software deployment, Research, Administrative experience, SQL, REST",3.8,Software Engineer
+Shipsy,Senior Software Engineer,Gurgaon,450000.0,"Web design, Node.js, React, Big data, Git",4.2,Software Engineer
+Amgen,Senior Manager Software Development Engineering – Safety ART – Tech Enablement Team,Hyderābād,700000.0,"Cognos, Power BI, SAFe, Azure, Oracle",4.1,Software Engineer
+QuEST Global,Senior Software Engineer - C#/WPF,Kerala,0.0,"C#, English, Windows, .NET, OOP",3.7,Software Engineer
+Valid8 India,xG Wireless Software Engineer 4G/5G/6G,India,800000.0,"Computer science, Data structures, 5G, Git, Build automation",,Software Engineer
+Microsoft,Software Engineer II,Hyderābād,0.0,"C#, .NET, Java, C++, C",4.2,Software Engineer
+PhonePe,Software Engineer,Pune,650000.0,"Elasticsearch, NoSQL, Test-driven development, Java, Application development",3.9,Software Engineer
+Microsoft,Software Engineering,Hyderābād,4200000.0,"Azure, Go, Kubernetes, C++, Docker",4.2,Software Engineer
+Jaarvis Technologies,Software Engineer,Remote,250000.0,"CSS, Software troubleshooting, Relational databases, Git, Databases",,Software Engineer
+GS TECKNOSERVE,Software Engineer,India,0.0,"CSS, PHP, OOP, JavaScript, APIs",,Software Engineer
+NatWest,"Software Engineer, VP",Bengaluru,750000.0,"Software deployment, Information security, Virtualization, Agile, Communication skills",4.1,Software Engineer
+Boston Consulting Group,Global IT Software Engineer Senior Specialist,Gurgaon,600000.0,"CI/CD, Node.js, XML, Git, J2EE",4.3,Software Engineer
+Akamai,Software Development Engineer in Test II - Remote,Remote,0.0,"Software troubleshooting, Test automation, Distributed systems, Continuous integration, Computer networking",4.6,Software Engineer
+Optum,Software Engineer - Splunk,Hyderābād,900000.0,"Analysis skills, JavaScript, Splunk, Scripting, ServiceNow",3.5,Software Engineer
+Brady Technologies Limited,Software Engineer,Bengaluru,650000.0,".NET Core, C#, Microsoft SQL Server, Git, .NET",3.7,Software Engineer
+American Express Global Business Travel,"Senior Manager, Software Development Engineer",Gurgaon,500000.0,"Cloud infrastructure, Management, Java, Team management, Distributed systems",4.1,Software Engineer
+Avaloq,Software Engineer (Security Framework),Pune,0.0,"Oracle, Kubernetes, Java, SQL, Analysis skills",3.3,Software Engineer
+Ecolab,Software Engineer - Security,Bengaluru,750000.0,"IT, Time management",3.7,Software Engineer
+Ema,Software Engineer,Bengaluru,550000.0,"Go, Kubernetes, Databases, Analysis skills, Docker",5.0,Software Engineer
+JPMorganChase,"Software Engineer III - Java, Kafka",Hyderābād,4800000.0,"CI/CD, Software troubleshooting, System design, Java, Application development",4.0,Software Engineer
+GE HEALTHCARE,Software Engineer,Bengaluru,700000.0,"Git, JavaScript, Continuous integration, Angular, UX",4.2,Software Engineer
+Gap Inc.,Software Engineer,Hyderābād,0.0,"CI/CD, React, DevOps, Spark, Java",3.7,Software Engineer
+Accenture,Software Development Engineer,Bengaluru,0.0,"Cloud infrastructure, Oracle, Computer networking, Cloud computing",3.8,Software Engineer
+DHL,Senior Software Engineer,Indore,550000.0,"Azure, English, Google Cloud Platform, Firewall, Software development",3.9,Software Engineer
+Hiscope Technologies,Software Engineer,Hyderābād,0.0,"CI/CD, Performance tuning, Elasticsearch, JUnit, Bootstrap",,Software Engineer
+Colruyt IT Consultancy India,Software Engineer : Webmethods,Hyderābād,650000.0,"CI/CD, Java, SOAP, Continuous integration, REST",3.9,Software Engineer
+KTH HR Consulting zone,Software Engineer – WebSphere Application Server,Remote,150000.0,"Software troubleshooting, WebSphere, J2EE, Java, Databases",,Software Engineer
+Bristol-Myers Squibb,Senior Software Engineer - GPS Data Solutions,Hyderābād,950000.0,"Cloud infrastructure, Spark, GPS, SQL, AWS",3.7,Software Engineer
+NetApp,"Senior Software Engineer (C, C++)",Bengaluru,550000.0,"Data structures, Test automation, RBAC, OS Kernels, C++",4.1,Software Engineer
+BP Energy,Staff Software Engineer,Pune,600000.0,"Azure, Go, Data structures, iOS, Business analysis",3.9,Software Engineer
+Saviynt,"Engineer I / II, Software Engineering",Bengaluru,500000.0,"JUnit, Kanban, PaaS, Git, English",3.9,Software Engineer
+BP Energy,Senior Software Engineer,Pune,600000.0,"Azure, Data structures, iOS, Business analysis, NoSQL",3.9,Software Engineer
+CME Group,Software Engineer I - India,Bengaluru,950000.0,"Accounts receivable, Customer service, Procurement, Google Cloud Platform, General ledger accounting",4.0,Software Engineer
+Mastercard,Lead Software Engineer-2,Pune,800000.0,"Computer science, Oracle, WebSphere, Tomcat, Git",4.2,Software Engineer
+Harris Computer Systems,HL7 Interface Software Engineer,Remote,0.0,"Azure, XML, IIS, Visual Studio, C#",4.0,Software Engineer
+DHL,Associate Software Engineer,Chennai,600000.0,"CI/CD, Drupal, Cloud infrastructure, Azure, Cloud architecture",3.9,Software Engineer
+Gocool Inc,Software Engineer ( MLOps),Remote,2400000.0,"TensorFlow, Big data, Spark, Databases, Microservices",4.0,Software Engineer
+Forcepoint,Software Engineer,Mumbai,600000.0,,4.0,Software Engineer
+cloudsek,Software Engineer 1 - DA Team,Bengaluru,0.0,"Encryption, Databases, Analysis skills, Machine learning, APIs",3.8,Software Engineer
+HCL Technologies,Senior Software Engineer I,Hyderābād,4800000.0,"CI/CD, Elasticsearch, TCP, Customer service, Software deployment",3.5,Software Engineer
+Egnyte,Software Engineer - Java,Remote,0.0,"Go, Spark, NoSQL, Java, Databases",4.0,Software Engineer
+Scrut Automation,"Software Development Engineer - 1, Python",Remote,0.0,"CI/CD, Azure, Go, Node.js, NoSQL",4.3,Software Engineer
+Bytestrone,Jr. Software Engineer,Cochin,200000.0,"Node.js, CSS, Software troubleshooting, React, XML",2.0,Software Engineer
+Splunk,Senior Software Engineer,Bengaluru,3800000.0,"CI/CD, System administration, Azure, Go, Kubernetes",4.0,Software Engineer
+XenonStack,Associate Software Engineer,Mohali,800000.0,"Rust, Go, Software troubleshooting, NoSQL, Java",3.4,Software Engineer
+AiDash,INTERNS: Software Development Engineer in Test,Gurgaon,0.0,"Test automation, Selenium, Git, Java, Analysis skills",3.1,Software Engineer
+Fyers securities,Software Engineer,Bengaluru,800000.0,"CI/CD, Software deployment, Mobile applications, Application development, Continuous integration",3.9,Software Engineer
+Telstra,Software Engineer,Bengaluru,750000.0,"CI/CD, Node.js, Bamboo, XML, Salesforce",3.9,Software Engineer
+Phenom People,Software Engineer,Hyderābād,600000.0,"Azure, CSS, Kubernetes, DevOps, Data structures",4.0,Software Engineer
+Granicus Inc.,Software Engineer,Bengaluru,500000.0,"Node.js, React, Software deployment, NoSQL, Information security",3.3,Software Engineer
+Amadeus,Software Development Engineer 2,Bengaluru,700000.0,,4.1,Software Engineer
+Manhattan Associates,Software Engineer,Bengaluru,850000.0,"J2EE, Java, SQL, Analysis skills, C++",3.8,Software Engineer
+Broadcom,Software Engineer,Pune,700000.0,"TCP, Go, Java, OS Kernels, Firewall",3.2,Software Engineer
+Amgen,Software Engineer,Hyderābād,700000.0,"Jira, CI/CD, Azure, React, DevOps",4.1,Software Engineer
+Amgen,Specialist Software Engineer,Hyderābād,700000.0,"CI/CD, SAFe, Node.js, .NET, AWS",4.1,Software Engineer
+Hewlett Packard Enterprise,Software Engineer,Bengaluru,600000.0,"TCP, DevOps, Distributed systems, UX, Design thinking",4.2,Software Engineer
+APPNEURAL Pvt. Ltd.,Software Engineer,Pune,2500000.0,"Oracle, Microsoft SQL Server, .NET, Java, Analysis skills",,Software Engineer
+IDCUBE Identification Systems,Software engineer,Noida,750000.0,Software development,3.9,Software Engineer
+Criteria Corp,Senior Software Engineer (Remote),Indore,3350000.0,"CI/CD, Node.js, React, Web development, Software deployment",4.0,Software Engineer
+Microsoft,Software Engineer,Bengaluru,600000.0,"TCP, iOS, Objective-C, Java, Software development",4.2,Software Engineer
+Apple,Software Development Engineer in Test,Hyderābād,0.0,"TestNG, Oracle, CSS, JUnit, React",4.1,Software Engineer
+Barclays,Software Engineer Permissions,Pune,500000.0,"React, Data structures, Java, Microservices, PostgreSQL",3.9,Software Engineer
+CYMBELINE INNOVATION PVT. LTD,Software Engineer II,India,750000.0,"CI/CD, Node.js, Internet of things, Software deployment, MongoDB",,Software Engineer
+Uber,Software Engineer II,Hyderābād,0.0,"Go, React, Software development, Martech, GraphQL",3.9,Software Engineer
+Akamai,Software Development Engineer in Test II - Remote,Remote,0.0,"TCP, Test automation, Quality assurance, SSL, DNS",4.6,Software Engineer
+DocuSign,Software Engineer,Bengaluru,600000.0,"Azure, Node.js, React, Kubernetes, Docusign",3.6,Software Engineer
+Indegene,Software Engineer,Bengaluru,700000.0,"Microsoft Excel, CSS, Google Tag Manager, Omniture, Transportation management system",3.5,Software Engineer
+Oracle,Software Developer,Bengaluru,700000.0,"CI/CD, Oracle, Kubernetes, Cooking, Java",3.8,Software Engineer
+CYMBELINE INNOVATION PVT. LTD,Software Test & Maintenance Engineer,Vithalpur,350000.0,"Software deployment, C#, Git, Technical support, .NET",,Software Engineer
+Microsoft,Senior Software Engineer,Hyderābād,4200000.0,"Power BI, Azure, Business intelligence, Big data, SQL",4.2,Software Engineer
+American Express Global Business Travel,"Senior Manager, Software Development Engineering",Gurgaon,500000.0,"Program management, Management, Team management, Mentoring, Recruiting",4.1,Software Engineer
+Microsoft,Software Engineering,Bengaluru,600000.0,"Azure, C#, Microsoft Office, .NET, Algorithm design",4.2,Software Engineer
+UKG,Software Engineer,Noida,500000.0,"Computer science, Git, Java, Databases, C++",3.4,Software Engineer
+S&P Global,"Engineer, Software Engineering",Gurgaon,800000.0,"Jira, Power BI, Azure, Oracle, Database development",4.1,Software Engineer
+Pinnacle Infotech,Software Development Engineer 1,Calcutta,300000.0,"Azure, CSS, Web development, Kanban, Data structures",2.9,Software Engineer
+ADCI - Karnataka,"Software Development Engineer, Amazon Pay Transaction Processing",Bengaluru,600000.0,"Java, OOP, C++, C, Distributed systems",3.6,Software Engineer
+Indegene,Lead Software Engineer,Bengaluru,700000.0,"Microsoft Excel, CSS, Google Tag Manager, Alteryx, Omniture",3.5,Software Engineer
+Procore Technologies,Senior Software Engineer,Bengaluru,600000.0,"Go, Node.js, React, Kubernetes, Web development",4.1,Software Engineer
+Harness.io,Staff Software Engineer,Bengaluru,850000.0,"CI/CD, Azure, Go, Kubernetes, NoSQL",4.0,Software Engineer
+Synopsys,"Software Engineering, Sr Engineer",Hyderābād,650000.0,"CI/CD, Ansible, DevOps, Test automation, Git",4.0,Software Engineer
+ADCI - Karnataka,Software Development Engineer,Bengaluru,600000.0,"Enterprise Software, System architecture, Software development, Scalability, SDLC",3.6,Software Engineer
+Procore,Senior Software Engineer,Bengaluru,600000.0,"Go, Node.js, React, Kubernetes, Web development",4.1,Software Engineer
+ADCI - Karnataka,"Software Development Engineer, Ad Creatives, Creative X",Bengaluru,600000.0,"AWS, Software development, SDLC, Design patterns",3.6,Software Engineer
+ADCI - Karnataka,"Software Development Engineer, UTR, Last Mile",Bengaluru,600000.0,"Node.js, Software development, SDLC, Design patterns",3.6,Software Engineer
+Okta,Staff Software Engineer,Bengaluru,1944000.0,"SSO, Cloud infrastructure, Relational databases, Software deployment, Java",3.6,Software Engineer
+Barclays,Senior Software Engineer IAM,Pune,500000.0,"CI/CD, SSO, React, Kubernetes, Ansible",3.9,Software Engineer
+Goldman Sachs,Software Engineering - Analyst/Associate - Global Banking & Markets,Bengaluru,450000.0,"Customer service, Data structures, Java, Analysis skills, C++",3.9,Software Engineer
+Harness.io,Senior Software Engineer - SSCA,Bengaluru,850000.0,"CI/CD, Azure, Go, MongoDB, Java",4.0,Software Engineer
+Simcorp,Lead Software Engineer,Noida,4147200.0,"CI/CD, C#, Lean, Talent acquisition, Git",4.1,Software Engineer
+Barclays,Senior Software Engineer Permissions,Pune,500000.0,"CI/CD, Azure, React, Kubernetes, Ansible",3.9,Software Engineer
+Apple,Senior Software Engineer- GNS Architecture,Hyderābād,0.0,"Operating systems, Go, Kubernetes, Ansible, Data structures",4.1,Software Engineer
+Motorola Solutions,Manager Software Engineering,Bengaluru,550000.0,"CI/CD, Cloud infrastructure, Microsoft Access, Cloud architecture, Kanban",4.3,Software Engineer
+Warner Bros. Discovery,Staff Software Engineer-Observability Platforms,Bengaluru,550000.0,"Cloud infrastructure, Go, Kubernetes, Microservices, AWS",3.5,Software Engineer
+Okta,Senior Software Engineer,Bengaluru,1944000.0,"Cloud infrastructure, Node.js, Software deployment, Salesforce, Git",3.6,Software Engineer
+Fidelity Investments,Lead - Software Engineering,Bengaluru,750000.0,"CI/CD, Azure, Kubernetes, DevOps, Research",4.2,Software Engineer
+Epsilon,Senior Software Engineer,Bengaluru,800000.0,"CI/CD, SSO, Cloud infrastructure, Azure, Oracle",3.9,Software Engineer
+Harness.io,Software Engineer,Bengaluru,850000.0,"CI/CD, Azure, Go, MongoDB, Java",4.0,Software Engineer
+Clarivate,"Director, Software Engineering",Karnataka,0.0,"Jira, CI/CD, Oracle, Enterprise Software, Salesforce",3.6,Software Engineer
+Ginni Systems,Software Development Engineer - 2,Gurgaon,500000.0,"CI/CD, Azure, Node.js, React, Kubernetes",4.0,Software Engineer
+Harness.io,Senior Software Engineer,Bengaluru,850000.0,"CI/CD, Azure, Go, MongoDB, Java",4.0,Software Engineer
+Encora,Senior Java Software Engineer,Ahmedabad,850000.0,"Elasticsearch, Oracle, Ant, JUnit, Tomcat",4.1,Software Engineer
+Optum,Senior Software Engineer Lead,Hyderābād,900000.0,"Network administration, CI/CD, Relational databases, DevOps, Microsoft SQL Server",3.5,Software Engineer
+Qualcomm,Software Development Engineer and Test (SDET),Hyderābād,4800000.0,"CI/CD, Azure, Internet of things, System architecture, Test automation",3.9,Software Engineer
+Okta,Senior Software Engineer in Test,Bengaluru,882000.0,"Cloud infrastructure, Azure, Go, Kubernetes, Test automation",3.6,Software Engineer
+Oracle,Senior Software Engineer,India,0.0,"CI/CD, Cloud infrastructure, Azure, Oracle, Go",3.8,Software Engineer
+ADCI - Karnataka,"Software Development Engineer, Amazon Pay",Bengaluru,600000.0,"Java, OOP, C++, C, Distributed systems",3.6,Software Engineer
+Okta,Senior Software Engineer (Workflows Operations),Bengaluru,1944000.0,"Cloud infrastructure, Node.js, Software deployment, Salesforce, Git",3.6,Software Engineer
+UKG,Sr Software Engineer,Noida,500000.0,"Jira, CI/CD, Azure, JUnit, DevOps",3.4,Software Engineer
+UKG,Mgr. Software Engineering,Pune,500000.0,"CI/CD, Succession planning, Azure, Management, DevOps",3.4,Software Engineer
+UKG,Lead Software Engineer,Noida,500000.0,"Jira, JUnit, DevOps, C#, Test automation",3.4,Software Engineer
+Indegene,Senior Software Engineer,Bengaluru,700000.0,"Microsoft Excel, CSS, Google Tag Manager, Omniture, JavaScript",3.5,Software Engineer
+Global Payments Asia-Pacific India Private Limited,Senior Software Engineer-Int Support,Pune,700000.0,"Microsoft Windows Server, Performance tuning, Kubernetes, Load balancing, DevOps",3.4,Software Engineer
+Turing.com,Software Engineer,Remote,0.0,".NET, Java, SQL, C++, C",,Software Engineer
+Boston Consulting Group,Global IT Software Engineer Manager,Gurgaon,600000.0,"Information security, Application development, SOAP, Human resources, REST",4.3,Software Engineer
+SmartWinnr,Software Engineer (Recent Graduate),Hyderābād,3000000.0,JavaScript,4.5,Software Engineer
+American Express Global Business Travel,Senior Software Development Engineer,Gurgaon,500000.0,"CI/CD, JUnit, React, Kubernetes, Cucumber",4.1,Software Engineer
+Infoicon Technologies,SOFTWARE DEVELOPER,Noida,850000.0,"Java, PHP, C++, C, JavaScript",4.3,Software Engineer
+Capgemini Engineering,Software Engineer,Pune,500000.0,"Research, Administrative experience, Research & development, Communication skills",3.5,Software Engineer
+Neoicon Solution,Software Engineer,Remote,780000.0,".NET, Java, SQL, JavaScript",,Software Engineer
+American Express Global Business Travel,Software Development Engineer I,Gurgaon,500000.0,"Cloud infrastructure, Node.js, React, Software deployment, Java",4.1,Software Engineer
+Propel Technology Group,Fresher (2025 Batch) | Software Developer,Chennai,500000.0,"Data structures, C#, .NET, Java, Databases",4.4,Software Engineer
+Optum,Software Engineer,Hyderābād,900000.0,"Azure, Data analysis skills, SQL, Terraform, Python",3.5,Software Engineer
+WatNx Consulting,SOFTWARE ENGINEERS,Bengaluru,500000.0,"CSS, Java, PHP, Analysis skills, JavaScript",,Software Engineer
+Virim Infotech,Junior Software Engineer I,Indore,4800000.0,"Analysis skills, Software development",4.2,Software Engineer
+Everestek,Software Engineer- Fresher,Mumbai,550000.0,"Oracle, Node.js, CSS, React, Java",4.2,Software Engineer
+Splunk,Software Engineer,Hyderābād,1750000.0,"Backbone.js, Azure, React, Relational databases, Test automation",4.0,Software Engineer
+Notetech Software,Associate Software Engineer (Fresher),Kerala,0.0,"ASP.NET, MVC, C#, .NET, Communication skills",4.4,Software Engineer
+Synersoft Technologies,Software Engineer - Java Platform,Remote,0.0,"Java, OOP, SDLC",4.2,Software Engineer
+Oracle,Software Developer,India,0.0,Software troubleshooting,3.8,Software Engineer
+Open Text Corporation,Software Engineer,Hyderābād,850000.0,,3.4,Software Engineer
+Insightant Technology Solutions,Software Engineer,Pune,650000.0,,,Software Engineer
+Synergy Group Company,Intern - Software Development [Fresher],Bengaluru,0.0,Software development,2.9,Software Engineer
+Jobizza multiple service,Software Engineer,Remote,2400000.0,"ASP.NET, MVC, CSS, .NET Core, Microsoft SQL Server",,Software Engineer
+Inotri Media Tech Solution Pvt Ltd,Software Engineer,Remote,252000.0,".NET, Java, SQL, JavaScript",,Software Engineer
+"R1 RCM, Inc.",A3-Software Engineer_IDN Software,Noida,600000.0,"Jira, CI/CD, C#, Selenium, Git",3.5,Software Engineer
+Publicis Sapient,Associate Software Development Engineer 1,Haryāna,800000.0,"CI/CD, ASP.NET, MVC, Gradle, Node.js",3.6,Software Engineer
+Accenture,Software Development Engineer,Hyderābād,0.0,"ASP.NET, MVC, CSS, Software troubleshooting, Relational databases",3.8,Software Engineer
+NextBridge Solutions,Associate Software Engineer,Pune,650000.0,"ASP.NET, Oracle, Node.js, Web development, XML",2.8,Software Engineer
+NCR Atleos,Junior Software Engineer,Hyderābād,700000.0,"C#, .NET, SQL, C++, C",3.4,Software Engineer
+Hotel Simsan,Software Development Engineer,Chennai,750000.0,"Multilingual, .NET, Java, Tamil",,Software Engineer
+Altir,Software Engineer -Java,Hyderābād,0.0,"Gradle, Data structures, NoSQL, MongoDB, Java",5.0,Software Engineer
+intellisourcetech,Junior Software Developer,Pune,450000.0,"Jira, ASP.NET, Azure, MVC, DevOps",,Software Engineer
+Hecryes Technologies India Private Limited,Software Engineer for Fresher,Salem,198000.0,"C#, .NET, Java, PHP, C++",,Software Engineer
+Wesucceed Solutions,Junior Software Engineer,India,450000.0,"ASP.NET, Computer science, CSS, .NET Core, Data structures",,Software Engineer
+Oracle,Software Engineer,Hyderābād,500000.0,"Oracle, CSS, Software troubleshooting, NetSuite, Selenium",3.8,Software Engineer
+Exotel Techcom Pvt Ltd,Software Engineer -1 (Gen -AI),Bengaluru,600000.0,"Computer science, Elasticsearch, Go, Node.js, DevOps",3.3,Software Engineer
+The Scalers,Junior Software Development Engineer,Bengaluru,4200000.0,"Data modeling, Data structures, .NET, SQL, JavaScript",3.8,Software Engineer
+Crum & Forster,Associate Software Developer,Bengaluru,450000.0,"Java, Application development, JavaScript",4.3,Software Engineer
+WAB IT SOFTWARE PVT.LTD,Associate Software Engineer,India,350000.0,"Quality control, QA/QC, Software testing, SDLC",,Software Engineer
+MOLECULAR CONNECTIONS,Junior Software Engineer,Bengaluru,4200000.0,"MVC, XML, Relational databases, J2EE, Java",3.7,Software Engineer
+Zettaone Technologies,Junior Hardware / Software Engineer,Bengaluru,750000.0,"Schematics, ARM",4.1,Software Engineer
+Barclays,Software Engineer,Pune,500000.0,"Jira, Ant, Kanban, Git, Java",3.9,Software Engineer
+Neologix Software Solutions,Software Engineer Fresher,Thiruvananthapuram,650000.0,"CSS, React, XML, C#, Microsoft SQL Server",3.0,Software Engineer
+Pi Tech Solutions,Junior Software Engineer,Pune,500000.0,,4.6,Software Engineer
+DHL,Software Engineer,Indore,550000.0,"Azure, CSS, React, WebSphere, Git",3.9,Software Engineer
+Tech Dimensions,Associate Software Development Engineer (ASDE),Hyderābād,550000.0,"ASP.NET, Computer science, Operating systems, Data structures, C#",,Software Engineer
+DAZN,"Associate Software Engineer, IN",Hyderābād,800000.0,Agile,2.9,Software Engineer
+Verisk,Software Engineer II (C++),Hyderābād,650000.0,"C++, C",3.9,Software Engineer
+BridgeLabz Solutions LLP,Junior Software Engineer,Bengaluru,450000.0,"Management, .NET, Java, AI, Python",,Software Engineer
+NetApp,Software Engineer,Bengaluru,550000.0,"Jira, NFS, C++, Electrical experience, C",4.1,Software Engineer
+Boston Consulting Group,Global IT Software Engineer Senior Specialist,Gurgaon,600000.0,"Jira, CI/CD, Ant, CSS, Kanban",4.3,Software Engineer
+MSMAVAS PRIVATE LIMITED,Associate Software Engineer,Bengaluru,350000.0,"Learning technology, .NET, Java, SQL, JavaScript",,Software Engineer
+Optum,Software Engineer - ORMB,Hyderābād,0.0,"Oracle, XML, Java, SOAP, SQL",3.5,Software Engineer
+Sysvine Technologies,Software Engineer,Remote,1250000.0,"Application development, SQL, Software development, Systems analysis, HTML",3.9,Software Engineer
+Acheron Software Consultancy,Associate Software Engineer -Coimbatore,Coimbatore,500000.0,"CSS, Software troubleshooting, React, Git, Java",3.8,Software Engineer
+Etasens Technologies,Software Engineer Intern,Chandigarh,0.0,"React, Java, REST, Angular, APIs",3.0,Software Engineer
+ADCI HYD 13 SEZ - H84,Software Development Engineer I,Hyderābād,500000.0,Software development,3.6,Software Engineer
+Tantransh Solutions,Entry-Level Software Developer,India,0.0,"Java, C++, C, Communication skills, Python",3.4,Software Engineer
+Redxam,Senior Node Software Engineer,Remote,1250000.0,"Node.js, APIs",,Software Engineer
+Experian,Software Engineer Associate,Hyderābād,650000.0,"Oracle, JUnit, NoSQL, Git, J2EE",4.2,Software Engineer
+rccenterprises,Software Testing Engineer,India,240000.0,Software testing,,Software Engineer
+Icon Software Technologies,Junior Software Engineer,Ludhiana,0.0,"C#, .NET, C++, C",,Software Engineer
+Yatnam,Software Engineer (Fresher),Cochin,3600000.0,"MVC, OOP, Communication skills",4.0,Software Engineer
+Amgen,Software Engineer,Hyderābād,700000.0,"CI/CD, Azure, Git, English, AWS",4.1,Software Engineer
+Interface Technologies,Software Engineer,Pune,4800000.0,"XML, Struts, Java, SQL, JavaScript",3.6,Software Engineer
+Fiorano,Software Engineer,Bengaluru,800000.0,"Java, Analysis skills, Multithreading, Communication skills",3.1,Software Engineer
+DataFlair Web Services Pvt Ltd,Software Engineer,Indore,550000.0,"Big data, Spark, Java, Analysis skills, HBase",3.7,Software Engineer
+InTechHub,Software Test Entry-Level Engineer,Salem,400000.0,"C#, Selenium, .NET, SQL, OOP",,Software Engineer
+TotHR Solutions,Junior Software Engineer,Remote,550000.0,"Image processing, Visual Studio, C#, Git, .NET",5.0,Software Engineer
+HOTBIT INFOTECH PVT LTD,Software Engineer,India,360000.0,"Node.js, CSS, React, Git, SQL",,Software Engineer
+TechMonastic Solutions Pvt. Ltd.,Junior Software Developers (Fresher),Salt Lake City,250000.0,"React, Data structures, Java, Databases, PHP",,Software Engineer
+CRISIL,Software Engineer,Mumbai,700000.0,"Oracle, Java, SQL, Spring",3.8,Software Engineer
+Megthink,Software Engineer,Gurgaon,700000.0,"Java, SOAP, SQL, Analysis skills, JavaScript",,Software Engineer
+Sardonyx Technologies,Software Developers - FRESHERS,Tamil Nadu,0.0,"AJAX, MVC, CSS, XML, OOP",4.5,Software Engineer
+Quest Innovative Solutions,JUNIOR SOFTWARE ENGINEER (JAVA),Cochin,500000.0,"AJAX, Struts, J2EE, Java, JavaScript",4.1,Software Engineer
+Apple,Software Development Engineer in Test,Hyderābād,0.0,"TestNG, Oracle, Go, Gradle, Kubernetes",4.1,Software Engineer
+DHL,Software Engineer (Virtual Assistant),Indore,550000.0,"CSS, NoSQL, MongoDB, JavaScript, Scripting",3.9,Software Engineer
+Barclays,Java Software Engineer,Pune,600000.0,"React, Git, Java, Administrative experience, APIs",3.9,Software Engineer
+Precise,JUNIOR SOFTWARE ENGINEER,Coimbatore,500000.0,"C#, .NET, JavaScript, Software development, Agile",3.3,Software Engineer
+Zecotok,Associate Software Engineer,Chandigarh,60000.0,"Software troubleshooting, Data structures, Java, C++, C",,Software Engineer
+American Express Global Business Travel,Software Development Engineer III,Gurgaon,500000.0,"CSS, Software troubleshooting, React, Data structures, NoSQL",4.1,Software Engineer
+Onevega system India Pvt Ltd,Software Testing Engineer,Bengaluru,1100000.0,"Test automation, Selenium, Performance testing, Functional testing, Software testing",,Software Engineer
+WhizHack Technologies Pvt. Ltd.,Software Engineer,Gurgaon,400000.0,"Cloud infrastructure, Azure, Go, Kubernetes, Data structures",,Software Engineer
+Principal Global Services,Software Engineer,Hyderābād,900000.0,"DB2, COBOL, Agile",3.9,Software Engineer
+Apple,Software Engineer - ServiceNow Engineering,Hyderābād,650000.0,"CSS, Enterprise Software, IT service management, SOAP, Quality assurance",4.1,Software Engineer
+Candor software solutions,Software Engineer,Bharūch,900000.0,".NET, Java, SQL, JavaScript, Software development",,Software Engineer
+DHL,Associate Software Engineer,Chennai,550000.0,"FTP, SFTP, EDI, XML, WebSphere",3.9,Software Engineer
+Metastring Foundation,JUNIOR SOFTWARE ENGINEER,Bengaluru,500000.0,"Elasticsearch, PostGIS, Web development, Java, JavaScript",,Software Engineer
+Zebra Technologies,"Software Engineer, I",Bengaluru,800000.0,,3.9,Software Engineer
+rccenterprises,Software Engineer,India,300000.0,"Software troubleshooting, .NET, Java, Quality assurance, SDLC",,Software Engineer
+Hobbyland Group,Software Engineer,India,0.0,"CSS, Git, English, Databases, SQL",,Software Engineer
+Interactive Brokers,Software Engineer - Java,Mumbai,3000000.0,"Oracle, Relational databases, English, Java, Application development",3.8,Software Engineer
+Yext,Software Engineer - SWE 3,Hyderābād,850000.0,"Go, CSS, React, Java, Project management",3.6,Software Engineer
+Infologia Technologies,Junior Software Developer (Fresher),India,132000.0,"ASP.NET, SQL, Analysis skills, JavaScript, Angular",,Software Engineer
+Code Garage Tech,Software Engineer + Intern,Mohali,2016000.0,,4.6,Software Engineer
+kizzy consulting,Software Engineer,Panchkula,210000.0,"Computer science, Salesforce, Software development, Agile, Communication skills",,Software Engineer
+Kliento Technologies,Software Engineer,Noida,550000.0,,3.9,Software Engineer
+Infor,Software Engineer,Hyderābād,0.0,"Jira, Wiki systems, CSS, Software deployment, Data structures",4.0,Software Engineer
+IBIL Solutions Pvt Ltd,Junior Software Engineer,India,270000.0,"Node.js, React, Git, MongoDB, PostgreSQL",,Software Engineer
+"Deltek, Inc.",Pncpl Software Engineer,Remote,0.0,"C#, .NET, OOP, C++, C",4.5,Software Engineer
+Green Apple Solutions,Associate Software Engineer,Delhi,4800000.0,"Node.js, CSS, Bootstrap, React, Git",3.8,Software Engineer
+JPMorganChase,Software Engineer I,Mumbai,550000.0,"React, QlikView, Tableau, Application development, OOP",4.0,Software Engineer
+Teknowmics Knowledge solutions,Junior Software Engineer,Cochin,270000.0,"Java, Angular, Software development, Python",,Software Engineer
+Pro - Test Consulting Private Limited,Software Engineer,Bengaluru,650000.0,"Web accessibility, CSS, Bootstrap, WordPress, Git",,Software Engineer
+Quanteon Solutions,Software Engineer,Hyderābād,800000.0,"Node.js, Cassandra, React, NoSQL, MongoDB",,Software Engineer
+PropertyGuru Pte Ltd,Lead Software Engineer,Bengaluru,800000.0,"CI/CD, Elasticsearch, Node.js, React, Kubernetes",3.5,Software Engineer
+s technologies coding campuz,Associate Software Engineer,Cochin,150000.0,"CSS, React, Java, SQL, JavaScript",,Software Engineer
+Seawoods Ventures,Software Engineer,Remote,0.0,"Node.js, React, MongoDB, Angular, GraphQL",,Software Engineer
+Maersk,Software Engineer,Bengaluru,900000.0,"CI/CD, Elasticsearch, Azure, MVC, Node.js",4.0,Software Engineer
+JTSi Technologies India,Junior Software Engineer,Cochin,800000.0,".NET, Angular",4.3,Software Engineer
+NatWest,"Software Engineer, Java",Bengaluru,500000.0,"Software deployment, DevOps, Java, Microservices, Virtualization",4.1,Software Engineer
+U-Shin India,Software Development Engineer,Gurgaon,700000.0,"DevOps, Git, .NET, Java, C++",,Software Engineer
+Flipkart,Software Development Engineer II,Bengaluru,4200000.0,"CI/CD, Data structures, Test-driven development, Java, Microservices",3.8,Software Engineer
+Beinex Consulting Pvt Ltd,Sr Software Engineer- Angular,Remote,550000.0,"MVC, CSS, Java, Project management, JavaScript",,Software Engineer
+Ebix Inc.,Software Engineer,Hyderābād,450000.0,"Oracle, DB2, Struts, Microsoft SQL Server, J2EE",3.1,Software Engineer
+Verizon,"Consultant Software Development -III (Java, Springboot)",Hyderābād,550000.0,"CI/CD, SAFe, Software troubleshooting, Relational databases, Java",4.2,Software Engineer
+Oracle,Software Development Engineer,Hyderābād,500000.0,"Performance tuning, TCP, Cloud infrastructure, Operating systems, Oracle",3.8,Software Engineer
+REAK INFOTECH LLP,Software Development Engineer,India,300000.0,"Azure, Go, Node.js, CSS, Software troubleshooting",,Software Engineer
+ServiceNow,Sr Software Engineer,Hyderābād,450000.0,"React, Data structures, Test automation, Java, OOP",4.4,Software Engineer
+"IBIL Solutions, 1st Floor , Carnival Building , Technopark, Phase 1, Kazhakootam",Junior Software Engineer,India,270000.0,"Node.js, React, Git, MongoDB, PostgreSQL",,Software Engineer
+Ivy,Software Engineer III - Data,India,0.0,"CI/CD, Kubernetes, Microservices, SQL, OOP",3.7,Software Engineer
+Adobe,Software Development Engineer 4,Noida,600000.0,"Web design, Cloud infrastructure, Azure, Node.js, CSS",4.2,Software Engineer
+Dowell technologies pvt ltd,Software Developer,India,750000.0,".NET, Java, Databases, Communication skills",,Software Engineer
+Insure Pro 2.0,Software Engineer,Bengaluru,450000.0,"CI/CD, Node.js, CSS, Software troubleshooting, Kubernetes",,Software Engineer
+Clearwater Analytics,Software Development Engineer,Noida,850000.0,"Project planning, Data structures, Microsoft Office, OOP, Analysis skills",3.5,Software Engineer
+KESDEE,Jr. Software Developer,Bengaluru,4800000.0,"Oracle, SCORM, Mobile applications, Struts, J2EE",3.7,Software Engineer
+NetApp,Software Engineer,Bengaluru,0.0,"Go, Kubernetes, Databases, Microservices, C++",4.1,Software Engineer
+HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED,Software Engineer,Chennai,550000.0,"Power BI, Azure, SharePoint",4.1,Software Engineer
+Manufac Analytics Pvt. Ltd.,Software Engineer,Gurgaon,250000.0,"React, NoSQL, Responsive web design, Java, SQL",,Software Engineer
+Uber,Software Engineer 2,Hyderābād,4728000.0,"System architecture, Java, Distributed systems, Scalability, Communication skills",3.9,Software Engineer
+Multiplier,Software Engineer - Experience,Bengaluru,600000.0,"Cloud infrastructure, Go, CSS, React, Google Cloud Platform",,Software Engineer
+Network Freak,Junior Software Developer,Chennai,600000.0,"Java, SQL, JavaScript",,Software Engineer
+American Express Global Business Travel,Software Development Engineer I,Gurgaon,500000.0,"CSS, Software troubleshooting, React, Data structures, NoSQL",4.1,Software Engineer
+RISHABH GROUP IND!A (RGI),Junior Software Engineer,Ujjain,144000.0,"Software troubleshooting, Java, SQL, JavaScript",,Software Engineer
+Oxyzen Digital Estate,Software Developers,Thāne,450000.0,"Visual Basic, .NET, ASP",,Software Engineer
+Optum,"Software Engineer - Java, Springboot",Noida,700000.0,"JBoss, CI/CD, MVC, CSS, JUnit",3.5,Software Engineer
+Strabus,Software Engineer,Hyderābād,550000.0,"Software testing, Communication skills",1.0,Software Engineer
+Optum,Senior Software Engineer,Hyderābād,900000.0,"CI/CD, Kubernetes, Spark, Test automation, Git",3.5,Software Engineer
+Reventech Engineering Services,Software Engineer,Bengaluru,600000.0,"Microsoft Windows Server, ASP.NET, XML, Kanban, C#",,Software Engineer
+SHL,Software Engineer,Gurgaon,950000.0,,3.6,Software Engineer
+Skyappz Software India Pvt Ltd,Internship For Software Engineers - Freshers,Coimbatore,168000.0,"React, Java, React Native",,Software Engineer
+bigblue Softwares,Software Development Engineer – II,Kovilpatti,0.0,"Node.js, React, Web development, Angular",,Software Engineer
+MaatWerk IT Solutions,JUNIOR SOFTWARE DEVELOPER,Mumbai,0.0,"Relational databases, English, Databases, PHP, OOP",,Software Engineer
+Hex Business Innovations,Software Development Engineer,Farīdābād,150000.0,"ASP.NET, CSS, React, Relational databases, Microsoft SQL Server",,Software Engineer
+Jumpcloud,Software Engineer - India,Hyderābād,750000.0,"CI/CD, Azure, Go, Kubernetes, DevOps",3.2,Software Engineer
+Lexes Technologies,Software Engineer,India,120000.0,"Statistics, .NET, Java, SQL, C++",,Software Engineer
+Millennium Software Solutions Pvt.Ltd,Associate Software Engineer,Visakhapatnam,0.0,"ASP.NET, MVC, CSS, Web development, Visual Basic",,Software Engineer
+Dialpad,"Software Engineer, Analytics",Bengaluru,500000.0,"CSS, React, NoSQL, Databases, SQL",4.3,Software Engineer
+IntegriChain,Software Engineer,Pune,650000.0,"Azure, React, Kanban, AWS, Docker",3.8,Software Engineer
+DocuSign,Software Engineer,Bengaluru,600000.0,"Cassandra, Incident management, Docusign, DevOps, C#",3.6,Software Engineer
+TraceNcode Technologies,Junior Software Developer,Indore,450000.0,"Software deployment, Git, SQL, Database management, JavaScript",,Software Engineer
+Ecolab,Software Engineer,Bengaluru,950000.0,Software testing,3.7,Software Engineer
+Flow Science Software,Software Testing Engineer,Pune,350000.0,"Operating systems, Test automation, Windows, Organizational skills, Software testing",3.1,Software Engineer
+McKinsey & Company,Software Engineer II,Gurgaon,850000.0,"CI/CD, Statistics, Azure, Oracle, CSS",4.1,Software Engineer
+Optum,Software Engineer - ITSM / ITIL,Noida,700000.0,"Knowledge management, Analysis skills, ITIL, JavaScript, Scripting",3.5,Software Engineer
+Travitons Technologies,Java Software Engineer,India,125000.0,"CSS, Software troubleshooting, Java, Agile, HTML",,Software Engineer
+aubergine solutions,Software Engineer - Angular,Remote,0.0,"CSS, React, Data structures, AWS, JavaScript",4.4,Software Engineer
+S&P Global,"Engineer II, Software Development",Hyderābād,0.0,"Cassandra, React, Data structures, Spark, Test-driven development",4.1,Software Engineer
+"R1 RCM, Inc.",Software Engineer,Noida,600000.0,,3.5,Software Engineer
+Clarivate,Software Engineer,Karnataka,0.0,"Node.js, CSS, D3.js, Web development, Java",3.6,Software Engineer
+LSEG (London Stock Exchange Group),Software Engineer (Java),Bengaluru,550000.0,"FTP, CI/CD, Azure, Tomcat, Microsoft SQL Server",3.8,Software Engineer
+Intermed laboratories,Software Engineer,India,750000.0,".NET, Java",,Software Engineer
+Cobotiks,Founding Engineer (Software Development) (Python),Remote,600000.0,"C++, JavaScript, Software development, Python",,Software Engineer
+SIERRA ODC,Software Engineer Testing,India,0.0,"Analysis skills, UI, Test cases, Communication skills, SDLC",4.0,Software Engineer
+Interactive Brokers,Junior Software Engineer - SS,Mumbai,800000.0,"AJAX, Oracle, Multilingual, Relational databases, English",3.8,Software Engineer
+Tryon InfoSoft,Jr. Software Engineer,India,150000.0,"Visual Basic, Microsoft SQL Server, .NET, SQL, OOP",,Software Engineer
+American Express Global Business Travel,Software Development Engineer - III,Gurgaon,500000.0,"CSS, Software troubleshooting, React, Data structures, NoSQL",4.1,Software Engineer
+Arkaya Labs,Senior Software Engineer,Remote,1250000.0,"CI/CD, Cloud infrastructure, Node.js, React, Kubernetes",,Software Engineer
+SeedApps Technology Services,Software Developer,Coimbatore,550000.0,"Java, Unit testing, Python",,Software Engineer
+Ford Motor Company,Software Engineer,Chennai,750000.0,"React, Mobile applications, Git, Java, Microservices",4.0,Software Engineer
+ResMed,Associate Software Engineer- C#,Bengaluru,1800000.0,"ASP.NET, Database development, C#, .NET, SQL",4.1,Software Engineer
+Peddle Plus,Software Developer (WFH),Remote,0.0,"C#, Microsoft SQL Server, Windows, .NET, WCF",,Software Engineer
+Tender Software,Associate Software Engineer,Pondicherry,0.0,"Drupal, React, WordPress, Relational databases, Magento",4.7,Software Engineer
+JIVA Infotech,Software Engineer,India,0.0,"Web development, C#, ERP systems, Microsoft SQL Server, Windows",4.0,Software Engineer
+Aurora Energy Research,Software Engineer,Gurgaon,700000.0,"Cloud infrastructure, Node.js, React, NoSQL, MongoDB",4.0,Software Engineer
+Adeptia India Pvt. Ltd,Software Engineer,India,500000.0,"Jira, Oracle, EDI, XML, Customer service",,Software Engineer
+Infor,"Software Engineer, Senior",Hyderābād,750000.0,"JUnit, Git, English, J2EE, Java",4.0,Software Engineer
+Chubb,Jr Software Engineer,Bengaluru,950000.0,"Data modeling, CSS, XML, Java, Application development",3.8,Software Engineer
+NatWest,Software Engineer - IAM,Bengaluru,750000.0,"SSO, Kubernetes, Software deployment, Java, SOAP",4.1,Software Engineer
+Bit Canny Technologies Pvt. Ltd.,Junior Software Engineer,Calcutta,720000.0,"Drupal, CSS, React, Data structures, Responsive web design",4.1,Software Engineer
+Rabyte Technologies LLP,Software Engineer,India,500000.0,"Java, SQL, C++, C, JavaScript",,Software Engineer
+JPMorganChase,Software Engineer III - KDB + Python Developer,Bengaluru,600000.0,"Communication skills, Python, Design patterns",4.0,Software Engineer
+Thinkscoop Technologies,Software Engineer,Mohali,210000.0,"Node.js, React, WordPress, Git, Responsive web design",,Software Engineer
+Applied Materials,Software Engineer,Bengaluru,750000.0,,4.1,Software Engineer
+Capgemini Engineering,Software Engineer - B,Mumbai,4800000.0,"Operating systems, C++, C, REST, APIs",3.5,Software Engineer
+XenonStack,Software Engineer - Java,Mohali,800000.0,"Data structures, Spark, NoSQL, Git, Test-driven development",3.4,Software Engineer
+Virtusa,Senior Software Engineer,Pune,600000.0,"Elasticsearch, Microsoft SQL Server, Java, SQL, JSP",3.7,Software Engineer
+Volvo Group,Software Engineer- Selenium Java,Bengaluru,650000.0,"Azure, DevOps, Test automation, Selenium, Java",4.2,Software Engineer
+Light & Wonder,CW Software Engineer,Bengaluru,900000.0,,4.0,Software Engineer
+DTCC,Associate Director Software Engineering,Hyderābād,900000.0,"CI/CD, Test automation, Git, Build automation, Java",3.8,Software Engineer
+Dicetek LLC,Software Engineer – JAVA technology,Remote,0.0,"SSO, Oracle, Bootstrap, React, Microsoft SQL Server",4.3,Software Engineer
+AppSuccessor Media,Software Engineer,Noida,4200000.0,"Node.js, Java, Front-end development, Python, SDLC",3.5,Software Engineer
+PowerSchool Group LLC,Software Engineer 1,Bengaluru,650000.0,"React, Data structures, Research, SQL, PHP",3.8,Software Engineer
+BetterWorks,Software Engineer I,Bengaluru,500000.0,"Node.js, React, Kubernetes, Relational databases, Enterprise Software",3.7,Software Engineer
+Tekion,Software Engineer I,Bengaluru,0.0,"Enterprise Software, Supply chain, NoSQL, E-Commerce, Java",3.4,Software Engineer
+Woliba,Software Engineer (React),Pune,500000.0,"CSS, React, JavaScript, REST, Redux",4.0,Software Engineer
+Ga Cosmos (OPC) Pvt. Ltd.,Software Engineer Intern,Gorakhpur,0.0,,,Software Engineer
+Saaki Argus & Averil Consulting,Software Engineer - ITSM,India,0.0,"Knowledge management, Incident management, Remedy, IT service management, ITIL",3.4,Software Engineer
+Got software pvt ltd,Software Developer,India,750000.0,"C#, .NET, Java, Python",,Software Engineer
+Amgen,Associate Software Engineer,Hyderābād,700000.0,"Authentication, Computer science, Azure, C#, Encryption",4.1,Software Engineer
+Telaverge Communications,Telecom Software Engineer,Bengaluru,400000.0,"Go, Data structures, 5G, Java, C++",3.2,Software Engineer
+Sagitec,Software Engineer,Chennai,650000.0,"SAFe, XML, Database development, C#, Microsoft SQL Server",3.8,Software Engineer
+Maruti Suzuki India Ltd,Software Engineer (C#),Gurgaon,650000.0,"Mechanical design, Bill of materials, C#, .NET, Electrical experience",3.8,Software Engineer
+Dreamwares IT Solutions,Software Developer,Nashik,450000.0,Communication skills,,Software Engineer
+Principal Global Services,Lead Software Engineer,Hyderābād,900000.0,"Analysis skills, Communication skills",3.9,Software Engineer
+CognitiveValueTech,Software Engineer,India,750000.0,"ASP.NET, MVC, CSS, React, .NET Core",,Software Engineer
+SS&C,Associate Software Engineer,Hyderābād,650000.0,"Test-driven development, REST, APIs, Python",3.1,Software Engineer
+RD Global Solutions,Software Software Development,Pune,550000.0,"CSS, JavaScript, HTML, MySQL",5.0,Software Engineer
+Hecryes Technologies India Private Limited,Software Engineer,Salem,198000.0,"TCP, CSS, Windows, .NET, Java",,Software Engineer
+Optum,Software Engineer - Python,Hyderābād,900000.0,"CI/CD, Cloud infrastructure, Azure, Oracle, CSS",3.5,Software Engineer
+Qt Group,Software Engineer,Bengaluru,650000.0,"Data structures, English, C++, C, Product development",2.6,Software Engineer
+IG Drones,Software Development Engineer,India,450000.0,"Microsoft Powerpoint, CI/CD, Power BI, Cloud infrastructure, Microsoft Excel",,Software Engineer
+Neosoft Technologies,Software Engineer,Mumbai,800000.0,"CI/CD, CSS, DevOps, Git, Responsive web design",3.6,Software Engineer
+Inogic,Junior Software Engineer,Navi Mumbai,500000.0,"ASP.NET, Power BI, Azure, CSS, C#",3.7,Software Engineer
+Avianco Technologies,Software Engineer (C/C++),Karnataka,0.0,"TCP, OOP, C++, Presentation skills, C",4.0,Software Engineer
+Tech Ahir Private Limited,Software Engineer Intern,Gāndhīnagar,90000.0,"ASP.NET, MVC, CSS, C#, Microsoft SQL Server",,Software Engineer
+Babel Sys Technology India Private Ltd.,Software Engineer,Karnataka,0.0,"CSS, Relational databases, Java, Databases, JavaScript",,Software Engineer
+Ride Softech Solutions,Associate Software Engineer,Pune,0.0,"English, PHP, Electrical experience, JavaScript, Ext JS",,Software Engineer
+"KYYBA, Inc",Software Engineer (VueJS),Tamil Nadu,0.0,"CSS, Git, Responsive web design, Analysis skills, JavaScript",4.1,Software Engineer
+NielsenIQ,Software Engineer - Python Dev,Pune,700000.0,"Jira, Bamboo, DevOps, Git, Application development",3.8,Software Engineer
+"Lexmark International, Inc.",Software Developer,India,0.0,"C#, Git, .NET, Java, C++",3.8,Software Engineer
+Synaptics Inc.,Software Engineer,Bengaluru,900000.0,"Machine learning, Assembly, Algorithm design, Communication skills, Debugging",3.2,Software Engineer
+Indicus Software,Software Engineer,Pune,1200000.0,"Struts, J2EE, Japanese, Java, SQL",3.4,Software Engineer
+o9 Solutions,Associate Software Development Engineer Test,Bengaluru,700000.0,"Supply chain, Java, SQL, Analysis skills, Software development",3.8,Software Engineer
+Anawave Systems and Solutions,Senior Software Engineer,India,850000.0,"React, Java, SQL, JavaScript, Software development",,Software Engineer
+Innings2,Intern Software Developer,Hyderābād,60000.0,"Data structures, Git, Algorithm design, GitHub, Communication skills",,Software Engineer
+Brainvire Infotech Pvt. Ltd,Associate Software Engineer,India,1800000.0,"ASP.NET, MVC, .NET Core, C#, Microsoft SQL Server",3.6,Software Engineer
+SERVEEN SOFTWARE SYSTEMS PVT LTD,Software Engineer,Hyderābād,150000.0,"LabView, MATLAB, C++, C, Python",,Software Engineer
+Countless services private limited,Software Testing Engineer,India,250000.0,Software testing,,Software Engineer
+Nithish Software Soluctions Private Limited,Software Testing Engineer,Visakhapatnam,120000.0,"Jira, Selenium, Quality assurance, Software testing, Communication skills",,Software Engineer
+EDUSOFT HEALTHCARE PRIVATE LIMITED,Software Engineer,India,180000.0,"Software troubleshooting, R, Java, C++, C",,Software Engineer
+SHIVA SHIKSHA SADAN,Software Engineer,Sonipat,120000.0,"Microsoft Excel, Organizational skills, Phone etiquette",,Software Engineer
+Bititude Technologies,Associate Software Engineer,India,240000.0,"React, Git, English, SQL, C++",,Software Engineer
+Abhiarth,Software Engineer,Navi Mumbai,1350000.0,"Tomcat, NoSQL, Git, Java, Analysis skills",,Software Engineer
+Exponent Software Solutions,Software Engineer (Java/J2EE),India,0.0,"Struts, J2EE, Java, Spring, Hibernate",1.0,Software Engineer
+MCube Technologies Pvt.Ltd,Software Engineer,Bengaluru,550000.0,"AJAX, MVC, MongoDB, SQL, PHP",,Software Engineer
+WebEngage,Software Engineer (Java),Mumbai,500000.0,"Cloud infrastructure, Azure, Go, Incident management, Relational databases",4.0,Software Engineer
+Asian Lab Grown Diamonds LLP,Software Engineer,India,480000.0,,,Software Engineer
+LinguaSol,Software Testing Engineer,Pune,500000.0,"Organizational skills, Software development, Software testing, Test cases, Communication skills",5.0,Software Engineer
+LogicMonitor,Software Engineer,Pune,850000.0,"Cloud infrastructure, Software troubleshooting, Enterprise Software, Spark, Java",3.7,Software Engineer
+Salat management,Fresher software engineer in kannur,Cannanore,132000.0,".NET, Java, Software testing, Communication skills",,Software Engineer
+alive now,Software Developer,Bengaluru,4200000.0,"CSS, WordPress, PHP, JavaScript, HTML",4.1,Software Engineer
+Tiger Speaks,Software Developer,India,222000.0,"Software troubleshooting, Java, SDLC",,Software Engineer
+BEIING,Software Engineer,Bengaluru,1150000.0,"React, Git, AWS, Redux",3.7,Software Engineer
+Suretek Infosoft,Software Engineer- (Java Developer),Noida,450000.0,"JBoss, Struts, J2EE, Java, Web services",4.1,Software Engineer
+EnSmart Technologies Pvt. Ltd,Software Engineer,Chennai,450000.0,"Jira, Performance tuning, CSS, .NET Core, C#",,Software Engineer
+Circles.Life,Software Engineer II,Gurgaon,500000.0,"Go, Node.js, React, REST, Python",2.7,Software Engineer
+Squareline Solution,Software Engineer,Pune,550000.0,,,Software Engineer
+Intely Cerebral Works,Software Engineer (Delphi),Bengaluru,400000.0,"Software troubleshooting, Enterprise Software, SQL, JavaScript, Angular",,Software Engineer
+American Express Global Business Travel,Senior Software Development Engineer,Gurgaon,500000.0,"Cloud infrastructure, Node.js, React, Software deployment, Java",4.1,Software Engineer
+Infinite Computer Solutions Ltd.,Software Engineer,Chennai,700000.0,"Kubernetes, DevOps, Java, SQL, Scripting",3.3,Software Engineer
+Splore,Software Engineer - Python,Bengaluru,550000.0,"CI/CD, Azure, Software troubleshooting, Spark, NoSQL",3.4,Software Engineer
+ServiceNow,Staff Software Engineer,Hyderābād,450000.0,"React, Data structures, Test automation, Java, OOP",4.4,Software Engineer
+Swaayatt Robots,Software Engineer,Bhopal,550000.0,"Operating systems, Software deployment, Data structures, C++, Math",3.5,Software Engineer
+Adtran,Software Engineer,Bengaluru,550000.0,"Gradle, JUnit, Software troubleshooting, Git, Windows",3.6,Software Engineer
+Hudl,Senior Software Engineer,Mumbai,2750000.0,"C#, English, .NET, Quality assurance, Agile",3.9,Software Engineer
+Park Place Technologies India Private Li,Software Engineer,Hyderābād,700000.0,"CI/CD, Azure, MVC, CSS, React",3.0,Software Engineer
+Fibe,Software Engineer,Pune,650000.0,"Data structures, NoSQL, Java, Microservices, SQL",,Software Engineer
+Adroit Solutionz,Software Developer,Chennai,0.0,,,Software Engineer
+ADP,Software Engineer,Chennai,600000.0,,3.9,Software Engineer
+IPA Indus Parking Services,Software Engineer,India,1170000.0,"ASP.NET, CSS, Software troubleshooting, Visual Basic, Software deployment",,Software Engineer
+Verticross India Private Limited,Sr. Software Engineer,India,500000.0,"AJAX, Performance tuning, Oracle, Mobile applications, J2EE",,Software Engineer
+Cravita Technologies India,Junior Software Developer,India,0.0,".NET, Java, PHP, Angular, Communication skills",4.4,Software Engineer
+Excelsoft Technologies,Software Engineer,India,0.0,"Node.js, Software troubleshooting, React, AWS, PostgreSQL",3.4,Software Engineer
+WEX Inc.,Software development engineer 2,Remote,0.0,"CI/CD, Software troubleshooting, Kubernetes, DevOps, Git",3.6,Software Engineer
+Booking Holdings,Software Engineer I - Payments,Bengaluru,800000.0,"CI/CD, Kubernetes, Git, Java, OOP",4.1,Software Engineer
+Qt Group,"Software Engineer, Software Quality Solutions",Bengaluru,650000.0,"Go, Test automation, Git, Java, C++",2.6,Software Engineer
+Lesco Trading International,Software Developer,Remote,0.0,".NET, Java, SQL, JavaScript",,Software Engineer
+Recruise,6015_Senior Software Engineer - Java,Hyderābād,700000.0,"Java, SQL, ECMAScript, Software development, Agile",4.7,Software Engineer
+Code Garage Tech,Software Engineer Intern + Employment,Mohali,1296000.0,"Software development, Communication skills",4.6,Software Engineer
+Commud Networks,Software Developer (Intern),Bengaluru,0.0,"Mobile applications, Test-driven development, Java, Ruby, HTML",,Software Engineer
+ODeX,Software Engineer - IT,Mumbai,500000.0,"CSS, Bootstrap, English, Java, Application development",2.4,Software Engineer
+Cleartax,Software Engineer II,Bengaluru,650000.0,"C#, .NET, Java, Agile, AI",3.6,Software Engineer
+NCR,Software Engineer II,Hyderābād,0.0,"Jira, CI/CD, Hospitality, Azure, Enterprise Software",3.4,Software Engineer
+Hopcharge,Software Engineer,Gurgaon,650000.0,"Mobile applications, C#, .NET, Java, C++",,Software Engineer
+NCS Pte Ltd.,Software Engineer,India,0.0,"SQL, Telecommunication, Communication skills, Python",3.3,Software Engineer
+"Alteryx, Inc.",Software Engineer,Bengaluru,500000.0,"Azure, Kubernetes, Big data, Spark, Alteryx",3.2,Software Engineer
+Computershare,Software Engineer,Bengaluru,700000.0,"ASP.NET, Oracle, MVC, CSS, Software deployment",3.4,Software Engineer
+Eightfold.AI,Software Engineer,Bengaluru,600000.0,"TensorFlow, Computer science, React, Data structures, Spark",3.2,Software Engineer
+Ostramics Technologies,Software Engineer - Java,India,0.0,"Java, REST, Web services, Less, Spring",5.0,Software Engineer
+PayPal,Software Engineer - Java,Chennai,4464000.0,"Azure, Data structures, NoSQL, Java, Databases",3.7,Software Engineer
+ADCI HYD 13 SEZ,"Software Development Engineer, ABDAI",Hyderābād,500000.0,"Computer science, Pricing, Procurement, OOP, Distributed systems",3.6,Software Engineer
+Apple,Cellular Software Development Engineer,Bengaluru,0.0,"English, C++, Electrical experience, C, Scripting",4.1,Software Engineer
+Quicsolv Technologies,Software Engineer,India,4200000.0,"Node.js, CSS, Bootstrap, Git, SQL",4.1,Software Engineer
+Finastra USA Corporation,Software Engineer,Pune,850000.0,"J2EE, Java, Databases, Microservices, Analysis skills",4.1,Software Engineer
+Tantransh Solutions,Software Engineer,India,0.0,"Analysis skills, Software development, Communication skills",3.4,Software Engineer
+ArenaITech,Software Developer,Nāgpur,0.0,"ASP.NET, MVC, Microsoft SQL Server, JavaScript, APIs",,Software Engineer
+Excelsoft Technologies,Associate Software Engineer,India,0.0,"ASP.NET, MVC, CSS, Bootstrap, C#",3.4,Software Engineer
+Upland Software,Upland R&D SSO - Software Engineer I,Bengaluru,0.0,"SQL, PHP, AWS, Docker",3.2,Software Engineer
+Cummins Inc.,Software Engineer I,Pune,750000.0,"CI/CD, Java, SOAP, Continuous integration, Conflict management",4.0,Software Engineer
+bebo Technologies,Software Engineer SDET,Chandigarh,0.0,"CI/CD, Kanban, Test automation, Quality assurance, Continuous integration",3.7,Software Engineer
+Swiggy,Software Development Engineer III View Jobs,Bengaluru,650000.0,"Data modeling, Go, Data structures, Java, Databases",3.6,Software Engineer
+Surgical Information Systems,Software Engineer,Hyderābād,750000.0,"React, JavaScript, REST, Angular, Software development",3.5,Software Engineer
+Adform,Software Engineer,Mumbai,1200000.0,"CI/CD, Kubernetes, Git, Microservices, SQL",4.1,Software Engineer
+Gove Enterprises,Software Engineer,Tirunelveli,600000.0,"System design, Git, Java, Databases, C++",2.3,Software Engineer
+PLLC Software Solutions,Jr. Software Engineer,India,0.0,,3.0,Software Engineer
+Allstate,Software Engineer II,Pune,750000.0,"Go, React, .NET, REST, Web services",3.5,Software Engineer
+Cyberhaven,Software Engineer,Remote,0.0,"Azure, Rust, Go, Kubernetes, C#",4.7,Software Engineer
+Dutech Systems,Software Engineer,Hyderābād,4800000.0,"Presentation skills, Product development, Team management, Requirements analysis",4.5,Software Engineer
+Oracle,Software Engineer/Member of Technical Staff,India,0.0,"Go, CSS, React, C#, .NET",3.8,Software Engineer
+SYSTOOLS SOFTWARE,Software Testing Engineer,Delhi,0.0,"iOS, Test automation, Software testing, Test cases",3.5,Software Engineer
+GA Digital Solutions,Software Engineer,Hyderābād,550000.0,"Content management systems, Microsoft Office, Communication skills",3.6,Software Engineer
+Capital Placement Services,Software Engineer - For IT Mnc Company,Gurgaon,400000.0,"ASP.NET, Microsoft SQL Server, .NET",,Software Engineer
+NextGenVision Technology,Software Testing Engineer,Noida,700000.0,"SQL, APIs, Software testing, Communication skills",4.1,Software Engineer
+ADCanopus.com,Junior Software Engineer,India,0.0,"Elasticsearch, Node.js, CSS, React, Git",4.4,Software Engineer
+Pluralsight,Software Engineer,India,0.0,"Node.js, React, Kanban, Data analysis skills, SQL",3.2,Software Engineer
+Blue Water,Software Engineer,India,0.0,"Data analysis skills, Git, Machine learning, Django, Python",2.9,Software Engineer
+ADCI HYD 13 SEZ,"Software Development Engineer, VASTech",Hyderābād,500000.0,"Data structures, C#, .NET, Java, OOP",3.6,Software Engineer
+Roadmap IT Solutions,Software Developer,Pondicherry,0.0,"SQL, JavaScript, Angular, Communication skills",3.5,Software Engineer
+Mobzway Technologies,Software Developers Fresher,Jaipur,4200000.0,"CSS, C#, .NET, Java, PHP",3.8,Software Engineer
+miniOrange,Software Engineer (Java),India,0.0,"SSO, Relational databases, Java, Databases, OOP",3.1,Software Engineer
+Beacon Consulting,Software Development Engineers,Pune,600000.0,"Data structures, Java, OOP, Distributed systems, Scrum",2.3,Software Engineer
+NextBridge Solutions,Application Software Engineer,Pune,550000.0,"Pegasystems, Oracle, Node.js, Avaya, XML",2.8,Software Engineer
+Ishttaa Techcraft Pvt Ltd,Software Developer,India,200000.0,"ASP.NET, CSS, XML, C#, Microsoft SQL Server",,Software Engineer
+Scan-IT,Software Engineer,Pune,650000.0,"Jira, NoSQL, Git, Java, SQL",4.0,Software Engineer
+Lucid Outsourcing Solutions,Software Engineer - Fresher,Jodhpur,600000.0,"PHP, Math, Usability, MySQL",3.0,Software Engineer
+zeus learning,Software Engineer,Mumbai,750000.0,"CSS, OOP, Analysis skills, JavaScript, Communication skills",3.7,Software Engineer
+"Diplomat Infotech pvt Ltd,",Senior Software Engineer,India,1100000.0,"Software troubleshooting, .NET, Java, SQL, JavaScript",,Software Engineer
+MicroGenesis Techsoft Pvt Ltd,Software Engineer - React,India,1400000.0,"Node.js, CSS, React, XML, MongoDB",,Software Engineer
+Mr. Cooper,Software Engineer II,Chennai,4800000.0,,3.6,Software Engineer
+e-EMPHASYS TECHNOLOGIES INC,Software Engineer - 2,Mumbai,1000000.0,"Performance tuning, iOS development, Software deployment, Data structures, iOS",2.7,Software Engineer
+BerryWorks,Software Engineer - Kochi,Cochin,450000.0,"Go, Node.js, CSS, Data structures, NoSQL",5.0,Software Engineer
+Size Up Software Services,Software Testing Engineer,Bengaluru,600000.0,"JUnit, Selenium, Quality assurance, Software testing, Test cases",,Software Engineer
+Datametrics Software Systems,SOFTWARE ENGINEER,Hyderābād,3600000.0,"Power BI, SAFe, Microsoft SQL Server, SSRS, SQL",4.1,Software Engineer
+Fluentgrid,Software Engineer,Visakhapatnam,700000.0,"JBoss, Oracle, Gradle, WebSphere, DB2",4.2,Software Engineer
+Diligent Corporation,Software Engineer in Test (Junior),Bengaluru,750000.0,"CI/CD, JUnit, Kanban, Enterprise Software, Test automation",3.5,Software Engineer
+Craft Silicon,Software Engineer (DB),Bengaluru,450000.0,"Microsoft SQL Server, SQL, Analysis skills, TFS",3.6,Software Engineer
+Zikshana,Software Developer,Bengaluru,0.0,"Node.js, CSS, Bootstrap, JavaScript, Angular",,Software Engineer
+Etasens Technologies,Junior Software Engineer,Chandigarh,0.0,"React, Java, REST, Angular, APIs",3.0,Software Engineer
+Electronic Arts,Software Engineer,India,0.0,"Unreal Engine, iOS development, iOS, C++, Math",4.1,Software Engineer
+BayaTree,Intern: Software Engineering,Mohali,0.0,Communication skills,4.4,Software Engineer
+Cubic Corporation,Senior Software Engineer,Hyderābād,650000.0,"Software troubleshooting, Java, SQL, REST, Scrum",3.0,Software Engineer
+krish technolabs,Jr. Software Developer,Ahmedabad,450000.0,"Magento, Agile, Communication skills",4.3,Software Engineer
+Oracle,Software Developer for telecommunication,Hyderābād,800000.0,"Jira, Cloud infrastructure, Oracle, DevOps, Java",3.8,Software Engineer
+Oracle,Software Developer,Hyderābād,800000.0,"Oracle, Kubernetes, Relational databases, English, Weblogic",3.8,Software Engineer

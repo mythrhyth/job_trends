@@ -1,0 +1,327 @@
+company_name,job_role,job_location,salary_pa,skills,company_rating,standardized_job_role
+Polygon,Site Reliability Engineer,Remote,0.0,"Software troubleshooting, Ansible, Software deployment, Load balancing, DevOps",3.3,Site-Reliability Engineer
+NetApp,"Site Reliability Engineer (Python, Golang, Terraform, Ansible)",Bengaluru,1608000.0,"Jira, Elasticsearch, Cloud infrastructure, Go, Incident management",4.1,Site-Reliability Engineer
+NetApp,Site Reliability Engineer,Bengaluru,1608000.0,"Computer science, Elasticsearch, Azure, Operating systems, Cassandra",4.1,Site-Reliability Engineer
+Alkira,Software Engineer - SRE (India),Remote,0.0,"CI/CD, Cloud infrastructure, Azure, Kubernetes, AWS",4.2,Site-Reliability Engineer
+Calibery Software LLC,Site Reliability Engineer,Remote,936000.0,"Cloud infrastructure, Azure, Load balancing, openSUSE, PaaS",3.0,Site-Reliability Engineer
+Microsoft,Site Reliability Engineer,Hyderābād,0.0,"Microsoft Windows Server, CI/CD, Azure, DevOps, Microsoft SQL Server",4.2,Site-Reliability Engineer
+InOrg Global,Site Reliability Engineer (SRE),Remote,0.0,"Elasticsearch, Azure, Operating systems, Kubernetes, Ansible",,Site-Reliability Engineer
+Masabi,Site Reliability Engineer (remote),Maharashtra,0.0,"CI/CD, Cloud infrastructure, PCI, Git, AWS",4.5,Site-Reliability Engineer
+Axelerant,Software Engineer - Site Reliability,Remote,0.0,"CI/CD, Cloud infrastructure, Go, Kubernetes, Ansible",4.5,Site-Reliability Engineer
+Oracle,Site Reliability Engineer,Bengaluru,800000.0,"TCP, Azure, Oracle, Kubernetes, Software deployment",3.8,Site-Reliability Engineer
+PhonePe,SRE,Bengaluru,414500.0,"Software troubleshooting, Relational databases, NoSQL, Git, Databases",3.9,Site-Reliability Engineer
+Apple,Site Reliability Engineering Manager,Bengaluru,0.0,"Authentication, SFTP, Data modeling, Azure, Kubernetes",4.1,Site-Reliability Engineer
+UKG,Lead Database Reliability Engineer,Noida,766500.0,"Cloud infrastructure, Azure, Operating systems, Oracle, Go",3.4,Site-Reliability Engineer
+Token Metrics,DevOps/Site Reliability Engineer (Remote),Remote,0.0,"Cloud infrastructure, System administration, Oracle, Software troubleshooting, Google Cloud Platform",3.4,Site-Reliability Engineer
+Phenom People,SRE/ Devops Engineer II,Hyderābād,600000.0,"CI/CD, Cloud infrastructure, Operating systems, Software troubleshooting, Salt",4.0,Site-Reliability Engineer
+Adroit Vantage Technologies Inc.,SRE / DevOPS Specialist,Bengaluru,650000.0,"Kubernetes, DevOps, Server management",3.0,Site-Reliability Engineer
+client in excellent opportunity,DEvops/SRE Senior Engineer,Bengaluru,2750000.0,"Jira, CI/CD, Kubernetes, Software deployment, DevOps",,Site-Reliability Engineer
+ByteSprint Talent Search LLP,Devops SRE Engineer,Bengaluru,1500000.0,"CI/CD, TCP, Cloud infrastructure, System administration, Azure",,Site-Reliability Engineer
+Tech Prescient,SRE Devops Engineer,Bengaluru,750000.0,"DevOps, AWS, Terraform, SDKs, Scripting",4.5,Site-Reliability Engineer
+Deqode,DevOps/SRE Engineer,Pune,4800000.0,"CI/CD, Cloud infrastructure, Node.js, Kubernetes, Ansible",3.9,Site-Reliability Engineer
+Syndr,Site Reliability Engineer (DevOps),Delhi,0.0,"CI/CD, Go, Node.js, Salt, Kubernetes",5.0,Site-Reliability Engineer
+innData Analytics,Devops Engineer / Site reliability engineer,Visakhapatnam,550000.0,"Go, Cassandra, Salt, Kubernetes, Ansible",4.4,Site-Reliability Engineer
+Exeter Premedia Services Pvt Ltd,Devops SRE Engineer,Chennai,750000.0,"CI/CD, Cloud infrastructure, Azure, Kubernetes, Ansible",3.4,Site-Reliability Engineer
+ExxonMobil,Reliability Engineer,Bengaluru,700000.0,"Oil & gas, Electrical experience, Leadership, Communication skills, Mechanical knowledge",3.6,Site-Reliability Engineer
+Zelis,Site Reliability Engineer-1,Hyderābād,0.0,"CI/CD, Node.js, AWS, PostgreSQL, Continuous integration",3.8,Site-Reliability Engineer
+EIL Global It Solutions and Services Pvt Ltd,Desktop Network Onsite Engineer,Telugūdam,0.0,"Desktop support, Network installation, LAN, English, Local language",,Site-Reliability Engineer
+ElementSkill,Site Reliability Engineer,Bengaluru,450000.0,"Software troubleshooting, Internet of things, Software deployment, Electrical experience, Product demos",,Site-Reliability Engineer
+MERIDIAN INTERNATIONAL,MECHANICAL ENGINEER FOR ISREAL,Remote,200000.0,"AutoCAD, Mechanical engineering, CAD, English, SolidWorks",,Site-Reliability Engineer
+JPMorganChase,Software Engineer II - Site Reliability Engineer,Bengaluru,1800000.0,"CI/CD, Oracle, Software troubleshooting, Microsoft SQL Server, Git",4.0,Site-Reliability Engineer
+Citi,Software Development Engineer in Test (SDET) & SRE - C12 - PUNE,Pune,650000.0,"CI/CD, MVC, Go, CSS, JUnit",3.7,Site-Reliability Engineer
+Photon,Site Reliability Engineer,India,0.0,DevOps,4.0,Site-Reliability Engineer
+NetApp,"Software Engineer SRE (Observability, Incident Management)",Bengaluru,550000.0,"Jira, Elasticsearch, Cloud infrastructure, Azure, Go",4.1,Site-Reliability Engineer
+Apple,Site Reliability Engineer,Bengaluru,0.0,"Go, Kubernetes, DevOps, Encryption, Java",4.1,Site-Reliability Engineer
+PhonePe,SRE,Bengaluru,4800000.0,"Software troubleshooting, Relational databases, NoSQL, Git, Databases",3.9,Site-Reliability Engineer
+Rackspace,Site Reliability Engineer / Observability Engineer,Remote,0.0,"Pricing, Software troubleshooting, Ansible, Software deployment, DevOps",3.5,Site-Reliability Engineer
+Oracle,Site Reliability Developer,Bengaluru,800000.0,"Jira, Oracle, Kubernetes, Git, Build automation",3.8,Site-Reliability Engineer
+TotHR Solutions,Site reliability engineer,Bengaluru,600000.0,"CI/CD, Elasticsearch, PCI, Microservices, AWS",5.0,Site-Reliability Engineer
+ReachLocal India,Site Reliability Engineer,Remote,0.0,"CI/CD, Cloud infrastructure, Software troubleshooting, Kubernetes, NoSQL",3.4,Site-Reliability Engineer
+PhonePe,Site Reliability Engineer,Bengaluru,4800000.0,"Go, Salt, BSD, Configuration management, NoSQL",3.9,Site-Reliability Engineer
+Qualys,Site Reliability Engineer,Pune,450000.0,"System design, Systems engineering, Software development",3.7,Site-Reliability Engineer
+Microsoft,Site Reliability Engineering II,Hyderābād,3000000.0,"Customer service, Windows, Scripting, Agile, Communication skills",4.2,Site-Reliability Engineer
+CME Group,Site Reliability Engineer - II,Bengaluru,850000.0,"CI/CD, Software development",4.0,Site-Reliability Engineer
+Hansen Technologies,Site Reliability Engineer,Pune,800000.0,"CI/CD, Cloud infrastructure, Software troubleshooting, Kubernetes, AWS",4.0,Site-Reliability Engineer
+Citadel Securities,Site Reliability Engineer,Gurgaon,600000.0,"Performance tuning, TCP, Operating systems, Software troubleshooting, SQL",4.1,Site-Reliability Engineer
+BEIING,Site Reliability Engineer,Bengaluru,1500000.0,"Ansible, AWS, Docker, Terraform, Python",3.7,Site-Reliability Engineer
+WEX Inc.,Site Reliability Engineer,Chennai,600000.0,"Software development, Cloud computing",3.6,Site-Reliability Engineer
+Technology Next,Senior Site Reliability Engineer,Remote,1700000.0,"CI/CD, Incident management, DevOps, Java, Application development",,Site-Reliability Engineer
+GoGuardian,Site Reliability Engineer,Bengaluru,900000.0,"CI/CD, Kubernetes, Ansible, Git, OOP",3.0,Site-Reliability Engineer
+Trimble,Site Reliability Engineer,Chennai,750000.0,,4.0,Site-Reliability Engineer
+Tanla Platforms,SITE RELIABILITY ENGINEER,Hyderābād,0.0,"CI/CD, Knowledge management, Kubernetes, Software deployment, Configuration management",3.7,Site-Reliability Engineer
+Experian,Site Reliability Engineer,Hyderābād,650000.0,"Jira, Ansible, Big data, DevOps, Spark",4.2,Site-Reliability Engineer
+Cimpress Technology,Site Reliability Engineer,Bengaluru,900000.0,"CI/CD, DevOps, Git, English, AWS",4.1,Site-Reliability Engineer
+Adobe,Site Reliability Engineer,Bengaluru,850000.0,"Azure, Operating systems, Kubernetes, Ansible, DevOps",4.2,Site-Reliability Engineer
+DocuSign,Site Reliability Engineer,Bengaluru,750000.0,"Docusign, Software deployment, DevOps, C#, R",3.6,Site-Reliability Engineer
+Everstage,Site Reliability Engineer (Remote),Chennai,900000.0,"CI/CD, Software troubleshooting, DevOps, Git, AWS",4.7,Site-Reliability Engineer
+Swedium Global Services AB,Site Reliability Engineer,Bengaluru,0.0,"Azure, Incident management, Git, SQL, AWS",,Site-Reliability Engineer
+Google,"System Engineer, Site Reliability Engineering",Bengaluru,0.0,"Software deployment, Enterprise Software, Data structures, System design, Google Cloud Platform",4.3,Site-Reliability Engineer
+NatWest,Site Reliability Engineer,Bengaluru,850000.0,"Oracle, Java, Microservices, PostgreSQL, Splunk",4.1,Site-Reliability Engineer
+JPMorganChase,Site Reliability Engineer III,Hyderābād,3600000.0,"CI/CD, Cloud infrastructure, Kubernetes, Learning technology, Git",4.0,Site-Reliability Engineer
+Helius Technologies,Site Reliability Engineer,India,0.0,"CI/CD, Software troubleshooting, Kubernetes, Disaster recovery, Java",4.2,Site-Reliability Engineer
+JPMorganChase,Software Engineer II - Site Reliability Engineer,Mumbai,4800000.0,"CI/CD, Gradle, Software troubleshooting, Git, SQL",4.0,Site-Reliability Engineer
+Infosys,Site Reliability Engineer/SRE,Bengaluru,950000.0,"CI/CD, Elasticsearch, TCP, Azure, Go",3.6,Site-Reliability Engineer
+Digantara,Site Reliability Engineer II,Bengaluru,0.0,"CI/CD, Git, AWS, Docker, Terraform",,Site-Reliability Engineer
+Cloudifyops,Site Reliability Engineer,Bengaluru,850000.0,"CI/CD, Cloud infrastructure, Azure, Kubernetes, DevOps",3.9,Site-Reliability Engineer
+Flipkart,Engineering Manager (Site Reliability Engineering),Bengaluru,850000.0,,3.8,Site-Reliability Engineer
+Uni Cards,Site Reliability Engineer - 2,Bengaluru,800000.0,"CI/CD, Elasticsearch, Kubernetes, Ansible, Software deployment",4.1,Site-Reliability Engineer
+Volancys (An ACL Digital Company),Site Reliability Engineer,India,1250000.0,"Incident management, Kubernetes, DevOps, Microservices, AWS",,Site-Reliability Engineer
+Skillspark AB,Remote Opportunity as a Windows Site Reliability Engineer,Bengaluru,850000.0,"Microsoft Windows Server, CI/CD, Performance tuning, Ansible, DevOps",5.0,Site-Reliability Engineer
+Arting Digital Private Limited,Site Reliability Engineer,Bengaluru,600000.0,"Azure, Incident management, Google Cloud Platform, Analysis skills, Scripting",4.7,Site-Reliability Engineer
+NCR,Site Reliability Engineer,Hyderābād,0.0,"CI/CD, Cloud infrastructure, Node.js, Kubernetes, Kanban",3.4,Site-Reliability Engineer
+SingleStore,"Site Reliability Engg. (Go, Python, K8s, IaC)",Hyderābād,600000.0,"Azure, Go, Cloud architecture, Software troubleshooting, Kubernetes",3.9,Site-Reliability Engineer
+Booking Holdings,Site Reliability Engineer II - Fintech,Bengaluru,900000.0,"Software deployment, System design, Design patterns",4.1,Site-Reliability Engineer
+Phenom People,Site Reliability Engineer I,Hyderābād,750000.0,"CI/CD, Ant, Kubernetes, Ansible, Software deployment",4.0,Site-Reliability Engineer
+Neptune Retail Solutions,Site Reliability Engineer,India,0.0,"TCP, Cassandra, Kubernetes, Ansible, Java",2.3,Site-Reliability Engineer
+Micron,Site Reliability Engineer,Hyderābād,700000.0,"CI/CD, Azure, Go, Kubernetes, Ansible",3.8,Site-Reliability Engineer
+Hexagon AB,Site Reliability Engineer,Hyderābād,700000.0,"CI/CD, Cloud infrastructure, System administration, Azure, Kubernetes",4.1,Site-Reliability Engineer
+BlackRock Investments,"Platform Operations/Site Reliability Engineer, Vice President",Gurgaon,850000.0,"Go, Software troubleshooting, Splunk, Leadership, Python",3.9,Site-Reliability Engineer
+Stratologon,Site Reliability Engineer,Remote,0.0,"CI/CD, Wiki systems, TCP, Cloud infrastructure, System administration",3.9,Site-Reliability Engineer
+Equifax,Site Reliability Engineer,Pune,450000.0,"CI/CD, Cloud infrastructure, Go, Kubernetes, Git",3.5,Site-Reliability Engineer
+Indusface,Engineer – Site Reliability,Bengaluru,750000.0,"Performance tuning, TCP, Cloud infrastructure, Software troubleshooting, Git",4.6,Site-Reliability Engineer
+Kosha Technohub,Site Reliability Engineer,India,0.0,"System administration, Ruby, Python",3.2,Site-Reliability Engineer
+Qualys,"Director, Site Reliability Engineer",Pune,450000.0,"CI/CD, Incident management, Kubernetes, Terraform, Continuous integration",3.7,Site-Reliability Engineer
+Prakat Solutions,Site Reliability Engineer,Mumbai,750000.0,,4.3,Site-Reliability Engineer
+Ethos Life,Site Reliability Engineer,Bengaluru,550000.0,"CI/CD, Go, Kubernetes, DevOps, Git",3.6,Site-Reliability Engineer
+Practo Technologies,Site Reliability Engineer - II,Bengaluru,800000.0,"CI/CD, System administration, Azure, Operating systems, Oracle",3.5,Site-Reliability Engineer
+Codash Solutions,Site Reliability Engineer,Remote,600000.0,"CI/CD, Azure, Incident management, Kubernetes, Ansible",,Site-Reliability Engineer
+Pitney Bowes,Enterprise Operations Center Site Reliability Engineer,Pune,600000.0,"Jira, Ansible, English, Analysis skills, Product development",3.3,Site-Reliability Engineer
+Thinkproject Holding GmbH,Site Reliability Engineer (m/f/d),Pune,400000.0,"CI/CD, Azure, Go, Software troubleshooting, Ansible",3.4,Site-Reliability Engineer
+CRED,site reliability engineer,Bengaluru,0.0,"CI/CD, System administration, Go, Kubernetes, Ansible",4.0,Site-Reliability Engineer
+Kyndryl,Site Reliability Engineer,Gurgaon,4800000.0,"Performance tuning, Operations management, Incident management, Kubernetes, Ansible",3.9,Site-Reliability Engineer
+SS&C,Site Reliability Engineer,Hyderābād,400000.0,"TCP, Oracle, Software troubleshooting, Kubernetes, Enterprise Software",3.1,Site-Reliability Engineer
+C3 AI,Site Reliability Engineer,Bengaluru,800000.0,"Azure, Cassandra, Kubernetes, Ansible, DevOps",3.4,Site-Reliability Engineer
+Altera Digital Health India,Expert Site Reliability Engineer- Req no- 1883,Pune,450000.0,Systems engineering,3.5,Site-Reliability Engineer
+TechVerito Software Solutions,Site Reliability Engineer,Pune,600000.0,"CI/CD, Cloud infrastructure, Azure, Go, Software troubleshooting",4.6,Site-Reliability Engineer
+DXC Technology,SRE - Site Reliability Engineer,Bengaluru,600000.0,"TensorFlow, Software deployment, Incident response, Machine learning, Distributed systems",3.5,Site-Reliability Engineer
+Microsoft,Senior Site Reliability Engineer,Hyderābād,3000000.0,"System administration, Azure, Kubernetes, PaaS, Agile",4.2,Site-Reliability Engineer
+Element Skills,Site Reliability Engineer,Mumbai,250000.0,"Software troubleshooting, Internet of things, Software deployment, Electrical experience, Product demos",,Site-Reliability Engineer
+Altizon Systems,Site Reliability Engineer,Pune,750000.0,"Cloud infrastructure, Azure, Ansible, R, AWS",3.5,Site-Reliability Engineer
+Netradyne,Site Reliability Engineer (SRE),Bengaluru,900000.0,"Image processing, Go, Cloud architecture, NoSQL, Java",3.5,Site-Reliability Engineer
+Infor,"Site Reliability Engineer, Senior",Hyderābād,700000.0,"Jira, Incident management, DevOps, System design, English",4.0,Site-Reliability Engineer
+Rapid Circle,Site Reliability Engineer (SRE),Bengaluru,650000.0,"SAFe, Azure, Kubernetes, DevOps, SQL",4.3,Site-Reliability Engineer
+Qualys,"Lead, Site Reliability Engineer",Pune,450000.0,"System design, Systems engineering, Software development",3.7,Site-Reliability Engineer
+Realign LLC,Site Reliability Engineer-3,Gurgaon,650000.0,"System administration, Azure, DevOps, AWS, Systems engineering",,Site-Reliability Engineer
+LSEG (London Stock Exchange Group),Site Reliability Engineer,Bengaluru,800000.0,"Cloud infrastructure, Azure, Go, DevOps, Data structures",3.8,Site-Reliability Engineer
+Oracle,Site Reliability Engineer - Database,Bengaluru,800000.0,"Oracle, Build automation, SQL, Terraform, Perl",3.8,Site-Reliability Engineer
+First Advantage,Engineer - Site Reliability Engineering,Bengaluru,800000.0,"Azure, Management, Ansible, R, Google Cloud Platform",3.5,Site-Reliability Engineer
+Whitefield Careers,Site Reliability Engineer (SRE),Bengaluru,1500000.0,"CI/CD, TCP, Load balancing, System architecture, Windows",,Site-Reliability Engineer
+Priceline.com,Associate Site Reliability Engineer,Mumbai,1800000.0,"Rust, Cloud architecture, Kubernetes, Ansible, Load balancing",3.8,Site-Reliability Engineer
+Infosys,Infra Site Reliability Engineer,Bengaluru,0.0,"Jira, System administration, Operating systems, Node.js, Kubernetes",3.6,Site-Reliability Engineer
+Brainworks Solutions Pvt Ltd,Site Reliability Engineer,India,0.0,"FTP, SFTP, DB2, Microsoft SQL Server, Windows",,Site-Reliability Engineer
+Barclays,Site Reliability Engineer - Specialized Infrastructure,Pune,750000.0,"CI/CD, Kubernetes, Ansible, System architecture, Git",3.9,Site-Reliability Engineer
+Equifax,Site Reliability Engineer - Intermediate,Thiruvananthapuram,650000.0,"CI/CD, System administration, Go, Node.js, Kubernetes",3.5,Site-Reliability Engineer
+Amgen,Site Reliability Engineer,Hyderābād,700000.0,"CI/CD, Power BI, System administration, Azure, Kubernetes",4.1,Site-Reliability Engineer
+Bizzhype HR,Site Reliability Engineer - 5+ Experience,Pune,1850000.0,"CI/CD, Cloud infrastructure, Kubernetes, Ansible, DevOps",5.0,Site-Reliability Engineer
+ACV Auctions,Site Reliability Engineer III - Infrastructure,Chennai,650000.0,"Cloud infrastructure, System administration, Kubernetes, Load balancing, System design",3.1,Site-Reliability Engineer
+Synopsys,Site Reliability Engineering - Staff Engineer (Hyderabad),Hyderābād,1080000.0,"CI/CD, Cloud infrastructure, Go, Kubernetes, Ansible",4.0,Site-Reliability Engineer
+PepsiCo,Architect - Site Reliability Engineer- Networks,Hyderābād,1000000.0,"TCP, OSPF, Analysis skills, Network protocols, BGP",3.9,Site-Reliability Engineer
+Tally Solutions,Site Reliability Engineer (Contract) - Bangalore,Bengaluru,750000.0,"Jira, Cloud infrastructure, Azure, Tally, Sales",4.3,Site-Reliability Engineer
+UBS,Application Support & Reliability Engineer,Hyderābād,600000.0,"CI/CD, Azure, Go, Kubernetes, DevOps",3.8,Site-Reliability Engineer
+Synopsys,Site Reliability Staff Engineer,Hyderābād,0.0,"CI/CD, Cloud infrastructure, Go, Kubernetes, Ansible",4.0,Site-Reliability Engineer
+Synopsys,Senior Site Reliability Engineer,Hyderābād,1080000.0,"Performance tuning, Go, Node.js, Ansible, Git",4.0,Site-Reliability Engineer
+Morningstar,Site Reliability Engineer,Navi Mumbai,550000.0,"Azure, Ansible, DevOps, Windows, AWS",4.0,Site-Reliability Engineer
+Neuron,Site Reliability Engineer,Chennai,600000.0,"TensorFlow, CI/CD, Azure, Go, Cloud architecture",3.9,Site-Reliability Engineer
+DigiCert,Site Reliability Engineer – Platform,Bengaluru,800000.0,"CI/CD, Azure, Salt, Kubernetes, Encryption",3.9,Site-Reliability Engineer
+Fubo India,Senior Site Reliability Engineer,Bengaluru,450000.0,"Cloud infrastructure, System administration, Azure, Go, Kubernetes",3.8,Site-Reliability Engineer
+NatWest,"Lead Site Reliability Engineer, IAM, AVP",Bengaluru,850000.0,"Azure, Oracle, Ansible, DevOps, Java",4.1,Site-Reliability Engineer
+Acceldata,Associate Site Reliability Engineer - Hadoop,Bengaluru,550000.0,"Software troubleshooting, Apache Hive, Debian, Data management, Distributed systems",4.1,Site-Reliability Engineer
+DronaHQ,Site Reliability Engineer,Remote,0.0,"ASP.NET, TCP, Oracle, Go, Node.js",3.3,Site-Reliability Engineer
+Morningstar,Senior Site Reliability Engineer,Navi Mumbai,550000.0,"CI/CD, Software deployment, DevOps, Spark, Research",4.0,Site-Reliability Engineer
+Okta,Senior Site Reliability Engineer,Bengaluru,550000.0,"CI/CD, Elasticsearch, Cloud infrastructure, Go, PKI",3.6,Site-Reliability Engineer
+Aerospike,Site Reliability Engineer,Bengaluru,800000.0,"Jira, CI/CD, Elasticsearch, Azure, Go",3.3,Site-Reliability Engineer
+Toppan Merrill,Site Reliability Engineer,Chennai,500000.0,"Azure, Kubernetes, Ansible, C#, NoSQL",3.6,Site-Reliability Engineer
+Infosys,Site Reliability Engineer - QLTY,Bengaluru,950000.0,"CI/CD, Azure, Node.js, React, Kubernetes",3.6,Site-Reliability Engineer
+Aexonic Technologies,SITE RELIABILITY ENGINEER,India,0.0,"Kubernetes, AWS, Analysis skills, Distributed systems, Leadership",4.5,Site-Reliability Engineer
+Zensar Technologies,Site Reliability Engineering (SRE) Team Member,Bengaluru,0.0,"CI/CD, JUnit, Kubernetes, DevOps, IT service management",3.9,Site-Reliability Engineer
+Hutech Solutions,Site Reliability Engineer,Bengaluru,600000.0,"CI/CD, TCP, Load balancing, System architecture, Windows",4.4,Site-Reliability Engineer
+DSRC,Site Reliability Engineer,Chennai,650000.0,"Kubernetes, Encryption, English, .NET, Java",4.2,Site-Reliability Engineer
+Renovision Automation Services Pvt. Ltd,Site Reliability Engineer,Farīdābād,500000.0,"Data center experience, Azure, Node.js, Cassandra, Software deployment",3.7,Site-Reliability Engineer
+NatWest,"Site Reliability Engineer, AVP",Bengaluru,850000.0,"Azure, Software troubleshooting, Software deployment, .NET, ITIL",4.1,Site-Reliability Engineer
+Sezzle,Site Reliability Engineer (India),Delhi,3250000.0,"CI/CD, Elasticsearch, Cloud infrastructure, Go, React",3.9,Site-Reliability Engineer
+"Flexera Software, Inc.","Member of Technical Staff, Site Reliability Engineer",India,0.0,"Azure, Go, Incident management, Kubernetes, Kanban",3.7,Site-Reliability Engineer
+Kyndryl,Site Reliability Engineer - Compute,Greater Noida,4800000.0,"Ansible, Configuration management, Git, Quality assurance, Distributed systems",3.9,Site-Reliability Engineer
+Litera,Site Reliability Engineer,Ahmedabad,700000.0,"Azure, Management, PCI, IIS, SOX",3.3,Site-Reliability Engineer
+Pitney Bowes,Site Reliability Engineer,Noida,0.0,"Cisco ISE, Azure, Ansible, Load balancing, OSPF",3.3,Site-Reliability Engineer
+SIXT India,Site Reliability Engineer III,Bengaluru,800000.0,"Software troubleshooting, Kubernetes, Customer service, Git, AWS",3.5,Site-Reliability Engineer
+"Red Hat, Inc.",Principal Site Reliability Engineer,Remote,0.0,"TCP, Azure, Go, Kubernetes, Ansible",4.2,Site-Reliability Engineer
+JPMorganChase,India Technology - Site Reliability Engineer II,Mumbai,4800000.0,"CI/CD, Computer science, Kubernetes, Learning technology, Git",4.0,Site-Reliability Engineer
+Rackspace,Site Reliability Engineer III-IN,Remote,0.0,"Pricing, Software troubleshooting, Ansible, Software deployment, DevOps",3.5,Site-Reliability Engineer
+Zessta,Site Reliability Engineer,Hyderābād,650000.0,"CI/CD, System administration, Azure, Kubernetes, Customer service",4.6,Site-Reliability Engineer
+Bank of America,Site Reliability Engineer II - GBS IND,Hyderābād,850000.0,"CI/CD, Cloud infrastructure, Azure, Kubernetes, Ansible",4.0,Site-Reliability Engineer
+Cisco Systems,"Principal Site Reliability Engineer, Efficiency and Performance",Bengaluru,800000.0,"Cloud infrastructure, Go, Kubernetes, OS Kernels, AWS",4.1,Site-Reliability Engineer
+BerryBytes,Site Reliability Engineer (SRE) & DevOps Engineer,Remote,0.0,"CI/CD, Azure, Kubernetes, Ansible, Relational databases",3.4,Site-Reliability Engineer
+PhonePe,Site Reliability Engineer-NetOps,Pune,4800000.0,"Azure, Operating systems, Go, Ansible, OSPF",3.9,Site-Reliability Engineer
+Oracle,Senior Site Reliability Engineer,India,0.0,"CI/CD, Performance tuning, Cloud infrastructure, Oracle, Kubernetes",3.8,Site-Reliability Engineer
+Technology Next,Site Reliability Engineer,Gurgaon,600000.0,"CI/CD, Azure, Kubernetes, Ansible, Git",,Site-Reliability Engineer
+Akamai,Senior Reliability Engineer - Remote -,Remote,0.0,"Salt, Ansible, Firewall, Distributed systems, Terraform",4.6,Site-Reliability Engineer
+BNP Paribas,Site Reliability Engineer,Mumbai,450000.0,"CI/CD, Kubernetes, Ansible, DevOps, Analysis skills",3.8,Site-Reliability Engineer
+S&P Global,Site Reliability Engineer - O/S,Gurgaon,850000.0,"Cloud infrastructure, Ansible, AWS, Terraform, LDAP",4.1,Site-Reliability Engineer
+Pitney Bowes,Senior Site Reliability Engineer,Pune,600000.0,"Jira, CI/CD, Software troubleshooting, Kubernetes, Ansible",3.3,Site-Reliability Engineer
+Simplify360 (A Nextiva Company),Site Reliability Engineer II (Voice),Bengaluru,850000.0,"TCP, System administration, Azure, Kubernetes, XML",4.5,Site-Reliability Engineer
+Innovaccer,Site Reliability Engineer -I,Noida,800000.0,"Elasticsearch, Azure, Kubernetes, Ansible, DevOps",3.9,Site-Reliability Engineer
+Finastra USA Corporation,Expert Site Reliability Engineer,Bengaluru,650000.0,"CI/CD, Cloud infrastructure, System administration, Azure, Operating systems",4.1,Site-Reliability Engineer
+Intellion Technologies Pvt Ltd,Site Reliability Engineer Trainer needed-Parrtime,India,150000.0,"Communication skills, Teaching experience",,Site-Reliability Engineer
+Safe Securities,Site Reliability Engineer II,Delhi,0.0,"Jira, CI/CD, Cloud infrastructure, Software troubleshooting, Kubernetes",4.2,Site-Reliability Engineer
+Scandid,Site Reliability Engineer,Pune,700000.0,"Go, Node.js, React, Tomcat, iOS",4.2,Site-Reliability Engineer
+Vimeo,Senior Site Reliability Engineer (India),Bengaluru,650000.0,"Cloud infrastructure, Go, Software troubleshooting, Ansible, Data structures",3.7,Site-Reliability Engineer
+Convoso,Site Reliability Engineer,Vadodara,400000.0,"CI/CD, Data center experience, Tomcat, Configuration management, Virtualization",3.2,Site-Reliability Engineer
+Cisco ThousandEyes,"Site Reliability Engineering Manager, Efficiency and Performance",Bengaluru,800000.0,"Cloud infrastructure, AWS, Distributed systems, Terraform, Leadership",3.9,Site-Reliability Engineer
+Amgen,Principal Site Reliability Engineer,Hyderābād,700000.0,"Performance tuning, Azure, Incident management, Kubernetes, Ansible",4.1,Site-Reliability Engineer
+Zensar Technologies,"Site Reliability Engineer (SRE) _India-Pune_ 10+ Yrs., _ 1 Position",India,0.0,"CI/CD, Azure, Kubernetes, Software deployment, DevOps",3.9,Site-Reliability Engineer
+Ansira,Site reliability Engineer,Noida,450000.0,"CI/CD, Azure, Kubernetes, Git, Google Cloud Platform",3.0,Site-Reliability Engineer
+Veeam Software,"Engineering Manager, Site Reliability",Bengaluru,600000.0,"CI/CD, Cloud infrastructure, Azure, Go, Kubernetes",3.9,Site-Reliability Engineer
+Amex,Senior Site Reliability Engineer,Bengaluru,950000.0,"Elasticsearch, Azure, Go, Management, Kubernetes",4.1,Site-Reliability Engineer
+ABBYY,Software Engineer for Site Reliability,India,0.0,"Image processing, Azure, Go, Node.js, Kubernetes",2.7,Site-Reliability Engineer
+GoDaddy,Site Reliability Engineer,India,0.0,"CI/CD, Cloud infrastructure, Azure, Kubernetes, Ansible",3.7,Site-Reliability Engineer
+Metclouds Technologies,Senior Site Reliability Engineer,India,0.0,"CI/CD, System administration, Ansible, Configuration management, Firewall",3.8,Site-Reliability Engineer
+"Intercontinental Exchange Holdings, Inc.",Site Reliability Engineer,Pune,348000.0,"CI/CD, Azure, Salt, Windows, .NET",3.4,Site-Reliability Engineer
+zeotap,Senior Infra & Site Reliability Engineer,Bengaluru,850000.0,"Cloud infrastructure, Software deployment, NoSQL, Google Cloud Platform, Information security",4.3,Site-Reliability Engineer
+AutoRABIT Holding Inc.,Lead Site Reliability Engineer,Hyderābād,800000.0,"CI/CD, Elasticsearch, PCI, Kubernetes, Ansible",3.7,Site-Reliability Engineer
+Amex,Site Reliability Engineer,Bengaluru,950000.0,"Elasticsearch, Azure, Go, Management, Kubernetes",4.1,Site-Reliability Engineer
+Credit Karma,Senior Software Site Reliability Engineer I,Bengaluru,750000.0,"CI/CD, TCP, Azure, Go, Kubernetes",4.2,Site-Reliability Engineer
+Zenoti,Manager Site Reliability Engineer,Hyderābād,500000.0,"CI/CD, Ansible, DevOps, Git, Microservices",3.7,Site-Reliability Engineer
+Gamemano,Site Reliability Engineer,Noida,250000.0,"CI/CD, Cloud infrastructure, Azure, Kubernetes, Ansible",,Site-Reliability Engineer
+Optum,Lead Site Reliability Engineer,Chennai,750000.0,"CI/CD, Cloud infrastructure, Incident management, Ansible, DevOps",3.5,Site-Reliability Engineer
+"Viasat, Inc.",Site Reliability Engineer,Chennai,700000.0,"CI/CD, Cloud infrastructure, System administration, Azure, Go",3.7,Site-Reliability Engineer
+Bright Vision Technologies,Site Reliability Engineer (SRE),India,0.0,"CI/CD, System administration, Azure, Software troubleshooting, Kubernetes",,Site-Reliability Engineer
+Humantech Solutions India Pvt. Ltd.,Site Reliability Engineer,Bengaluru,600000.0,"CI/CD, TCP, Load balancing, Mobile applications, iOS",4.4,Site-Reliability Engineer
+Infosys,App Site Reliability Engineer,Bengaluru,0.0,"Jira, Azure, Oracle, Node.js, Kubernetes",3.6,Site-Reliability Engineer
+Morningstar,Lead Site Reliability Engineer,Navi Mumbai,550000.0,"CI/CD, Software troubleshooting, Software deployment, DevOps, Microservices",4.0,Site-Reliability Engineer
+Realign LLC,Lead SRE (Site Reliability Engineering) Consultant-8,Gurgaon,650000.0,"Azure, AWS, Scripting, Scalability, Communication skills",,Site-Reliability Engineer
+NVIDIA,Senior Site Reliability Engineer,Bengaluru,750000.0,"TensorFlow, CI/CD, Azure, Go, Microservices",4.5,Site-Reliability Engineer
+Visa,Sr. Site Reliability Engineer-Bigdata,Bengaluru,700000.0,"Kubernetes, Big data, Spark, Apache Hive, Java",3.9,Site-Reliability Engineer
+Booking Holdings,Senior Site Reliability Engineer,Bengaluru,900000.0,"Elasticsearch, Cloud infrastructure, Go, Cassandra, Kubernetes",4.1,Site-Reliability Engineer
+Zenoti,Lead Site Reliability Engineer,Hyderābād,500000.0,"CI/CD, Ansible, DevOps, Git, Microservices",3.7,Site-Reliability Engineer
+Unison Consulting Pte Ltd,Site Reliability Engineer,Hyderābād,800000.0,"CI/CD, Software troubleshooting, Kubernetes, Software deployment, Git",4.6,Site-Reliability Engineer
+Barracuda Networks Inc.,Senior Site Reliability Engineer,India,0.0,"CI/CD, Cloud infrastructure, Operating systems, Software troubleshooting, Ansible",3.5,Site-Reliability Engineer
+DAZN,Senior Site Reliability Engineer,Hyderābād,800000.0,"Go, Node.js, React, Git, AWS",2.9,Site-Reliability Engineer
+Okta,Senior Site Reliability Engineer - Deployer / Delivery,Bengaluru,550000.0,"CI/CD, Cloud infrastructure, System administration, Go, Kubernetes",3.6,Site-Reliability Engineer
+Zinnia,Site Reliability Engineer III,Gurgaon,800000.0,"CI/CD, Azure, Go, Kubernetes, DevOps",3.7,Site-Reliability Engineer
+Zycus,Lead Site Reliability Engineer,Bengaluru,700000.0,"Software troubleshooting, Kubernetes, Load balancing, Tomcat, Java",3.4,Site-Reliability Engineer
+Couchbase,Senior Site Reliability Engineer,Bengaluru,500000.0,"Jira, CI/CD, TCP, Go, Incident management",4.2,Site-Reliability Engineer
+Qlik,Senior Site Reliability Engineer,Bengaluru,650000.0,"Jira, Cloud infrastructure, Azure, Go, Kubernetes",3.9,Site-Reliability Engineer
+DBS Bank,"Senior Associate, Site Reliability Engineer, Consumer Banking Group Technology",Hyderābād,4800000.0,"Jira, Performance tuning, Cassandra, Visual Basic, IT service management",3.9,Site-Reliability Engineer
+BPK Tech,Senior Software Engineer (Site Reliability Engineer),Telangana,0.0,"Azure, Operating systems, DevOps, Git, Databases",4.3,Site-Reliability Engineer
+f5,Sr Site Reliability Engineer,Bengaluru,500000.0,"System administration, Azure, Kubernetes, Ansible, Load balancing",3.8,Site-Reliability Engineer
+Okta,"Staff Site Reliability Engineer, Networks",Bengaluru,550000.0,"TCP, Cloud infrastructure, Ansible, Load balancing, Firewall",3.6,Site-Reliability Engineer
+LSEG (London Stock Exchange Group),Site Reliability Engineering,Bengaluru,800000.0,"CI/CD, System administration, Azure, Oracle, Software deployment",3.8,Site-Reliability Engineer
+"Red Hat, Inc.",Site Reliability Engineer - OpenShift,Pune,700000.0,"CI/CD, TCP, Cloud infrastructure, Azure, Go",4.2,Site-Reliability Engineer
+SurveyMonkey,Senior Site Reliability Engineer - GetFeedback Digital Team,Bengaluru,900000.0,"Jira, CI/CD, Cloud infrastructure, Microsoft Excel, Azure",3.6,Site-Reliability Engineer
+Medallia,"Site Reliability Engineering, Senior",Pune,450000.0,"CI/CD, Azure, Go, Cassandra, Kubernetes",3.2,Site-Reliability Engineer
+The Scalers,Senior Site Reliability Engineer,Bengaluru,500000.0,"CI/CD, Azure, DevOps, Git, AWS",3.8,Site-Reliability Engineer
+"Flexera Software, Inc.",Site Reliability Engineer,Bengaluru,750000.0,"Azure, Incident management, Kubernetes, Kanban, DevOps",3.7,Site-Reliability Engineer
+LSEG (London Stock Exchange Group),Director - Reliability Engineering,Hyderābād,500000.0,"DevOps, Cloud development, ITIL, IT support, Mentoring",3.8,Site-Reliability Engineer
+"Red Hat, Inc.",Principal Software Site Reliability Engineer,Pune,700000.0,"System administration, Go, Kubernetes, Ansible, Kanban",4.2,Site-Reliability Engineer
+RiskInsight Consulting Pvt Ltd,Site Reliability Engineer,Hyderābād,800000.0,"System administration, Waterfall, Kubernetes, Java, Change management",4.6,Site-Reliability Engineer
+DigiCert,Site Reliability Engineer – Database,Bengaluru,800000.0,"Performance tuning, Elasticsearch, Data modeling, Azure, Cassandra",3.9,Site-Reliability Engineer
+Zenoti,Lead Site Reliability Engineer - DBA,Hyderābād,500000.0,"Microsoft Windows Server, Performance tuning, Cloud infrastructure, Azure, Cloud architecture",3.7,Site-Reliability Engineer
+Litera,Senior Site Reliability Engineer,Ahmedabad,700000.0,"TCP, Azure, Incident management, Kubernetes, Load balancing",3.3,Site-Reliability Engineer
+TE Connectivity,SR QLTY & RELIABILITY ENGINEER,Bengaluru,750000.0,"ISO 9001, Six Sigma, Quality assurance, Product development, FMEA",4.1,Site-Reliability Engineer
+Kong,Site Reliability Engineer,Bengaluru,800000.0,"CI/CD, Elasticsearch, Azure, Go, Kubernetes",3.8,Site-Reliability Engineer
+V2Solutions,Site Reliability Engineer,Mumbai,0.0,"Azure, Node.js, Kubernetes, Salesforce, Visual Studio",3.7,Site-Reliability Engineer
+Netskope,"Staff Site Reliability Engineer, Application SRE",India,0.0,"CI/CD, Cloud infrastructure, Go, Kubernetes, Ansible",4.1,Site-Reliability Engineer
+Solventum,DevOps Engineer / Site Reliability Engineer (SRE),Bengaluru,800000.0,"CI/CD, Cloud infrastructure, Azure, Go, Kubernetes",3.8,Site-Reliability Engineer
+Consilio LLC,SR Infrastructure Site Reliability Engineer,Bengaluru,850000.0,"Azure, Salt, Kubernetes, Ansible, AWS",3.2,Site-Reliability Engineer
+Mimecast,Senior Site Reliability Engineer,Bengaluru,850000.0,"CI/CD, Kubernetes, DevOps, AWS, Terraform",3.9,Site-Reliability Engineer
+First Advantage,Lead - SRE (Site Reliability Engineering),Bengaluru,800000.0,"Azure, Management, Java, Analysis skills, C++",3.5,Site-Reliability Engineer
+Saama Technologies Inc,Senior Site Reliability Engineer,Chennai,550000.0,"CI/CD, Kubernetes, Ansible, DevOps, AWS",3.6,Site-Reliability Engineer
+Hewlett Packard,Services Reliability Operations Lead (SRE),Bengaluru,500000.0,"CI/CD, Azure, Kubernetes, Ansible, Software deployment",4.1,Site-Reliability Engineer
+"Intercontinental Exchange Holdings, Inc.",Senior Site Reliability Engineer,Hyderābād,348000.0,"Microsoft Windows Server, CI/CD, Cloud infrastructure, Azure, Cloud architecture",3.4,Site-Reliability Engineer
+Movius Interactive Corporation,SRE II - Observability & Reliability,Bengaluru,800000.0,"Elasticsearch, Kubernetes, Ansible, DevOps, Data structures",3.1,Site-Reliability Engineer
+Okta,"Senior Site Reliability Engineer, Spera",India,0.0,"CI/CD, Cloud infrastructure, Kubernetes, Software deployment, Configuration management",3.6,Site-Reliability Engineer
+Risk Solutions,Consulting/Principal Site Reliability Engineer,Chennai,600000.0,"TCP, System administration, Azure, Kubernetes, Ansible",2.1,Site-Reliability Engineer
+Oracle,Principal Site Reliability Engineer,Kerala,0.0,"TCP, Oracle, Kubernetes, Ansible, Configuration management",3.8,Site-Reliability Engineer
+NCR,Site Reliability Engineer (SRE) III,Hyderābād,0.0,"CI/CD, Data center experience, Cloud infrastructure, Node.js, Incident management",3.4,Site-Reliability Engineer
+"Flexera Software, Inc.",Senior Site Reliability Engineer,Bengaluru,750000.0,"Elasticsearch, Azure, Go, Cloud architecture, Kubernetes",3.7,Site-Reliability Engineer
+Innovaccer,Site Reliability Engineer Database-II,Noida,800000.0,"Elasticsearch, Azure, Kubernetes, Ansible, Encryption",3.9,Site-Reliability Engineer
+Synopsys,"Site Reliability, Staff",Bengaluru,1770000.0,"System administration, NFS, NoSQL, Java, PHP",4.0,Site-Reliability Engineer
+Freshworks,Senior Software Engineer - Site Reliability,Chennai,700000.0,"CI/CD, System administration, Azure, Incident management, Kubernetes",3.6,Site-Reliability Engineer
+Phygital Insights,Site Reliability Engineer,Pune,550000.0,"CI/CD, Azure, Go, Kubernetes, Ansible",4.9,Site-Reliability Engineer
+Virtusa,Senior Site Reliability Engineer,Bengaluru,500000.0,"CI/CD, Computer science, Oracle, CSS, Incident management",3.7,Site-Reliability Engineer
+Autodesk,Principal Site Reliability Engineer,Bengaluru,600000.0,"Azure, Node.js, FedRAMP, Microsoft SQL Server, Windows",4.3,Site-Reliability Engineer
+Lemongrass Consulting,Principal Infrastructure / Site Reliability Engineer,India,0.0,"CI/CD, Cloud infrastructure, System administration, Azure, Incident management",4.1,Site-Reliability Engineer
+Elanco,Lead Engineer – Site Reliability Engineer,Bengaluru,600000.0,"CI/CD, Authentication, Azure, Test-driven development, Google Cloud Platform",3.8,Site-Reliability Engineer
+Equifax,Site Reliability Engineer - Career,Thiruvananthapuram,650000.0,"CI/CD, System administration, Go, Cloud architecture, Node.js",3.5,Site-Reliability Engineer
+Zycus,Manager- Site Reliability Engineering (SRE),Mumbai,500000.0,"Kubernetes, Load balancing, Tomcat, Java, Quality assurance",3.4,Site-Reliability Engineer
+Revulytics,Senior Site Reliability Engineer,Bengaluru,900000.0,"CI/CD, Incident management, Kubernetes, Git, AWS",4.0,Site-Reliability Engineer
+State Street,"Senior Site Reliability Engineer, Officer",Hyderābād,4176000.0,"Ansible, Git, Java, Analysis skills, Mentoring",3.5,Site-Reliability Engineer
+Aritha,SRE Engineer,Bengaluru,850000.0,"CI/CD, Azure, Software deployment, DevOps, Git",3.3,Site-Reliability Engineer
+Simplify360 (A Nextiva Company),Senior Site Reliability Engineer,Bengaluru,850000.0,"Jira, System administration, Software troubleshooting, React, Ansible",4.5,Site-Reliability Engineer
+Athenahealth,Senior Site Reliability Engineer - Logging Metrics and Monitoring,Bengaluru,800000.0,"Elasticsearch, Cloud infrastructure, System administration, Go, Kubernetes",4.0,Site-Reliability Engineer
+"Zeco Systems, Inc. dba Shell Recharge Solutions",Senior Site Reliability Engineer,Gurgaon,550000.0,"Azure, Go, Salt, Kubernetes, Ansible",3.8,Site-Reliability Engineer
+Pattern,Senior Site Reliability Engineer,Pune,800000.0,"CI/CD, Go, Kubernetes, Ansible, DevOps",4.6,Site-Reliability Engineer
+Integral Ad Science,Senior Site Reliability Engineer,Pune,700000.0,"CI/CD, Software troubleshooting, Big data, Spark, NoSQL",3.5,Site-Reliability Engineer
+Thomson Reuters,Senior Site Reliability Engineer,Hyderābād,750000.0,"Microsoft Windows Server, Azure, Cloud architecture, IIS, DevOps",4.1,Site-Reliability Engineer
+Pattern,Senior Site Reliability Engineer-US Shift,Pune,750000.0,"CI/CD, Go, Kubernetes, Ansible, DevOps",4.6,Site-Reliability Engineer
+Equifax,Senior Site Reliability Engineer,Pune,450000.0,"CI/CD, Cloud infrastructure, System administration, Go, Cloud architecture",3.5,Site-Reliability Engineer
+Rubrik Job Board,Senior Site Reliability Engineer - InfoSec,Bengaluru,650000.0,"CI/CD, Azure, FedRAMP, Kubernetes, Ansible",3.7,Site-Reliability Engineer
+Okta,"Senior Database Reliability Engineer, PostgreSql",Bengaluru,600000.0,"Go, Ansible, AWS, PostgreSQL, Terraform",3.6,Site-Reliability Engineer
+S&P Global,Principal Site Reliability Engineer,Gurgaon,850000.0,"Incident management, Load balancing, English, Change management, AWS",4.1,Site-Reliability Engineer
+Cvent,Lead Site Reliability Engineer,Bengaluru,850000.0,"Management, Kubernetes, Ansible, Load balancing, NoSQL",3.8,Site-Reliability Engineer
+Vonage,Sr Site Reliability Software Engineer,Bengaluru,0.0,"CI/CD, Cloud infrastructure, Go, Kubernetes, Ansible",4.1,Site-Reliability Engineer
+Acceldata,Site Reliability Engineer - Hadoop Focused,Bengaluru,550000.0,"Oracle, Software troubleshooting, Spark, openSUSE, Apache Hive",4.1,Site-Reliability Engineer
+Zycus,Staff Site Reliability Engineer,Bengaluru,700000.0,"Software troubleshooting, Kubernetes, Load balancing, Tomcat, Java",3.4,Site-Reliability Engineer
+Viasat,Site Reliability Engineer,Chennai,0.0,"CI/CD, Cloud infrastructure, System administration, Azure, Go",3.7,Site-Reliability Engineer
+Okta,"Senior Site Reliability Engineer, Spera (ISMP)",Bengaluru,0.0,"CI/CD, Cloud infrastructure, Kubernetes, Software deployment, Configuration management",3.6,Site-Reliability Engineer
+Oracle,SRE,Thiruvananthapuram,800000.0,"CI/CD, TCP, System administration, Oracle, Software troubleshooting",3.8,Site-Reliability Engineer
+Qualys,Senior Site Reliability Engineer,Pune,450000.0,"CI/CD, Search engines, Elasticsearch, Oracle, Go",3.7,Site-Reliability Engineer
+Lemongrass Consulting,Infrastructure Consultant/Site Reliability Engineer,India,0.0,"CI/CD, Cloud infrastructure, System administration, Azure, Incident management",4.1,Site-Reliability Engineer
+Netskope,"Sr. Site Reliability Engineer, Engineering Stack Support",Bengaluru,500000.0,"CI/CD, TCP, Go, Kubernetes, Ansible",4.1,Site-Reliability Engineer
+Quorum Software,Site Reliability Engineer (Hybrid Work Schedule),Pune,600000.0,"Microsoft Windows Server, Cloud infrastructure, Azure, Oracle, Cloud architecture",3.7,Site-Reliability Engineer
+GfK,Site Reliability Engineer (SRE),Pune,700000.0,"CI/CD, TCP, Cloud infrastructure, Azure, Oracle",3.6,Site-Reliability Engineer
+UKG,Lead Site Reliability Engineer,Noida,800000.0,"CI/CD, Azure, Cloud architecture, Ansible, System design",3.4,Site-Reliability Engineer
+Thomson Reuters,Associate SRE,Bengaluru,800000.0,"CI/CD, Software troubleshooting, DevOps, Windows, .NET",4.1,Site-Reliability Engineer
+Qualcomm,Staff Engineer - DevOps/Site Reliability Engineering (SRE),Hyderābād,450000.0,"CI/CD, Azure, Bamboo, Kubernetes, Ansible",3.9,Site-Reliability Engineer
+Consilio LLC,Senior Site Reliability Engineer,Bengaluru,850000.0,"CI/CD, Azure, Kubernetes, DevOps, System design",3.2,Site-Reliability Engineer
+Quorum Business Solutions,Site Reliability Engineer (Hybrid Work Schedule),Pune,600000.0,"Microsoft Windows Server, Cloud infrastructure, Azure, Oracle, Cloud architecture",3.7,Site-Reliability Engineer
+ADP,Senior Site Reliability Engineer,Chennai,700000.0,"CI/CD, System administration, Go, Ansible, Java",3.9,Site-Reliability Engineer
+Procore Technologies,Senior Site Reliability Engineer,Pune,450000.0,"Cloud infrastructure, Azure, Go, FedRAMP, Kubernetes",4.1,Site-Reliability Engineer
+Alkira,Sr. Software Engineer - SRE (India),Remote,0.0,"CI/CD, Cloud infrastructure, Azure, Incident management, Kubernetes",4.2,Site-Reliability Engineer
+Source-right,Site Reliability Engineer – Python & DevOps (NV512 RM 2566) / 5-12 Years,India,0.0,"CI/CD, Cloud architecture, Kubernetes, Software deployment, DevOps",5.0,Site-Reliability Engineer
+PhonePe,SRE,Bengaluru,4800000.0,"TCP, System administration, Salt, Kubernetes, Ansible",3.9,Site-Reliability Engineer
+TE Connectivity,MGR I QLTY & RELIABILITY ENGINEERING,Bengaluru,800000.0,"ISO 9001, Six Sigma, Quality assurance, Product development, FMEA",4.1,Site-Reliability Engineer
+Netskope,"Sr. Site Reliability Engineer, Application SRE",Bengaluru,500000.0,"CI/CD, Cloud infrastructure, Go, Kubernetes, Ansible",4.1,Site-Reliability Engineer
+BlackLine,Sr. Site Reliability Engineer,Bengaluru,550000.0,"CI/CD, ASP.NET, Azure, Go, Cloud architecture",3.2,Site-Reliability Engineer
+Kinaxis Inc.,"Manager, Site Reliability Engineering",India,0.0,"CI/CD, Cloud infrastructure, Azure, Ansible, Configuration management",4.0,Site-Reliability Engineer
+Maersk,Software Engineer - SRE,Bengaluru,900000.0,"CI/CD, Cloud infrastructure, Azure, Operating systems, Go",4.0,Site-Reliability Engineer
+Zenoti,Sr. Site Reliability Engineer (Security),Hyderābād,500000.0,"Azure, Kubernetes, Ansible, Information security, Microservices",3.7,Site-Reliability Engineer
+Zycus,Site Reliability Engineering Manager,Mumbai,500000.0,"Cloud infrastructure, Azure, NFS, Kubernetes, Java",3.4,Site-Reliability Engineer
+Infogain,SRE / Reliability Engineer (Lead),Mumbai,750000.0,"CI/CD, Azure, Incident management, Kubernetes, DevOps",3.7,Site-Reliability Engineer
+Digit88 Technologies,Principal - Site Reliability Engineer,Pune,750000.0,"CI/CD, Go, Gradle, Node.js, Cassandra",4.3,Site-Reliability Engineer
+Oracle,Principal Database Site Reliability Engineer,Bengaluru,800000.0,"CI/CD, Computer science, Oracle, Cloud architecture, Ansible",3.8,Site-Reliability Engineer
+RELX,Consulting/Principal Site Reliability Engineer,Chennai,750000.0,"TCP, System administration, Azure, Kubernetes, Ansible",4.1,Site-Reliability Engineer
+Equifax,Senior Site Reliability/DevOps Engineer,Thiruvananthapuram,900000.0,"CI/CD, Azure, Go, Incident management, Kubernetes",3.5,Site-Reliability Engineer
+Lemongrass Consulting,Senior Infrastructure / Site Reliability Engineer,India,0.0,"CI/CD, Cloud infrastructure, System administration, Azure, Incident management",4.1,Site-Reliability Engineer
+"Guidewire Software, Inc.",Senior Site Reliability Engineer - Platform Microservices Reliability,Bengaluru,650000.0,"Oracle, Go, Kubernetes, Relational databases, DevOps",4.2,Site-Reliability Engineer
+SES,"Senior Engineer, Site Reliability",Chennai,650000.0,"CI/CD, Azure, Kubernetes, PaaS, English",4.2,Site-Reliability Engineer
+Workday,"Manager, Database Reliability Engineering",Chennai,1170000.0,"Jira, Git, Databases, Database administration, AWS",4.1,Site-Reliability Engineer
+Blue Yonder,"Staff Software Engineer I (Devops, Site Reliability Engineering)",Bengaluru,750000.0,"CI/CD, Elasticsearch, Azure, Cloud architecture, Gradle",4.0,Site-Reliability Engineer
+OutSystems,Senior Software Engineer - Site Reliability,Bengaluru,750000.0,"Go, Kubernetes, C#, English, .NET",3.9,Site-Reliability Engineer
+Sensys Technologies Pvt. Ltd,SRE-Disaster recovery,Bengaluru,1100000.0,"CI/CD, Kubernetes, Ansible, Software deployment, DevOps",,Site-Reliability Engineer
+Session AI,Site Reliability Engineer II,Mumbai,700000.0,"Performance tuning, Elasticsearch, System administration, Azure, Node.js",3.9,Site-Reliability Engineer
+Zycus,Senior Site Reliability Engineer,Bengaluru,700000.0,"JBoss, Lucene, TCP, Data center experience, React",3.4,Site-Reliability Engineer
+Zycus,Principal Site Reliability Engineer,Bengaluru,700000.0,"Software troubleshooting, Kubernetes, Load balancing, Tomcat, Java",3.4,Site-Reliability Engineer
+RELX,Senior Site Reliability Engineer I,Chennai,750000.0,"System administration, Azure, Kubernetes, Ansible, Docker",4.1,Site-Reliability Engineer
+Risk Solutions,Senior Site Reliability Engineer I,Chennai,600000.0,"System administration, Azure, Kubernetes, Ansible, Docker",2.1,Site-Reliability Engineer
+Procore,Senior Site Reliability Engineer,Pune,450000.0,"Cloud infrastructure, Azure, Go, FedRAMP, Kubernetes",4.1,Site-Reliability Engineer
+Athenahealth,Site Reliability Engineering Manager,Bengaluru,750000.0,"Cloud infrastructure, Go, Management, Kubernetes, Ansible",4.0,Site-Reliability Engineer
+McCain Foods Limited,SRE Engineer,Delhi,0.0,"CI/CD, Azure, Salt, Kubernetes, Ansible",3.9,Site-Reliability Engineer
+LSEG (London Stock Exchange Group),"SRE Engineering Lead, Manager",Hyderābād,750000.0,"Cloud infrastructure, Azure, AWS",3.8,Site-Reliability Engineer
+Microsoft,Senior reliability Engineer,Bengaluru,650000.0,"Azure, Software troubleshooting, Visual Studio, C#, Microsoft SQL Server",4.2,Site-Reliability Engineer
+Goldman Sachs,Software Engineer (Windows) - Associate - Core Engineering - SRE Platforms,Bengaluru,550000.0,"Elasticsearch, Data structures, C#, Microsoft SQL Server, MongoDB",3.9,Site-Reliability Engineer
+Synopsys,"SRE, Staff",Hyderābād,1080000.0,"CI/CD, Cloud infrastructure, Go, Node.js, Kubernetes",4.0,Site-Reliability Engineer
+Verve,Senior Engineer (SRE/DevOps),Bengaluru,550000.0,"CI/CD, Rust, Go, Kubernetes, Git",3.1,Site-Reliability Engineer
+Ford Motor Company,SRE - Software Engineer,Chennai,750000.0,"CI/CD, Power BI, System administration, Azure, Go",4.0,Site-Reliability Engineer
+Circles.Life,"Software Engineer II, Application SRE",Bengaluru,500000.0,"CI/CD, Azure, Go, Software troubleshooting, React",2.7,Site-Reliability Engineer
+Acoustic,Senior Site Reliability Engineer,Pune,650000.0,"Performance tuning, Oracle, Go, Software troubleshooting, Kubernetes",3.3,Site-Reliability Engineer
+Netskope,Sr. Data SRE,Bengaluru,500000.0,"CI/CD, Go, Cassandra, Kubernetes, NoSQL",4.1,Site-Reliability Engineer
+"Zeco Systems, Inc. dba Shell Recharge Solutions",Lead Site Reliability Engineer,Gurgaon,550000.0,"Azure, Go, Salt, Kubernetes, Ansible",3.8,Site-Reliability Engineer
+Entain plc,SRE Manager,India,0.0,"Jira, CI/CD, Oracle, Ansible, Encryption",3.5,Site-Reliability Engineer
+Booking Holdings,Engineering Manager - SRE,Bengaluru,650000.0,"Go, Management, Java, Microservices, OOP",4.1,Site-Reliability Engineer
+Bahwan Cybertek Group,DevOps / SRE with Python,Bengaluru,2550000.0,"CI/CD, System administration, Azure, Software troubleshooting, Kubernetes",4.1,Site-Reliability Engineer
+NOKIA,Head of SRE Platform Engineering,India,0.0,"CI/CD, Program management, Cloud infrastructure, Azure, Customer service",4.0,Site-Reliability Engineer
+LSEG (London Stock Exchange Group),"Principal SRE Engineer, Manager",Hyderābād,800000.0,"Cloud infrastructure, Azure, AWS",3.8,Site-Reliability Engineer
+Synopsys,"Site Reliability Engineering, Sr. Staff",Hyderābād,1080000.0,"CI/CD, Cloud infrastructure, Go, Gradle, Node.js",4.0,Site-Reliability Engineer
+Pattern,Senior Site Reliability Engineer-SAAS,Pune,750000.0,"CI/CD, Go, Kubernetes, Ansible, DevOps",4.6,Site-Reliability Engineer
+AT&T,Sr Specialist App/Prod Support-- SITE RELIABILITY ENGINEER,Hyderābād,700000.0,"CI/CD, Salesforce Marketing Cloud, Azure, Kubernetes, Sales",3.4,Site-Reliability Engineer
