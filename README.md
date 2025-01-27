@@ -9,6 +9,14 @@ This project analyzes trends in the tech job market, focusing on:
 - **Skills and Salary** analysis
 - **Remote Jobs VS Onsite Jobs** analysis
 
+## 📂 Files and their Purposes:
+- **analysis_files** contains jupyter notebook and the analysis for popular jobs
+- **joining_data** contains CSV files that were considered in the analysis file
+- **separated_jobs** contains CSV files that were scraped from Glassdoor and separated on job_roles.
+- **data_cleaning.ipynb** we cleaned the collected data(converted per month, per hour salary into per year, removed unwanted characters and so on)
+- **data_extraction.ipynb** contains code for extracting data from Glassdoor website
+- **separating_job_role.ipynb** contains code for separating the data according to job roles 
+
 ## 📂 Dataset
 We will collect and analyze datasets related to tech jobs, sourced from:
 - Online job portals (Glassdoor)
@@ -27,9 +35,9 @@ We will collect and analyze datasets related to tech jobs, sourced from:
 - Swarm Chart for salary vs skills
 
 ## 🛠️ Technologies Used
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Data Scraping** (BeautifulSoup, Selenium)
-- **Visualization** (Matplotlib, Seaborn, Plotly)
+- **Visualization** (Matplotlib, Seaborn)
 
 ## 🎯 Goals
 - Identify the best-paying tech jobs
@@ -47,6 +55,11 @@ Open to collaboration! If you want to contribute, feel free to:
 - Suggest new data sources 📂
 - Improve predictive models 📈
 - Enhance visualizations 🎨
+
+## 📢 Follow Us
+Stay updated with our latest findings and insights!
+- **Rhythm Bhetwal**: [LinkedIn](https://www.linkedin.com/in/rhythm-bhetwal-957a7826a/)
+- **Nabin Koirala**: [LinkedIn](https://www.linkedin.com/in/nabin-koirala-71b179277/)
 
 ---
 📌 **Stay tuned for updates!** 🚀
