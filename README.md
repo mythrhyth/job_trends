@@ -63,11 +63,5 @@ This project is open-source under the MIT License.
 Stay updated with our latest findings and insights!
 - **Rhythm Bhetwal**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rhythm-bhetwal-957a7826a/)
 - **Nabin Koirala**:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nabin-koirala-71b179277/)
-
-
-Stay updated with our latest findings and insights!
-- **Rhythm Bhetwal**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rhythm-bhetwal-957a7826a/)
-- **Nabin Koirala**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nabin-koirala-71b179277/)
-
 ---
 📌 **Stay tuned for updates!** 🚀
